@@ -26,7 +26,7 @@ Daily Count provides a running tally of equipment losses by type.
 
 #### total_by_system.csv
 
-This dataset includes one row for each unique observation scraped from the website. A unique row is defined as a unique combination of `country`, `origin`, `system`, `status`, and `date_recorded`.
+This dataset includes one row for each unique observation scraped from the website. A unique row is defined as a unique combination of `country`, `origin`, `system`, `status`, `url`.
 
 | Variable      | Variable Type | Description                                                                                                          |
 |---------------|---------------|----------------------------------------------------------------------------------------------------------------------|
