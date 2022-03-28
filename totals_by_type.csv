@@ -1,0 +1,52 @@
+country,equipment_type,destroyed,abandoned,captured,damaged,type_total
+Russia,All Types,985,232,732,37,1986
+Russia,Tanks,131,42,131,6,310
+Russia,Armoured Fighting Vehicles,108,34,87,0,229
+Russia,Infantry Fighting Vehicles,165,29,107,2,303
+Russia,Armoured Personnel Carriers,19,17,41,0,77
+Russia,Mine-Resistant Ambush Protected,4,3,0,0,7
+Russia,Infantry Mobility Vehicles,36,5,20,2,63
+Russia,Communications Stations,3,4,0,0,7
+Russia,Engineering Vehicles And Equipment,18,11,31,0,60
+Russia,Anti-Tank Guided Missiles,0,24,39,0,63
+Russia,"Man-Portable Air Defence Systems
+",0,0,24,0,24
+Russia,Heavy Mortars,0,0,0,0,0
+Russia,Towed Artillery,8,5,27,2,42
+Russia,Self-Propelled Artillery,18,15,24,2,59
+Russia,Multiple Rocket Launchers,15,5,15,0,35
+Russia,Anti-Aircraft Guns,0,0,0,0,0
+Russia,Self-Propelled Anti-Aircraft Guns,5,3,0,0,8
+Russia,Surface-To-Air Missile Systems,20,7,12,1,40
+Russia,Radars,1,0,0,0,1
+Russia,Jammers And Deception Systems,2,0,0,2,4
+Russia,Aircraft,15,0,0,0,15
+Russia,Helicopters,31,0,0,3,34
+Russia,Unmanned Aerial Vehicles,11,0,0,0,11
+Russia,Naval Ships,1,0,0,0,1
+Russia,Logistics Trains,0,0,0,0,0
+Russia,"Trucks, Vehicles and Jeeps",369,59,185,16,629
+Ukraine,All Types,225,37,296,16,574
+Ukraine,Tanks,26,9,42,0,77
+Ukraine,Armoured Fighting Vehicles,22,4,35,0,61
+Ukraine,Infantry Fighting Vehicles,26,9,23,2,60
+Ukraine,Armoured Personnel Carriers,5,2,21,0,28
+Ukraine,Infantry Mobility Vehicles,7,1,23,1,32
+Ukraine,Engineering Vehicles,1,0,0,0,1
+Ukraine,Anti-tank Guided Missiles,0,0,51,0,51
+Ukraine,"Man-Portable Air Defence Systems
+",0,0,16,0,16
+Ukraine,Towed Artillery,8,3,11,3,25
+Ukraine,Self-Propelled Artillery,7,1,0,1,9
+Ukraine,Multiple Rocket Launchers,1,0,0,0,1
+Ukraine,Anti-Aircraft Guns,0,0,0,0,0
+Ukraine,"Self-Propelled Anti-Aircraft Guns
+",0,0,0,0,0
+Ukraine,"Surface-To-Air Missile Systems
+",15,2,0,0,17
+Ukraine,Radars,6,0,0,3,9
+Ukraine,Aircraft,11,0,0,0,11
+Ukraine,Helicopters,0,0,0,0,0
+Ukraine,Unmanned Aerial Vehicles,7,0,0,0,7
+Ukraine,Naval Ships,2,0,11,0,13
+Ukraine,"Trucks, Vehicles and Jeeps",67,5,109,5,186
