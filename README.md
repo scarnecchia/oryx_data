@@ -36,7 +36,3 @@ This dataset includes one row for each unique observation scraped from the websi
 | status        | character     | The status of the system. Valid values are: destroyed, abandoned, damaged, or captured                               |
 | url           | character     | A url to the image used to verify the status of the equipment                                                        |
 | date_recorded | date          | Date the count was recorded stored as YYYY-MM-DD                                                                     |
-| sysID         | numeric       | A unique id number assigned to distinct observations of variable `system`                                            |
-| imageID       | numeric       | A unique id number assigned to distinct observations of variable `url`                                               |
-| matID         | numeric       | A unique id number created by concatenating `sysID` and `imageID`                                                    |
-| statusID      | character     | A unique id created by concatenating the country code of `country` to `matID` and the row number of the observation. |
