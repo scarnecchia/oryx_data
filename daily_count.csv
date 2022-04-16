@@ -6,6 +6,7 @@ Russia,Aircraft,15,0,0,0,15,2022-03-27,0,0,0,0,0
 Russia,Aircraft,16,0,0,0,16,2022-03-28,1,0,0,0,1
 Russia,Aircraft,16,0,0,1,17,2022-03-29,0,0,0,1,1
 Russia,Aircraft,19,0,0,1,20,2022-04-04,3,0,0,0,3
+Russia,Aircraft,20,0,0,1,21,2022-04-15,1,0,0,0,1
 Russia,All Types,0,0,0,0,0,2022-02-23,0,0,0,0,0
 Russia,All Types,769,224,587,30,1610,2022-03-19,769,224,587,30,1610
 Russia,All Types,959,232,698,35,1924,2022-03-26,190,8,111,5,314
@@ -25,6 +26,7 @@ Russia,All Types,1443,233,1031,39,2746,2022-04-10,24,-3,23,0,44
 Russia,All Types,1456,234,1041,39,2770,2022-04-11,13,1,10,0,24
 Russia,All Types,1538,236,1066,44,2884,2022-04-13,82,2,25,5,114
 Russia,All Types,1545,237,1071,44,2897,2022-04-14,7,1,5,0,13
+Russia,All Types,1548,237,1070,44,2899,2022-04-15,3,0,-1,0,2
 Russia,Anti-Aircraft Guns,0,0,0,0,0,2022-02-23,0,0,0,0,0
 Russia,Anti-Aircraft Guns,0,0,0,0,0,2022-03-19,0,0,0,0,0
 Russia,Anti-Aircraft Guns,0,0,0,0,0,2022-03-26,0,0,0,0,0
@@ -54,6 +56,7 @@ Russia,Armoured Fighting Vehicles,121,28,106,0,255,2022-04-10,-17,-4,-13,0,-34
 Russia,Armoured Fighting Vehicles,122,28,106,0,256,2022-04-11,1,0,0,0,1
 Russia,Armoured Fighting Vehicles,128,29,106,0,263,2022-04-13,6,1,0,0,7
 Russia,Armoured Fighting Vehicles,129,29,106,0,264,2022-04-14,1,0,0,0,1
+Russia,Armoured Fighting Vehicles,129,29,105,0,263,2022-04-15,0,0,-1,0,-1
 Russia,Armoured Personnel Carriers,0,0,0,0,0,2022-02-23,0,0,0,0,0
 Russia,Armoured Personnel Carriers,24,14,38,0,76,2022-03-19,24,14,38,0,76
 Russia,Armoured Personnel Carriers,19,17,40,0,76,2022-03-26,-5,3,2,0,0
@@ -114,6 +117,7 @@ Russia,Helicopters,31,2,0,3,36,2022-03-30,1,0,0,0,1
 Russia,Helicopters,33,2,0,3,38,2022-04-01,2,0,0,0,2
 Russia,Helicopters,33,1,1,3,38,2022-04-04,0,-1,1,0,0
 Russia,Helicopters,28,1,1,2,32,2022-04-06,-5,0,0,-1,-6
+Russia,Helicopters,29,1,1,2,33,2022-04-15,1,0,0,0,1
 Russia,Infantry Fighting Vehicles,0,0,0,0,0,2022-02-23,0,0,0,0,0
 Russia,Infantry Fighting Vehicles,114,32,84,2,232,2022-03-19,114,32,84,2,232
 Russia,Infantry Fighting Vehicles,157,29,103,2,291,2022-03-26,43,-3,19,0,59
@@ -180,6 +184,7 @@ Russia,Mine-Resistant Ambush Protected,9,3,7,0,19,2022-04-04,0,0,2,0,2
 Russia,Mine-Resistant Ambush Protected,10,3,7,0,20,2022-04-06,1,0,0,0,1
 Russia,Mine-Resistant Ambush Protected,11,3,7,0,21,2022-04-07,1,0,0,0,1
 Russia,Mine-Resistant Ambush Protected,12,3,7,0,22,2022-04-13,1,0,0,0,1
+Russia,Mine-Resistant Ambush Protected,13,3,7,0,23,2022-04-15,1,0,0,0,1
 Russia,Multiple Rocket Launchers,0,0,0,0,0,2022-02-23,0,0,0,0,0
 Russia,Multiple Rocket Launchers,14,4,12,0,30,2022-03-19,14,4,12,0,30
 Russia,Multiple Rocket Launchers,15,5,14,0,34,2022-03-26,1,1,2,0,4
@@ -329,6 +334,7 @@ Ukraine,All Types,333,37,334,24,728,2022-04-10,10,0,1,0,11
 Ukraine,All Types,339,35,342,23,739,2022-04-11,6,-2,8,-1,11
 Ukraine,All Types,353,35,363,23,774,2022-04-13,14,0,21,0,35
 Ukraine,All Types,365,35,366,23,789,2022-04-14,12,0,3,0,15
+Ukraine,All Types,365,35,367,23,790,2022-04-15,0,0,1,0,1
 Ukraine,Anti-Aircraft Guns,0,0,0,0,0,2022-02-23,0,0,0,0,0
 Ukraine,Anti-Aircraft Guns,0,0,0,0,0,2022-03-19,0,0,0,0,0
 Ukraine,Anti-Aircraft Guns,0,0,0,0,0,2022-03-26,0,0,0,0,0

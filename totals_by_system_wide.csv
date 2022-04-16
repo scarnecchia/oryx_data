@@ -103,9 +103,9 @@ Russia,IMR-2 combat engineering vehicle,117,0,45,78,240
 Russia,IMR-3 combat engineering vehicle,5,0,0,0,5
 Russia,Iveco LMV 'Rys',81,66,471,33,651
 Russia,K-53949 'Linza',54,0,3,0,57
-Russia,K-53949 'Typhoon-K',0,0,27,0,27
+Russia,K-53949 'Typhoon-K',0,0,28,0,28
 Russia,K-53949 Typhoon-K,66,0,33,33,132
-Russia,Ka-52 'Alligator' attack helicopter,3,103,151,67,324
+Russia,Ka-52 'Alligator' attack helicopter,3,103,152,67,325
 Russia,KamAZ 4x4,82,0,66,33,181
 Russia,KamAZ 4x4 tanker,0,0,3,0,3
 Russia,KamAZ 6x6,2538,462,3203,660,6863
@@ -128,6 +128,7 @@ Russia,MT-LB,2013,0,990,627,3630
 Russia,MT-LB Ambulance,0,0,51,0,51
 Russia,MT-LB with ZU-23 AA gun,21,0,101,0,122
 Russia,MT-LBM 6MB,0,0,12,33,45
+Russia,MT-LBVM and MT-LBVMK,1,0,0,0,1
 Russia,MT-LBu,270,0,240,132,642
 Russia,MTU-72 bridge layer,34,0,0,0,34
 Russia,Mi-24V/P attack helicopter,0,0,99,0,99
@@ -161,7 +162,7 @@ Russia,RKhM-6 Povozka,0,0,4,0,4
 Russia,SNAR-10M1 battlefield surveillance radar,3,0,0,0,3
 Russia,Su-25 close air support aircraft,0,33,237,0,270
 Russia,Su-30SM multirole aircraft,0,0,132,0,132
-Russia,Su-34 strike aircraft,0,0,138,0,138
+Russia,Su-34 strike aircraft,0,0,140,0,140
 Russia,Su-35 multirole aircraft,0,0,3,0,3
 Russia,T-64BV,120,33,195,0,348
 Russia,T-72A,252,0,89,0,341
@@ -281,7 +282,7 @@ Ukraine,Buk-M1,0,0,66,0,66
 Ukraine,FGM-148 Javelin,165,0,0,0,165
 Ukraine,GAZ-3308,33,0,0,0,33
 Ukraine,GAZ-66,597,99,354,99,1149
-Ukraine,Gyurza-M class gunboat,66,0,0,0,66
+Ukraine,Gyurza-M class gunboat,67,0,0,0,67
 Ukraine,HMMWV,149,75,111,0,335
 Ukraine,HMMWV Ambulance,2,1,0,0,3
 Ukraine,IMR-2 combat engineering vehicle,1,0,0,0,1
