@@ -1,5 +1,5 @@
 country,system,captured,damaged,destroyed,abandoned,total
-Russia,(Unknown) vehicle,33,1,388,0,422
+Russia,(Unknown) vehicle,33,1,389,0,423
 Russia,100mm MT-12 anti-tank gun,33,0,0,0,33
 Russia,120mm 2B11/2S12,165,0,34,0,199
 Russia,120mm 2B11/2S12A,33,0,0,0,33
@@ -62,7 +62,7 @@ Russia,An-26 transport aircraft,0,0,33,0,33
 Russia,Armoured SUV,33,33,0,0,66
 Russia,BAT-2 heavy engineering vehicle,1,0,33,0,34
 Russia,BMD-1KSh-A command vehicle,0,0,36,0,36
-Russia,BMD-2,960,66,870,231,2127
+Russia,BMD-2,961,66,870,231,2128
 Russia,BMD-4M,345,3,326,33,707
 Russia,BMK-130M/BMK-150 towing and motor boat,0,0,3,33,36
 Russia,BMO-T,0,0,1,0,1
@@ -94,12 +94,12 @@ Russia,Forpost reconnaissance UAV,0,0,33,0,33
 Russia,Fuel train,0,0,66,0,66
 Russia,GAZ Sobol,0,0,33,33,66
 Russia,GAZ Tigr,0,0,0,33,33
-Russia,GAZ Tigr-M,631,147,892,99,1769
+Russia,GAZ Tigr-M,632,147,892,99,1770
 Russia,GAZ-3308,0,0,0,99,99
 Russia,GAZ-3344-20 'Aleut' articulated tracked carrier,0,0,15,0,15
 Russia,GAZ-66,134,0,104,33,271
 Russia,GMZ-3 minelayer,33,0,0,0,33
-Russia,IMR-2 combat engineering vehicle,117,0,45,78,240
+Russia,IMR-2 combat engineering vehicle,118,0,45,78,241
 Russia,IMR-3 combat engineering vehicle,5,0,0,0,5
 Russia,Iveco LMV 'Rys',81,66,471,33,651
 Russia,K-53949 'Linza',54,0,3,0,57
@@ -128,7 +128,7 @@ Russia,MT-LB,2013,0,990,627,3630
 Russia,MT-LB Ambulance,0,0,51,0,51
 Russia,MT-LB with ZU-23 AA gun,21,0,101,0,122
 Russia,MT-LBM 6MB,0,0,12,33,45
-Russia,MT-LBVM and MT-LBVMK,1,0,0,0,1
+Russia,MT-LBVM and MT-LBVMK,11,0,2,2,15
 Russia,MT-LBu,270,0,240,132,642
 Russia,MTU-72 bridge layer,34,0,0,0,34
 Russia,Mi-24V/P attack helicopter,0,0,99,0,99
@@ -151,7 +151,7 @@ Russia,Project 1171 Tapir class landing ship 'Saratov (BDK-65)',0,0,33,0,33
 Russia,Project 775 Ropucha class landing ship,0,33,0,0,33
 Russia,R-145BM1 command vehicle,3,0,9,0,12
 Russia,R-149AKSh-1 command and signals vehicle,0,0,9,0,9
-Russia,R-149MA1 command and staff vehicle,236,33,184,99,552
+Russia,R-149MA1 command and staff vehicle,236,33,185,99,553
 Russia,R-149MA3 command and staff vehicle,168,66,186,0,420
 Russia,R-166-0.5 signals vehicle,70,0,48,33,151
 Russia,R-330BMV Borisoglebsk-2B,33,33,33,0,99
@@ -167,13 +167,13 @@ Russia,Su-35 multirole aircraft,0,0,3,0,3
 Russia,T-64BV,120,33,195,0,348
 Russia,T-72A,252,0,89,0,341
 Russia,T-72AV,43,0,99,0,142
-Russia,T-72B,934,116,835,198,2083
+Russia,T-72B,934,116,836,198,2084
 Russia,T-72B Obr. 1989,272,70,299,153,794
 Russia,T-72B3,661,120,670,180,1631
-Russia,T-72B3 Obr. 2016,1261,66,1202,231,2760
+Russia,T-72B3 Obr. 2016,1261,66,1203,231,2761
 Russia,T-80BV,192,0,175,84,451
 Russia,T-80BVM,447,0,167,33,647
-Russia,T-80U,756,90,387,462,1695
+Russia,T-80U,757,90,387,462,1696
 Russia,T-80UK,33,0,33,33,99
 Russia,T-80UM2,0,0,33,0,33
 Russia,T-90A,251,0,330,132,713
@@ -188,7 +188,7 @@ Russia,UAZ-469,36,0,117,33,186
 Russia,UR-77 'Meterorit' mine clearing vehicle,168,0,90,33,291
 Russia,Unknown AFV,33,0,880,66,979
 Russia,Unknown BMP-1/2,0,0,137,0,137
-Russia,Unknown BTR-80/BTR-82A,0,0,136,1,137
+Russia,Unknown BTR-80/BTR-82A,0,0,137,1,138
 Russia,Unknown BTR-D/BMD-2,33,0,441,0,474
 Russia,Unknown Buk SAM system,0,0,19,0,19
 Russia,Unknown Mi-24/35 attack helicopter,0,33,66,0,99
@@ -216,11 +216,11 @@ Russia,ZSU-23-4 'Shilka',32,3,0,0,35
 Russia,ZiL-131,12,12,132,66,222
 Ukraine,100mm MT-12 anti-tank gun,66,0,33,33,132
 Ukraine,120mm BTR-3M2,33,0,33,0,66
-Ukraine,122mm 2S1 Gvozdika,132,33,165,33,363
+Ukraine,122mm 2S1 Gvozdika,132,33,166,33,364
 Ukraine,122mm BM-21 'Grad',66,0,102,0,168
 Ukraine,122mm D-30 howitzer,0,0,33,0,33
 Ukraine,152mm 2A36 Giatsint-B field-gun,0,0,0,33,33
-Ukraine,152mm 2A65 Msta-B howitzer,0,0,0,66,66
+Ukraine,152mm 2A65 Msta-B howitzer,1,0,0,66,67
 Ukraine,152mm 2S19 Msta-S,0,0,36,0,36
 Ukraine,152mm 2S3 Akatsiya,34,0,0,0,34
 Ukraine,152mm 2S5 Giatsint-S,33,0,0,0,33
@@ -261,7 +261,7 @@ Ukraine,BAT-2 heavy engineering vehicle,33,0,0,0,33
 Ukraine,BMD-2,3,0,0,0,3
 Ukraine,BMK-150 towing and motor boat,33,0,0,0,33
 Ukraine,BMP-1 BM,0,0,33,0,33
-Ukraine,BMP-1(P),181,45,539,198,963
+Ukraine,BMP-1(P),181,45,540,198,964
 Ukraine,BMP-1Khs,0,0,33,0,33
 Ukraine,BMP-1TS,0,0,36,0,36
 Ukraine,BMP-1U 'Shkval',3,0,0,0,3
@@ -273,10 +273,10 @@ Ukraine,BSEM-4K,0,0,33,0,33
 Ukraine,BTR-3,69,3,108,0,180
 Ukraine,BTR-4,478,33,288,66,865
 Ukraine,BTR-60,132,0,0,0,132
-Ukraine,BTR-70,214,15,33,33,295
-Ukraine,BTR-80,236,0,136,0,372
+Ukraine,BTR-70,215,15,33,33,296
+Ukraine,BTR-80,239,0,137,0,376
 Ukraine,BTR-D,1,0,1,0,2
-Ukraine,BTS-4 ARV,1,0,0,0,1
+Ukraine,BTS-4 ARV,2,0,0,0,2
 Ukraine,Bayraktar TB2 UCAV,0,0,60,0,60
 Ukraine,Buk-M1,0,0,66,0,66
 Ukraine,FGM-148 Javelin,165,0,0,0,165
@@ -311,14 +311,14 @@ Ukraine,MT-LB with ZU-23 AA gun,36,0,3,0,39
 Ukraine,MT-LBu,66,33,66,33,198
 Ukraine,Mi-2 transport helicopter,3,0,0,0,3
 Ukraine,Mi-24 attack helicopter,0,0,33,0,33
-Ukraine,Mi-8 transport helicopter,0,0,15,0,15
+Ukraine,Mi-8 transport helicopter,0,0,16,0,16
 Ukraine,MiG-29 fighter aircraft,0,0,105,0,105
 Ukraine,Novator,84,33,84,0,201
 Ukraine,P-14 'Tall King',0,33,0,0,33
 Ukraine,P-19 'Flat Face B',0,0,33,0,33
 Ukraine,P-35/37 'Bar Lock',0,0,33,0,33
 Ukraine,PRV-13 'Odd Pair',0,0,33,0,33
-Ukraine,Pr.304 Amur Class command ship 'Donbas' ''U-500'',0,6,0,0,6
+Ukraine,Pr.304 Amur Class command ship 'Donbas' ''U-500'',0,6,1,0,7
 Ukraine,"R-410-7,5 tropospheric radio relay communication station",0,0,3,0,3
 Ukraine,RK-3 Corsar,117,0,0,0,117
 Ukraine,RKhM 'Kashalot',33,0,15,0,48
@@ -334,7 +334,7 @@ Ukraine,Su-27/MiG-29 fighter aircraft,0,0,3,0,3
 Ukraine,T-64B1M,0,33,0,33,66
 Ukraine,T-64BM 'Bulat',0,0,30,0,30
 Ukraine,T-64BM2 'Bulat',0,0,15,0,15
-Ukraine,T-64BV,904,84,811,231,2030
+Ukraine,T-64BV,908,84,814,231,2037
 Ukraine,T-72 'Ural',0,3,0,0,3
 Ukraine,T-72AMT,96,0,57,0,153
 Ukraine,T-72AV,0,0,66,0,66
@@ -350,7 +350,7 @@ Ukraine,UJ-22 reconnaissance UAV,0,0,33,0,33
 Ukraine,Unknown AFV,0,0,249,0,249
 Ukraine,Unknown BTR,0,0,0,33,33
 Ukraine,Unknown SPG,0,0,3,0,3
-Ukraine,Unknown tank,0,0,57,0,57
+Ukraine,Unknown tank,0,0,58,0,58
 Ukraine,Unknown towed artillery,0,66,132,0,198
 Ukraine,Unknown truck,132,132,459,66,789
 Ukraine,Unknown vehicle,0,0,194,0,194
