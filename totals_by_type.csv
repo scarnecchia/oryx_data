@@ -1,11 +1,11 @@
 country,equipment_type,destroyed,abandoned,captured,damaged,type_total
-Russia,All Types,1581,244,1121,46,2992
+Russia,All Types,1586,244,1121,46,2997
 Russia,Tanks,263,39,207,10,519
 Russia,Armoured Fighting Vehicles,144,34,128,0,306
 Russia,Infantry Fighting Vehicles,311,38,181,2,532
 Russia,Armoured Personnel Carriers,33,14,52,2,101
 Russia,Mine-Resistant Ambush Protected,13,3,7,0,23
-Russia,Infantry Mobility Vehicles,55,5,32,2,94
+Russia,Infantry Mobility Vehicles,58,5,31,2,96
 Russia,Command Posts And Communications Stations,30,8,25,0,63
 Russia,Engineering Vehicles And Equipment,34,15,60,0,109
 Russia,Heavy Mortars,4,0,8,0,12
@@ -19,19 +19,19 @@ Russia,Radars,4,0,6,0,10
 Russia,Jammers And Deception Systems,3,0,2,2,7
 Russia,Aircraft,21,0,0,1,22
 Russia,Helicopters,31,1,1,2,35
-Russia,Unmanned Aerial Vehicles,22,0,12,0,34
+Russia,Unmanned Aerial Vehicles,24,0,13,0,37
 Russia,Naval Ships,2,0,0,2,4
 Russia,Logistics Trains,2,0,0,0,2
 Russia,"Trucks, Vehicles and Jeeps",517,63,236,18,834
-Ukraine,All Types,385,36,393,22,836
+Ukraine,All Types,388,36,397,22,843
 Ukraine,Tanks,49,9,65,1,124
 Ukraine,Armoured Fighting Vehicles,28,4,44,0,76
 Ukraine,Infantry Fighting Vehicles,42,9,34,3,88
-Ukraine,Armoured Personnel Carriers,12,3,31,1,47
-Ukraine,Infantry Mobility Vehicles,20,1,42,1,64
+Ukraine,Armoured Personnel Carriers,12,3,33,1,49
+Ukraine,Infantry Mobility Vehicles,21,1,42,1,65
 Ukraine,Engineering Vehicles,2,0,10,0,12
 Ukraine,Towed Artillery,8,3,12,3,26
-Ukraine,Self-Propelled Artillery,10,1,8,4,23
+Ukraine,Self-Propelled Artillery,10,1,10,4,25
 Ukraine,Multiple Rocket Launchers,10,0,5,0,15
 Ukraine,Anti-Aircraft Guns,0,0,2,0,2
 Ukraine,"Self-Propelled Anti-Aircraft Guns
@@ -42,5 +42,5 @@ Ukraine,Radars And Communications Equipment,9,1,5,3,18
 Ukraine,Aircraft,17,0,0,1,18
 Ukraine,Helicopters,4,0,1,0,5
 Ukraine,Unmanned Aerial Vehicles,12,0,2,0,14
-Ukraine,Naval Ships,3,0,12,0,15
-Ukraine,"Trucks, Vehicles and Jeeps",109,5,124,5,243
+Ukraine,Naval Ships,4,0,12,0,16
+Ukraine,"Trucks, Vehicles and Jeeps",110,5,124,5,244

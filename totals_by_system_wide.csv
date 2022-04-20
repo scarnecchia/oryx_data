@@ -88,13 +88,13 @@ Russia,BTS-4A armoured recovery vehicle,15,0,0,0,15
 Russia,Barnaul-T 9С932-1 automated system for air defence units,111,0,0,33,144
 Russia,Civilian KamAZ 6x6 converted for military use,0,0,33,0,33
 Russia,E95M target drone (likely used as unmanned bait in order for Ukraine to reveal the location of air defence systems),33,0,0,0,33
-Russia,Eleron-3 reconnaissance UAV,120,0,0,0,120
+Russia,Eleron-3 reconnaissance UAV,121,0,0,0,121
 Russia,Fara ground surveillance radar,33,0,0,0,33
 Russia,Forpost reconnaissance UAV,0,0,33,0,33
 Russia,Fuel train,0,0,66,0,66
 Russia,GAZ Sobol,0,0,33,33,66
 Russia,GAZ Tigr,0,0,0,33,33
-Russia,GAZ Tigr-M,633,147,892,99,1771
+Russia,GAZ Tigr-M,634,147,895,99,1775
 Russia,GAZ-3308,0,0,0,99,99
 Russia,GAZ-3344-20 'Aleut' articulated tracked carrier,0,0,15,0,15
 Russia,GAZ-66,134,0,104,33,271
@@ -212,12 +212,12 @@ Russia,Ural-5323,3,0,3,0,6
 Russia,Ural-542301 tank transporter,3,0,0,33,36
 Russia,Ural-63704-0010 Tornado-U,36,0,0,33,69
 Russia,Vityaz DT-30 articulated tracked carrier,4,2,33,33,72
-Russia,ZALA Aero KUB-BLA loitering munition,0,0,132,0,132
+Russia,ZALA Aero KUB-BLA loitering munition,0,0,134,0,134
 Russia,ZSU-23-4 'Shilka',32,3,0,0,35
 Russia,ZiL-131,12,12,132,66,222
 Ukraine,100mm MT-12 anti-tank gun,66,0,33,33,132
 Ukraine,120mm BTR-3M2,33,0,33,0,66
-Ukraine,122mm 2S1 Gvozdika,132,33,166,33,364
+Ukraine,122mm 2S1 Gvozdika,134,33,166,33,366
 Ukraine,122mm BM-21 'Grad',66,0,102,0,168
 Ukraine,122mm D-30 howitzer,0,0,33,0,33
 Ukraine,152mm 2A36 Giatsint-B field-gun,0,0,0,33,33
@@ -275,7 +275,7 @@ Ukraine,BTR-3,69,3,109,0,181
 Ukraine,BTR-4,478,33,288,66,865
 Ukraine,BTR-60,132,0,0,0,132
 Ukraine,BTR-70,215,15,34,33,297
-Ukraine,BTR-80,239,0,137,0,376
+Ukraine,BTR-80,241,1,137,0,379
 Ukraine,BTR-D,1,0,1,0,2
 Ukraine,BTS-4 ARV,2,0,0,0,2
 Ukraine,Bayraktar TB2 UCAV,0,0,60,0,60
@@ -291,7 +291,7 @@ Ukraine,Il-76 transport aircraft,0,0,3,0,3
 Ukraine,Island class patrol boat P190 Slovyansk,0,0,33,0,33
 Ukraine,Island-class patrol boat P190 Slovyansk,0,0,33,0,33
 Ukraine,KamAZ,36,33,66,0,135
-Ukraine,Kozak-2,190,33,39,33,295
+Ukraine,Kozak-2,190,33,40,33,296
 Ukraine,Kozak-2M1,33,0,0,0,33
 Ukraine,KrAZ Cobra,33,0,48,0,81
 Ukraine,KrAZ Spartan,0,0,38,0,38
@@ -355,7 +355,7 @@ Ukraine,Unknown BTR,0,0,0,34,34
 Ukraine,Unknown SPG,0,0,3,0,3
 Ukraine,Unknown tank,0,0,58,0,58
 Ukraine,Unknown towed artillery,0,66,132,0,198
-Ukraine,Unknown truck,132,132,459,66,789
+Ukraine,Unknown truck,132,132,460,66,790
 Ukraine,Unknown vehicle,0,0,195,0,195
 Ukraine,Ural-375D,498,0,35,0,533
 Ukraine,Ural-4320,52,0,214,0,266
