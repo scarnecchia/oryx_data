@@ -1,7 +1,7 @@
 country,system,destroyed,damaged,abandoned,captured,total
 Russia,'Orlan-20' reconnaissance UAV,1,0,0,0,1
 Russia,(Unknown) truck,6,1,0,0,7
-Russia,(Unknown) vehicle,25,3,1,1,30
+Russia,(Unknown) vehicle,25,3,2,1,31
 Russia,100mm MT-12 anti-tank gun,1,0,0,1,2
 Russia,120mm 2B11/2S12,4,0,0,5,9
 Russia,120mm 2B11/2S12A,0,0,0,1,1
@@ -66,7 +66,7 @@ Russia,9T244 transloader (for 9A330/1 Tor),1,1,0,1,3
 Russia,9T452 transporter-loader (for BM-27 'Uragan' MRL),8,0,0,5,13
 Russia,An-26 transport aircraft,1,0,0,0,1
 Russia,Armoured SUV,0,1,0,1,2
-Russia,BAT-2 heavy engineering vehicle,2,0,0,1,3
+Russia,BAT-2 heavy engineering vehicle,2,0,0,2,4
 Russia,BMD-1KSh-A command vehicle,2,0,0,0,2
 Russia,BMD-2,53,3,7,42,105
 Russia,BMD-4M,22,1,1,16,40
@@ -79,7 +79,7 @@ Russia,BMP-1KSh command and staff vehicle,1,0,0,0,1
 Russia,BMP-1Khs,1,0,1,3,5
 Russia,BMP-2,173,11,26,64,274
 Russia,BMP-2K,0,0,1,0,1
-Russia,BMP-3,59,5,2,36,102
+Russia,BMP-3,60,5,2,37,104
 Russia,BRDM-2,1,0,0,0,1
 Russia,BREM-1 armoured recovery vehicle,0,0,2,7,9
 Russia,BREM-2 armoured recovery vehicle,0,0,0,1,1
@@ -103,7 +103,7 @@ Russia,Forpost reconnaissance UAV,1,0,0,0,1
 Russia,Fuel train,2,0,0,0,2
 Russia,GAZ Sobol,1,0,1,0,2
 Russia,GAZ Tigr,1,0,1,0,2
-Russia,GAZ Tigr-M,54,6,3,31,94
+Russia,GAZ Tigr-M,54,6,3,32,95
 Russia,GAZ-3308,0,0,3,0,3
 Russia,GAZ-3344-20 'Aleut' articulated tracked carrier,2,0,0,0,2
 Russia,GAZ-66,6,0,1,6,13
@@ -134,7 +134,7 @@ Russia,KrAZ-255B tanker,1,0,0,0,1
 Russia,KrAZ-255B with excavator,1,0,0,1,2
 Russia,MDK-3 trench-digging vehicle,0,0,0,1,1
 Russia,MP-2IM signals vehicle,0,0,1,0,1
-Russia,MT-LB,49,0,23,89,161
+Russia,MT-LB,50,0,23,90,163
 Russia,MT-LB Ambulance,2,0,0,0,2
 Russia,MT-LB with ZU-23 AA gun,5,0,0,1,6
 Russia,MT-LBM 6MB,2,0,1,0,3
@@ -156,7 +156,7 @@ Russia,PP-2005 floating bridge,6,1,2,2,11
 Russia,PPRU-1(M) '9S80(-1)' 'Sborka' (for 9K35 Strela-10),1,0,0,1,2
 Russia,PTS-3 tracked amphibious transport,3,0,4,4,11
 Russia,Pantsir-S1,5,0,1,3,9
-Russia,Pontoon bridge,6,0,1,4,11
+Russia,Pontoon bridge,6,0,2,4,12
 Russia,Project 03160 Raptor class patrol boat,4,1,0,0,5
 Russia,Project 1164 Slava class guided missile cruiser 'Moskva',2,1,1,0,4
 Russia,Project 1171 Tapir class landing ship 'Saratov (BDK-65)',1,0,0,0,1
@@ -164,7 +164,7 @@ Russia,Project 11770 Serna class landing craft,1,0,0,0,1
 Russia,Project 775 Ropucha class landing ship,0,1,0,0,1
 Russia,R-145BM1 command vehicle,1,0,0,1,2
 Russia,R-149AKSh-1 command and signals vehicle,3,0,0,0,3
-Russia,R-149MA1 command and staff vehicle,15,1,3,13,32
+Russia,R-149MA1 command and staff vehicle,15,1,3,14,33
 Russia,R-149MA3 command and staff vehicle,6,2,0,6,14
 Russia,R-166-0.5 signals vehicle,6,0,1,6,13
 Russia,R-330BMV Borisoglebsk-2B,2,1,0,1,4
@@ -206,7 +206,7 @@ Russia,UAZ-452,5,0,0,1,6
 Russia,UAZ-469,4,0,1,2,7
 Russia,UR-77 'Meteorit' mine clearing vehicle,0,0,1,0,1
 Russia,UR-77 'Meterorit' mine clearing vehicle,4,0,1,7,12
-Russia,Unknown AFV,52,3,2,1,58
+Russia,Unknown AFV,52,3,2,2,59
 Russia,Unknown BMP-1/2,11,3,2,0,16
 Russia,Unknown BTR-80/BTR-82A,17,1,3,0,21
 Russia,Unknown BTR-D/BMD-2,17,0,0,1,18
@@ -285,6 +285,7 @@ Ukraine,AT105A 'Saxon',0,0,0,6,6
 Ukraine,An-26 transport aircraft,2,0,0,0,2
 Ukraine,Armed pickup truck,3,0,0,0,3
 Ukraine,Armed tactical buggy,1,0,0,0,1
+Ukraine,Armoured Volkswagen Amarok pickup truck,0,1,0,1,2
 Ukraine,BAT-2 heavy engineering vehicle,0,0,0,1,1
 Ukraine,BMD-2,0,0,0,2,2
 Ukraine,BMK-150 towing and motor boat,0,0,0,1,1
@@ -302,7 +303,7 @@ Ukraine,BTR-3,9,1,0,6,16
 Ukraine,BTR-4,13,1,2,22,38
 Ukraine,BTR-60,0,0,0,4,4
 Ukraine,BTR-70,2,1,1,11,15
-Ukraine,BTR-80,13,1,0,21,35
+Ukraine,BTR-80,14,1,0,21,36
 Ukraine,BTR-D,1,0,0,1,2
 Ukraine,BTS-4 ARV,0,0,0,2,2
 Ukraine,BTS-4 ARV with ZU-23 AA gun,0,0,0,1,1
@@ -377,7 +378,7 @@ Ukraine,T-64A,0,0,0,1,1
 Ukraine,T-64B1M,0,1,1,1,3
 Ukraine,T-64BM 'Bulat',2,0,0,1,3
 Ukraine,T-64BM2 'Bulat',1,0,0,0,1
-Ukraine,T-64BV,48,6,7,57,118
+Ukraine,T-64BV,49,6,7,59,121
 Ukraine,T-72 'Ural',0,1,0,0,1
 Ukraine,T-72AMT,5,0,0,4,9
 Ukraine,T-72AV,3,0,0,0,3
