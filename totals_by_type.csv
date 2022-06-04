@@ -24,17 +24,17 @@ Russia,Unmanned Aerial Vehicles,43,0,37,0,80
 Russia,Naval Ships,7,0,0,2,9
 Russia,Logistics Trains,2,0,0,0,2
 Russia,"Trucks, Vehicles and Jeeps",802,67,296,22,1187
-Ukraine,All Types,535,35,528,24,1122
-Ukraine,Tanks,83,8,93,3,187
+Ukraine,All Types,541,35,530,24,1130
+Ukraine,Tanks,84,8,95,3,190
 Ukraine,Armoured Fighting Vehicles,31,4,50,0,85
-Ukraine,Infantry Fighting Vehicles,68,9,50,3,130
-Ukraine,Armoured Personnel Carriers,21,3,40,1,65
-Ukraine,Infantry Mobility Vehicles,34,1,65,1,101
+Ukraine,Infantry Fighting Vehicles,69,9,50,3,131
+Ukraine,Armoured Personnel Carriers,22,3,40,1,66
+Ukraine,Infantry Mobility Vehicles,35,1,65,1,102
 Ukraine,Infantry Mobility Vehicles,1,0,1,0,2
 Ukraine,Command Posts And Communications Stations,0,0,2,0,2
 Ukraine,Engineering Vehicles,3,0,10,0,13
 Ukraine,Self-Propelled Anti-Tank Missile Systems,5,0,6,0,11
-Ukraine,Towed Artillery,9,3,16,3,31
+Ukraine,Towed Artillery,9,3,17,3,32
 Ukraine,Self-Propelled Artillery,16,1,16,5,38
 Ukraine,Multiple Rocket Launchers,14,0,5,0,19
 Ukraine,Anti-Aircraft Guns,0,0,3,0,3
@@ -47,4 +47,4 @@ Ukraine,Aircraft,25,0,0,0,25
 Ukraine,Helicopters,8,0,3,0,11
 Ukraine,Unmanned Aerial Vehicles,14,0,5,0,19
 Ukraine,Naval Ships,5,0,13,0,18
-Ukraine,"Trucks, Vehicles and Jeeps",138,5,147,5,295
+Ukraine,"Trucks, Vehicles and Jeeps",140,5,147,5,297

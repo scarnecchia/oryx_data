@@ -244,7 +244,7 @@ Russia,ZALA Aero KUB-BLA loitering munition,0,7,0,0,7
 Russia,ZSU-23-4 'Shilka',4,0,0,1,5
 Russia,ZiL-131,1,5,2,1,9
 Ukraine,100mm BS-3 anti-tank gun,2,1,0,0,3
-Ukraine,100mm MT-12 anti-tank gun,2,1,1,0,4
+Ukraine,100mm MT-12 anti-tank gun,3,1,1,0,5
 Ukraine,120mm BTR-3M2,2,1,0,0,3
 Ukraine,120mm Bars-8MMK,0,1,0,0,1
 Ukraine,122mm 2S1 Gvozdika,12,8,1,1,22
@@ -313,10 +313,10 @@ Ukraine,BREM-1 ARV,1,0,0,0,1
 Ukraine,BRM-1K,6,1,0,1,8
 Ukraine,BSEM-4K,0,1,0,0,1
 Ukraine,BTR-3,6,10,0,1,17
-Ukraine,BTR-4,25,14,2,1,42
+Ukraine,BTR-4,25,15,2,1,43
 Ukraine,BTR-60,4,0,0,0,4
 Ukraine,BTR-70,11,2,1,1,15
-Ukraine,BTR-80,21,15,0,1,37
+Ukraine,BTR-80,21,16,0,1,38
 Ukraine,BTR-D,1,1,0,0,2
 Ukraine,BTS-4 ARV,2,0,0,0,2
 Ukraine,BTS-4 ARV with ZU-23 AA gun,1,0,0,0,1
@@ -340,7 +340,7 @@ Ukraine,Kozak-2,16,13,1,1,31
 Ukraine,Kozak-2M1,2,1,0,0,3
 Ukraine,KrAZ Cobra,2,2,0,0,4
 Ukraine,KrAZ Cougar,2,1,0,0,3
-Ukraine,KrAZ Spartan,0,6,0,0,6
+Ukraine,KrAZ Spartan,0,7,0,0,7
 Ukraine,KrAZ-255B,4,0,0,0,4
 Ukraine,KrAZ-255B with excavator,1,0,0,0,1
 Ukraine,KrAZ-260,2,1,0,0,3
@@ -395,11 +395,11 @@ Ukraine,T-64B,0,1,0,0,1
 Ukraine,T-64B1M,4,0,1,1,6
 Ukraine,T-64BM 'Bulat',2,4,0,0,6
 Ukraine,T-64BM2 'Bulat',0,1,0,0,1
-Ukraine,T-64BV,60,53,7,6,126
+Ukraine,T-64BV,60,54,7,6,127
 Ukraine,T-72 'Ural',0,0,0,1,1
 Ukraine,T-72AMT,4,5,0,0,9
 Ukraine,T-72AV,0,3,0,0,3
-Ukraine,T-72B,5,5,0,1,11
+Ukraine,T-72B,6,5,0,1,12
 Ukraine,T-80BV,7,2,1,4,14
 Ukraine,TMM-3M1 bridge layer,1,0,0,0,1
 Ukraine,Triton,3,0,0,0,3
@@ -417,7 +417,7 @@ Ukraine,Unknown towed artillery,0,4,0,2,6
 Ukraine,Unknown truck,4,25,2,4,35
 Ukraine,Unknown vehicle,0,15,0,0,15
 Ukraine,Ural-375D,18,4,0,0,22
-Ukraine,Ural-4320,6,8,0,1,15
+Ukraine,Ural-4320,6,10,0,1,17
 Ukraine,Varta,14,3,0,0,17
 Ukraine,Vepr AFV,2,0,0,0,2
 Ukraine,Vepr MRAP,1,0,0,0,1
