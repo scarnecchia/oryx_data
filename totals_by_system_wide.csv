@@ -1,6 +1,6 @@
 country,system,captured,destroyed,abandoned,damaged,total
 Russia,'Orlan-20' reconnaissance UAV,1,2,0,0,3
-Russia,(Unknown) truck,0,18,1,1,20
+Russia,(Unknown) truck,0,19,1,1,21
 Russia,(Unknown) vehicle,1,25,2,3,31
 Russia,100mm MT-12 anti-tank gun,1,1,0,0,2
 Russia,120mm 2B11/2S12,5,4,0,0,9
@@ -80,7 +80,7 @@ Russia,BMP-1AM,0,4,3,1,8
 Russia,BMP-1KSh command and staff vehicle,0,2,0,0,2
 Russia,BMP-1Khs,3,1,1,0,5
 Russia,BMP-2,66,183,27,12,288
-Russia,BMP-2(K),3,2,0,0,5
+Russia,BMP-2(K),4,3,1,0,8
 Russia,BMP-2K,0,0,1,0,1
 Russia,BMP-3,39,68,2,7,116
 Russia,BRDM-2,0,1,0,0,1
@@ -90,9 +90,9 @@ Russia,BREM-Ch ''BREM-4'' armoured recovery vehicle,1,4,1,0,6
 Russia,BREM-K armoured recovery vehicle,2,0,0,0,2
 Russia,BRM-1K,2,8,0,0,10
 Russia,BTR-70,0,2,0,0,2
-Russia,BTR-80,33,31,6,5,75
+Russia,BTR-80,34,31,6,5,76
 Russia,BTR-82A,59,96,11,10,176
-Russia,BTR-82A(M),0,1,0,0,1
+Russia,BTR-82A(M),1,1,0,0,2
 Russia,BTR-D,17,13,13,1,44
 Russia,BTR-D APC with UR-67 mine clearing charge,1,0,0,0,1
 Russia,BTR-MDM 'Rakushka',7,2,0,1,10
@@ -186,7 +186,7 @@ Russia,T-72A,13,7,1,0,21
 Russia,T-72AV,3,7,0,0,10
 Russia,T-72B,53,85,10,9,157
 Russia,T-72B Obr. 1989,24,35,5,4,68
-Russia,T-72B3,56,70,11,8,145
+Russia,T-72B3,56,71,11,8,146
 Russia,T-72B3 Obr. 2016,59,54,8,7,128
 Russia,T-72BA,3,0,0,0,3
 Russia,T-80BV,16,17,7,4,44
@@ -211,7 +211,7 @@ Russia,UAZ-469,2,4,1,0,7
 Russia,UR-77 'Meteorit' mine clearing vehicle,0,0,1,0,1
 Russia,UR-77 'Meterorit' mine clearing vehicle,7,4,1,0,12
 Russia,Unknown AFV,2,70,3,3,78
-Russia,Unknown BMP-1/2,0,25,2,3,30
+Russia,Unknown BMP-1/2,0,26,2,3,31
 Russia,Unknown BTR-80/BTR-82A,0,20,3,1,24
 Russia,Unknown BTR-D/BMD-2,1,17,0,0,18
 Russia,Unknown Buk SAM system,0,3,0,0,3
@@ -309,7 +309,7 @@ Ukraine,BMP-1U 'Shkval',1,0,0,0,1
 Ukraine,BMP-2,3,12,1,1,17
 Ukraine,BMP-2(K),0,2,0,0,2
 Ukraine,BMP-2K,1,0,0,0,1
-Ukraine,BRDM-2,28,14,8,0,50
+Ukraine,BRDM-2,30,14,8,0,52
 Ukraine,BREM-1 ARV,1,0,0,0,1
 Ukraine,BRM-1K,6,1,0,1,8
 Ukraine,BSEM-4K,0,1,0,0,1
@@ -409,7 +409,7 @@ Ukraine,Triton,4,0,0,0,4
 Ukraine,Tu-141 reconnaissance UAV,0,4,0,0,4
 Ukraine,Tu-141 reconnaissance UAV (likely used as unmanned bait in order for Russia to reveal the location of air defence systems),0,2,0,0,2
 Ukraine,Tu-143 reconnaissance UAV,0,1,0,0,1
-Ukraine,UAZ-452,2,0,0,0,2
+Ukraine,UAZ-452,2,1,0,0,3
 Ukraine,UAZ-469,4,2,0,0,6
 Ukraine,UJ-22 reconnaissance UAV,0,1,0,0,1
 Ukraine,Unknown AFV,0,9,0,0,9
