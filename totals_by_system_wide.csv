@@ -12,13 +12,14 @@ Russia,120mm 2S9 Nona,4,4,1,0,9
 Russia,122mm 2B17 Tornado-G,2,3,1,0,6
 Russia,122mm 2S1 Gvozdika,4,11,1,0,16
 Russia,122mm BM-21 'Grad',22,17,6,4,49
-Russia,122mm BM-21 Grad,2,3,0,1,6
+Russia,122mm BM-21 Grad,2,5,0,1,8
 Russia,122mm D-30 howitzer 2A18,9,1,4,0,14
 Russia,152mm 2A65 Msta-B howitzer,9,8,1,2,20
 Russia,152mm 2S19 Msta-S,25,23,14,1,63
 Russia,152mm 2S3 Akatsiya,7,18,6,2,33
 Russia,152mm 2S3(M) Akatsiya,2,1,0,0,3
 Russia,152mm 2S33 Msta-SM2,4,0,0,0,4
+Russia,152mm D-20 gun-howitzer,0,1,0,0,1
 Russia,1L261 (for 1L260 Zoopark-1M counter-battery radar complex),1,1,0,0,2
 Russia,1L262E Rtut-BM,0,1,0,0,1
 Russia,1RL257 Krasukha-4 command post,1,0,0,0,1
@@ -55,7 +56,7 @@ Russia,9M113 Konkurs,15,0,0,0,15
 Russia,9M113M Konkurs-M,1,0,0,0,1
 Russia,9M114 Kokon,0,0,2,0,2
 Russia,9P148 Konkurs,0,2,0,0,2
-Russia,9P149 Shturm-S,2,1,1,0,4
+Russia,9P149 Shturm-S,3,1,1,0,5
 Russia,9P149 Shturm-S ATGM carrier,5,4,3,0,12
 Russia,9P163M-1 'Kornet-T' ATGM carrier,0,1,0,0,1
 Russia,9S18<U+041C>1(-2) (for Buk-M2),1,0,0,0,1
@@ -70,7 +71,7 @@ Russia,An-26 transport aircraft,0,1,0,0,1
 Russia,Armoured SUV,1,0,0,1,2
 Russia,BAT-2 heavy engineering vehicle,2,2,0,0,4
 Russia,BMD-1KSh-A command vehicle,0,2,0,0,2
-Russia,BMD-2,42,57,7,3,109
+Russia,BMD-2,42,57,7,4,110
 Russia,BMD-4M,17,23,1,1,42
 Russia,BMK-130M/BMK-150 towing and motor boat,1,1,1,0,3
 Russia,BMK-460 towing and motor boat,1,2,4,0,7
@@ -82,7 +83,7 @@ Russia,BMP-1Khs,3,1,1,0,5
 Russia,BMP-2,66,183,27,12,288
 Russia,BMP-2(K),4,4,1,0,9
 Russia,BMP-2K,0,0,1,0,1
-Russia,BMP-3,39,68,2,7,116
+Russia,BMP-3,39,69,2,7,117
 Russia,BRDM-2,0,1,0,0,1
 Russia,BREM-1 armoured recovery vehicle,8,1,2,0,11
 Russia,BREM-2 armoured recovery vehicle,1,0,0,0,1
@@ -108,7 +109,7 @@ Russia,Fuel train,0,2,0,0,2
 Russia,GAZ Sobol,0,1,1,0,2
 Russia,GAZ Tigr,0,1,1,0,2
 Russia,GAZ Tigr-M,33,55,3,6,97
-Russia,GAZ-3308,0,0,3,0,3
+Russia,GAZ-3308,0,1,3,0,4
 Russia,GAZ-3344-20 'Aleut' articulated tracked carrier,0,2,0,0,2
 Russia,GAZ-66,6,7,1,0,14
 Russia,GMZ-3 minelayer,1,0,0,0,1
@@ -116,6 +117,7 @@ Russia,IMR-2 combat engineering vehicle,6,2,3,0,11
 Russia,IMR-2(M) combat engineering vehicle,0,0,1,0,1
 Russia,IMR-3 combat engineering vehicle,2,0,0,0,2
 Russia,Iveco LMV 'Rys',4,17,1,3,25
+Russia,Iveco LMV Rys,0,2,1,0,3
 Russia,K-53949 'Linza',4,1,0,1,6
 Russia,K-53949 'Typhoon-K',0,4,0,0,4
 Russia,K-53949 Typhoon-K,2,1,1,0,4
@@ -211,7 +213,7 @@ Russia,UAZ-469,2,4,1,0,7
 Russia,UR-77 'Meteorit' mine clearing vehicle,0,0,1,0,1
 Russia,UR-77 'Meterorit' mine clearing vehicle,7,4,1,0,12
 Russia,Unknown AFV,2,72,3,3,80
-Russia,Unknown BMP-1/2,0,27,2,3,32
+Russia,Unknown BMP-1/2,0,29,2,3,34
 Russia,Unknown BTR-80/BTR-82A,0,20,3,1,24
 Russia,Unknown BTR-D/BMD-2,1,17,0,0,18
 Russia,Unknown Buk SAM system,0,3,0,0,3
