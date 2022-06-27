@@ -1,7 +1,7 @@
 country,system,destroyed,captured,abandoned,damaged,total
 Russia,'Orlan-20' ''Kartograf'' reconnaissance UAV,1,0,0,0,1
 Russia,'Orlan-20' reconnaissance UAV,2,1,0,0,3
-Russia,(Unknown) truck,29,0,1,2,32
+Russia,(Unknown) truck,30,0,1,2,33
 Russia,(Unknown) vehicle,26,1,2,3,32
 Russia,1 MSh-5350.1 command vehicle,0,1,0,0,1
 Russia,100mm MT-12 anti-tank gun,1,1,0,0,2
@@ -31,7 +31,7 @@ Russia,1V13(M) battery fire control center,1,0,0,0,1
 Russia,1V14 battery command and forward observer vehicle,0,4,1,1,6
 Russia,2 MTP-A2.1 recovery vehicle,0,0,1,0,1
 Russia,220mm BM-27 'Uragan',8,5,0,0,13
-Russia,220mm BM-27 Uragan,1,1,0,0,2
+Russia,220mm BM-27 Uragan,2,1,0,0,3
 Russia,220mm TOS-1A,2,7,1,4,14
 Russia,23mm ZU-23,2,5,0,0,7
 Russia,240mm 2S4 Tyulpan,1,0,0,0,1
@@ -73,7 +73,7 @@ Russia,9S470M1 (or variant thereof) command post (for Buk-M1/2),2,0,0,0,2
 Russia,"9S931-3/9S932-2 intelligence, control and command vehicle (for Barnaul-T)",0,0,1,0,1
 Russia,9T217 transloader (for 9K33 Osa),1,1,0,0,2
 Russia,9T244 transloader (for 9A330/1 Tor),1,1,0,1,3
-Russia,9T452 transporter-loader (for BM-27 'Uragan' MRL),12,5,0,0,17
+Russia,9T452 transporter-loader (for BM-27 'Uragan' MRL),13,5,0,0,18
 Russia,An-26 transport aircraft,1,0,0,0,1
 Russia,Armoured SUV,0,1,0,1,2
 Russia,BAT-2 heavy engineering vehicle,2,2,0,0,4
