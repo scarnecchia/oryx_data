@@ -82,6 +82,7 @@ Russia,All Types,2626,322,1355,85,4388,2022-06-27,4,0,0,0,4,0,0,0,0,0
 Russia,All Types,2635,322,1358,88,4403,2022-06-28,9,0,3,3,15,0,0,0,0,0
 Russia,All Types,2713,329,1367,89,4498,2022-06-29,78,7,9,1,95,0,0,0,0,0
 Russia,All Types,2727,330,1362,91,4510,2022-06-30,14,1,-5,2,12,0,0,0,0,0
+Russia,All Types,2728,330,1361,91,4510,2022-07-01,1,0,-1,0,0,0,0,0,0,0
 Russia,Anti-Aircraft Guns,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Russia,Anti-Aircraft Guns,0,0,0,0,0,2022-03-19,0,0,0,0,0,0,0,0,0,0
 Russia,Anti-Aircraft Guns,0,0,0,0,0,2022-03-26,0,0,0,0,0,0,0,0,0,0
@@ -148,6 +149,7 @@ Russia,Armoured Fighting Vehicles,263,36,133,3,435,2022-06-26,14,0,-1,0,13,0,0,0
 Russia,Armoured Fighting Vehicles,264,36,133,4,437,2022-06-28,1,0,0,1,2,0,0,0,0,0
 Russia,Armoured Fighting Vehicles,287,36,133,4,460,2022-06-29,23,0,0,0,23,0,0,0,0,0
 Russia,Armoured Fighting Vehicles,293,36,133,5,467,2022-06-30,6,0,0,1,7,0,0,0,0,0
+Russia,Armoured Fighting Vehicles,294,36,133,5,468,2022-07-01,1,0,0,0,1,0,0,0,0,0
 Russia,Armoured Personnel Carriers,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Russia,Armoured Personnel Carriers,24,14,38,0,76,2022-03-19,24,14,38,0,76,24,14,38,0,76
 Russia,Armoured Personnel Carriers,19,17,40,0,76,2022-03-26,-5,3,2,0,0,-29,-11,-36,0,-76
@@ -269,6 +271,7 @@ Russia,Helicopters,42,1,1,1,45,2022-06-05,2,0,0,0,2,0,0,0,0,0
 Russia,Helicopters,43,1,1,1,46,2022-06-08,1,0,0,0,1,0,0,0,0,0
 Russia,Helicopters,46,1,1,1,49,2022-06-26,3,0,0,0,3,0,0,0,0,0
 Russia,Helicopters,46,0,1,1,48,2022-06-30,0,-1,0,0,-1,0,0,0,0,0
+Russia,Helicopters,47,0,1,1,49,2022-07-01,1,0,0,0,1,0,0,0,0,0
 Russia,Infantry Fighting Vehicles,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Russia,Infantry Fighting Vehicles,114,32,84,2,232,2022-03-19,114,32,84,2,232,114,32,84,2,232
 Russia,Infantry Fighting Vehicles,157,29,103,2,291,2022-03-26,43,-3,19,0,59,-71,-35,-65,-2,-173
@@ -326,6 +329,7 @@ Russia,Infantry Fighting Vehicles,545,71,240,17,873,2022-06-26,22,5,-1,1,27,0,0,
 Russia,Infantry Fighting Vehicles,545,71,241,18,875,2022-06-28,0,0,1,1,2,0,0,0,0,0
 Russia,Infantry Fighting Vehicles,568,74,247,18,907,2022-06-29,23,3,6,0,32,0,0,0,0,0
 Russia,Infantry Fighting Vehicles,574,75,247,18,914,2022-06-30,6,1,0,0,7,0,0,0,0,0
+Russia,Infantry Fighting Vehicles,573,75,246,18,912,2022-07-01,-1,0,-1,0,-2,0,0,0,0,0
 Russia,Infantry Mobility Vehicles,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Russia,Infantry Mobility Vehicles,29,5,16,2,52,2022-03-19,29,5,16,2,52,29,5,16,2,52
 Russia,Infantry Mobility Vehicles,36,5,20,2,63,2022-03-26,7,0,4,0,11,-22,-5,-12,-2,-41
