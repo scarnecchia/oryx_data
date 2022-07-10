@@ -1,11 +1,12 @@
 country,system,destroyed,captured,abandoned,damaged,total
 Russia,'Orlan-20' ''Kartograf'' reconnaissance UAV,1,0,0,0,1
 Russia,'Orlan-20' reconnaissance UAV,2,1,0,0,3
-Russia,(Unknown) truck,41,1,1,2,45
+Russia,(Unknown) truck,42,1,1,2,46
 Russia,(Unknown) vehicle,28,1,2,3,34
 Russia,1 MSh-5350.1 command vehicle,0,1,0,0,1
 Russia,1 MTP-A2.1 recovery vehicle,1,0,0,0,1
 Russia,1 P-18T,1,0,0,0,1
+Russia,1 Unknown towed artillery,1,0,0,0,1
 Russia,10 BRM-1K reconnaissance vehicle,1,0,0,0,1
 Russia,100mm MT-12 anti-tank gun,1,1,0,0,2
 Russia,104 BMP-1(P),2,2,0,1,5
@@ -35,6 +36,7 @@ Russia,1V13 battery fire control center,3,4,5,0,12
 Russia,1V13(M) battery fire control center,1,0,0,0,1
 Russia,1V14 battery command and forward observer vehicle,0,4,1,1,6
 Russia,2 Forpost reconnaissance UAV,1,0,0,0,1
+Russia,2 MTO-UB1 maintenance vehicle,0,1,0,0,1
 Russia,2 MTP-A2.1 recovery vehicle,0,0,1,0,1
 Russia,22 9T452 transporter-loader (for BM-27 'Uragan' MRL),2,0,0,0,2
 Russia,220mm BM-27 'Uragan',8,5,0,0,13
@@ -49,17 +51,21 @@ Russia,2S1 with ZU-23 AA gun,0,1,0,0,1
 Russia,3 BMD-1KSh-A command vehicle,1,0,0,0,1
 Russia,3 Unknown SPG,1,0,0,0,1
 Russia,30 R-149MA1 command and staff vehicle,1,0,0,0,1
+Russia,30 Unknown BTR-80/BTR-82A,1,0,0,0,1
 Russia,300 KamAZ 6x6,3,0,0,0,3
 Russia,302 KamAZ 6x6,3,0,0,0,3
+Russia,303 KamAZ 6x6,1,0,0,0,1
 Russia,4 9A331M TLAR (for 9K332 Tor-M2),1,0,1,0,2
 Russia,5 KamAZ-5350 with KS-45719-7M crane,0,0,0,1,1
 Russia,50 BMD-4M,3,0,0,0,3
 Russia,50 T-80BV,2,0,0,0,2
 Russia,51 T-80BV,0,1,0,0,1
+Russia,52 T-80BV,0,1,0,0,1
 Russia,61 122mm BM-21 Grad,1,0,0,0,1
 Russia,61 Unknown BMP-1/2,2,0,0,0,2
 Russia,63 122mm BM-21 Grad,1,0,0,0,1
 Russia,63 Unknown BMP-1/2,1,0,0,0,1
+Russia,66 Unknown BMP-1/2,1,0,0,0,1
 Russia,7 BMP-1KSh command and staff vehicle,1,0,0,0,1
 Russia,70 Ural-4320 tanker,1,0,0,0,1
 Russia,72 Ural-4320 tanker,1,0,0,0,1
@@ -159,7 +165,7 @@ Russia,K-53949 Typhoon-K,1,2,1,0,4
 Russia,Ka-52 'Alligator' attack helicopter,16,1,4,6,27
 Russia,KamAZ 4x4,2,4,1,0,7
 Russia,KamAZ 4x4 tanker,1,0,0,0,1
-Russia,KamAZ 6x6,166,107,21,16,310
+Russia,KamAZ 6x6,166,107,22,16,311
 Russia,KamAZ 6x6 tanker,12,13,0,2,27
 Russia,KamAZ 8x8,7,2,0,1,10
 Russia,KamAZ Avtozaks,7,2,1,0,10
@@ -176,7 +182,7 @@ Russia,KrAZ-255B tanker,1,0,0,0,1
 Russia,KrAZ-255B with excavator,1,1,0,0,2
 Russia,MDK-3 trench-digging vehicle,0,1,0,0,1
 Russia,MP-2IM signals vehicle,0,0,1,0,1
-Russia,MT-LB,83,92,24,1,200
+Russia,MT-LB,85,92,24,1,202
 Russia,MT-LB Ambulance,2,0,0,0,2
 Russia,MT-LB with ZU-23 AA gun,5,1,0,0,6
 Russia,MT-LBM 6MB,2,0,1,0,3
@@ -271,11 +277,11 @@ Russia,Unknown communications station,1,0,0,0,1
 Russia,Unknown communications station based on the KamAZ 6x6,1,1,0,1,3
 Russia,Unknown heavy mortar,1,0,0,0,1
 Russia,Unknown helicopter,4,0,0,1,5
-Russia,Unknown tank,139,3,4,18,164
+Russia,Unknown tank,142,3,4,18,167
 Russia,Unknown truck,101,12,2,4,119
 Russia,Ural Federal,6,2,3,0,11
 Russia,Ural-375D,2,0,0,0,2
-Russia,Ural-4320,168,91,16,5,280
+Russia,Ural-4320,169,91,16,5,281
 Russia,Ural-4320 KET-L,0,1,0,1,2
 Russia,Ural-4320 KT-L,1,2,0,0,3
 Russia,Ural-4320 recovery vehicle,1,0,0,0,1
