@@ -1,9 +1,9 @@
 country,equipment_type,destroyed,abandoned,captured,damaged,type_total
-Russia,All Types,2931,331,1371,103,4736
-Russia,Tanks,514,54,270,31,869
-Russia,Armoured Fighting Vehicles,324,36,131,5,496
-Russia,Infantry Fighting Vehicles,592,72,267,19,950
-Russia,Armoured Personnel Carriers,54,13,56,3,126
+Russia,All Types,2944,331,1374,103,4752
+Russia,Tanks,516,54,270,31,871
+Russia,Armoured Fighting Vehicles,327,36,131,5,499
+Russia,Infantry Fighting Vehicles,593,72,267,19,951
+Russia,Armoured Personnel Carriers,55,13,56,3,127
 Russia,Mine-Resistant Ambush Protected,16,3,8,3,30
 Russia,Infantry Mobility Vehicles,72,4,35,2,113
 Russia,Command Posts And Communications Stations,50,7,37,0,94
@@ -11,21 +11,21 @@ Russia,Engineering Vehicles And Equipment,62,42,69,2,175
 Russia,Self-Propelled Anti-Tank Missile Systems,8,5,8,0,21
 Russia,Heavy Mortars,6,0,8,0,14
 Russia,Towed Artillery,22,6,39,4,71
-Russia,Self-Propelled Artillery,71,20,45,2,138
+Russia,Self-Propelled Artillery,72,20,45,2,139
 Russia,Multiple Rocket Launchers,61,2,29,0,92
 Russia,Anti-Aircraft Guns,2,0,5,0,7
 Russia,Self-Propelled Anti-Aircraft Guns,7,2,6,0,15
 Russia,Surface-To-Air Missile Systems,35,8,21,1,65
-Russia,Radars,5,0,6,0,11
+Russia,Radars,6,0,6,0,12
 Russia,Jammers And Deception Systems,6,0,3,1,10
-Russia,Aircraft,35,0,0,1,36
+Russia,Aircraft,37,0,0,1,38
 Russia,Helicopters,47,0,1,1,49
-Russia,Unmanned Aerial Vehicles,50,0,46,0,96
+Russia,Unmanned Aerial Vehicles,50,0,47,0,97
 Russia,Naval Ships,7,0,0,3,10
 Russia,Logistics Trains,2,0,0,0,2
-Russia,"Trucks, Vehicles and Jeeps",888,58,286,21,1253
-Ukraine,All Types,633,36,569,30,1268
-Ukraine,Tanks,88,8,104,5,205
+Russia,"Trucks, Vehicles and Jeeps",889,58,286,21,1254
+Ukraine,All Types,634,36,569,30,1269
+Ukraine,Tanks,89,8,104,5,206
 Ukraine,Armoured Fighting Vehicles,40,3,55,0,98
 Ukraine,Infantry Fighting Vehicles,84,11,57,3,155
 Ukraine,Armoured Personnel Carriers,25,2,40,1,68
