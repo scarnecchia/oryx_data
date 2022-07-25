@@ -1,31 +1,31 @@
 country,equipment_type,destroyed,abandoned,captured,damaged,type_total
-Russia,All Types,2983,331,1376,104,4794
-Russia,Tanks,527,52,272,31,882
-Russia,Armoured Fighting Vehicles,332,36,131,5,504
-Russia,Infantry Fighting Vehicles,597,71,271,19,958
-Russia,Armoured Personnel Carriers,58,13,56,3,130
+Russia,All Types,3026,320,1368,102,4816
+Russia,Tanks,536,49,267,33,885
+Russia,Armoured Fighting Vehicles,333,37,130,5,505
+Russia,Infantry Fighting Vehicles,622,70,254,19,965
+Russia,Armoured Personnel Carriers,61,11,55,3,130
 Russia,Mine-Resistant Ambush Protected,16,3,8,3,30
 Russia,Infantry Mobility Vehicles,73,4,35,2,114
-Russia,Command Posts And Communications Stations,51,7,37,0,95
-Russia,Engineering Vehicles And Equipment,63,42,69,2,176
+Russia,Command Posts And Communications Stations,51,7,38,0,96
+Russia,Engineering Vehicles And Equipment,61,42,69,2,174
 Russia,Self-Propelled Anti-Tank Missile Systems,8,5,8,0,21
 Russia,Heavy Mortars,6,0,8,0,14
 Russia,Towed Artillery,23,6,39,4,72
-Russia,Self-Propelled Artillery,76,20,45,2,143
+Russia,Self-Propelled Artillery,76,17,49,3,145
 Russia,Multiple Rocket Launchers,61,2,29,1,93
 Russia,Anti-Aircraft Guns,2,0,5,0,7
 Russia,Self-Propelled Anti-Aircraft Guns,7,2,6,0,15
-Russia,Surface-To-Air Missile Systems,35,8,21,1,65
+Russia,Surface-To-Air Missile Systems,37,8,21,1,67
 Russia,Radars,6,0,6,0,12
 Russia,Jammers And Deception Systems,6,0,3,1,10
 Russia,Aircraft,37,0,0,1,38
 Russia,Helicopters,47,0,1,1,49
-Russia,Unmanned Aerial Vehicles,50,0,47,0,97
-Russia,Naval Ships,7,0,0,3,10
+Russia,Unmanned Aerial Vehicles,50,0,49,0,99
+Russia,Naval Ships,8,0,0,3,11
 Russia,Logistics Trains,2,0,0,0,2
-Russia,"Trucks, Vehicles and Jeeps",893,58,286,21,1258
-Ukraine,All Types,711,36,585,30,1362
-Ukraine,Tanks,106,8,107,5,226
+Russia,"Trucks, Vehicles and Jeeps",898,57,286,21,1262
+Ukraine,All Types,711,36,584,30,1361
+Ukraine,Tanks,106,8,106,5,225
 Ukraine,Armoured Fighting Vehicles,55,3,57,0,115
 Ukraine,Infantry Fighting Vehicles,100,11,58,3,172
 Ukraine,Armoured Personnel Carriers,36,2,40,1,79
