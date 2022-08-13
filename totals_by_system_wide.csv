@@ -17,6 +17,7 @@ Russia,1 Mobile generator for Podlet-K1 low-altitude S-band surveillance radar,1
 Russia,1 P-18T,1,0,0,0,1
 Russia,1 P-260 Redut-2US communication system,1,0,0,0,1
 Russia,1 R-439-MD2 SatCom Station,1,0,0,0,1
+Russia,1 RLK-MC-A (ROSC-1) counter-UAV system,1,0,0,0,1
 Russia,1 T-64A,1,0,0,0,1
 Russia,1 Unknown towed artillery,1,0,0,0,1
 Russia,10 BRM-1K reconnaissance vehicle,1,0,0,0,1
@@ -33,7 +34,7 @@ Russia,11 KamAZ 8x8,1,0,0,0,1
 Russia,110 BMP-1(P),1,1,0,0,2
 Russia,113 BMP-1(P),2,0,0,0,2
 Russia,115 BMP-1(P),0,2,0,1,3
-Russia,117 BMP-1(P),2,0,0,0,2
+Russia,117 BMP-1(P),3,1,0,0,4
 Russia,12 BRM-1K reconnaissance vehicle,2,0,0,0,2
 Russia,120mm 2B11/2S12,4,5,0,0,9
 Russia,120mm 2B11/2S12A,0,1,0,0,1
@@ -44,11 +45,11 @@ Russia,120mm 2S9 Nona,6,4,1,0,11
 Russia,122mm 2B17 Tornado-G,4,2,1,0,7
 Russia,122mm 2S1 Gvozdika,15,4,2,1,22
 Russia,122mm BM-21 'Grad',17,22,6,4,49
-Russia,122mm BM-21 Grad,8,2,1,1,12
+Russia,122mm BM-21 Grad,7,2,1,1,11
 Russia,122mm D-30 howitzer,1,1,0,0,2
 Russia,122mm D-30 howitzer 2A18,1,9,4,0,14
 Russia,13 BRM-1K reconnaissance vehicle,1,0,0,0,1
-Russia,152mm 2A65 Msta-B howitzer,11,9,1,3,24
+Russia,152mm 2A65 Msta-B howitzer,11,10,1,3,25
 Russia,152mm 2S19 Msta-S,29,25,14,1,69
 Russia,152mm 2S3 Akatsiya,18,7,6,2,33
 Russia,152mm 2S3(M) Akatsiya,3,2,0,0,5
@@ -68,10 +69,13 @@ Russia,2 Forpost reconnaissance UAV,1,0,0,0,1
 Russia,2 KamAZ with armoured cabin,2,0,0,0,2
 Russia,2 MTO-UB1 maintenance vehicle,0,1,0,0,1
 Russia,2 MTP-A2.1 recovery vehicle,0,0,1,0,1
+Russia,2 R-439-MD2 SatCom Station,1,0,0,0,1
 Russia,2 T-80BVK,0,1,0,1,2
 Russia,2 TEL for S-300,1,0,0,0,1
 Russia,2 UAZ Patriot jeep,1,0,0,0,1
 Russia,2 UAZ-394511 ‘Esaul’,1,0,0,0,1
+Russia,2 Unknown MRL,1,0,0,0,1
+Russia,204 Unknown tank,6,0,2,2,10
 Russia,22 9T452 transporter-loader (for BM-27 'Uragan' MRL),2,0,0,0,2
 Russia,220mm BM-27 'Uragan',8,5,0,0,13
 Russia,220mm BM-27 Uragan,6,1,0,0,7
@@ -88,7 +92,7 @@ Russia,3 Orlan-10 jamming UAV,1,0,0,0,1
 Russia,3 Unknown SPG,1,0,0,0,1
 Russia,3 Unknown towed artillery,1,0,0,0,1
 Russia,30 R-149MA1 command and staff vehicle,1,0,0,0,1
-Russia,30 T-80BVM,1,0,0,0,1
+Russia,30 T-80BVM,1,2,0,1,4
 Russia,30 Unknown BTR-80/BTR-82A,1,0,0,0,1
 Russia,300 KamAZ 6x6,3,0,0,0,3
 Russia,302 KamAZ 6x6,3,0,0,0,3
@@ -97,6 +101,7 @@ Russia,304 KamAZ 6x6,1,1,0,0,2
 Russia,306 KamAZ 6x6,2,0,0,0,2
 Russia,307 KamAZ 6x6,1,0,0,0,1
 Russia,311 KamAZ 6x6,1,0,0,0,1
+Russia,32 R-149MA1 command and staff vehicle,1,0,1,0,2
 Russia,321 KamAZ 6x6,12,0,0,0,12
 Russia,33 Unknown BTR-80/BTR-82A,1,0,0,0,1
 Russia,335 Ural-4320,29,3,3,1,36
@@ -104,16 +109,20 @@ Russia,336 Ural-4320,2,0,0,0,2
 Russia,338 Ural-4320,1,1,0,0,2
 Russia,339 KamAZ 6x6,30,0,0,0,30
 Russia,34 Unknown BTR-80/BTR-82A,1,0,0,0,1
+Russia,341 Ural-4320,5,1,0,2,8
 Russia,342 KamAZ 6x6,2,0,0,0,2
 Russia,342 Ural-4320,2,1,0,0,3
 Russia,343 KamAZ 6x6,0,0,0,1,1
+Russia,353 KamAZ 6x6,5,0,0,1,6
 Russia,36 Unknown BTR-80/BTR-82A,3,0,0,0,3
 Russia,4 9A331M TLAR (for 9K332 Tor-M2),1,0,1,0,2
+Russia,4 UAZ-394511 ‘Esaul’,0,1,0,1,2
 Russia,4 Unknown SPG,1,0,0,0,1
 Russia,4 Ural Avtozaks,2,0,0,0,2
 Russia,42 152mm 2S3(M) Akatsiya,2,1,0,0,3
 Russia,43 152mm 2S3(M) Akatsiya,0,1,0,0,1
 Russia,44 152mm 2S3(M) Akatsiya,0,1,0,0,1
+Russia,46 152mm 2S3(M) Akatsiya,1,0,0,0,1
 Russia,47 152mm 2S3(M) Akatsiya,2,0,0,0,2
 Russia,48 BMD-4M,1,0,0,0,1
 Russia,5 'Orlan-20' ''Kartograf'' reconnaissance UAV,1,0,0,0,1
@@ -137,12 +146,14 @@ Russia,59 T-80BV,1,0,0,0,1
 Russia,6 R-149AKSh-1 command and signals vehicle,1,0,0,0,1
 Russia,6 T-72BA,0,1,0,0,1
 Russia,6 UAZ-469 jeep,1,0,0,0,1
+Russia,6 Unknown SPG,1,0,0,0,1
+Russia,6 Ural-63704-0010 Tornado-U,1,0,0,0,1
 Russia,61 122mm BM-21 Grad,1,0,0,0,1
 Russia,61 Unknown BMP-1/2,2,0,0,0,2
 Russia,61 Ural-43206,8,1,1,1,11
 Russia,62 KamAZ 6x6 tanker,3,0,0,0,3
 Russia,62 Ural-43206,0,1,0,0,1
-Russia,63 122mm BM-21 Grad,1,0,0,0,1
+Russia,63 122mm BM-21 Grad,2,0,0,0,2
 Russia,63 KamAZ 6x6 tanker,1,0,0,0,1
 Russia,63 Unknown BMP-1/2,1,0,0,0,1
 Russia,63 Ural-43206,0,1,0,1,2
@@ -150,6 +161,7 @@ Russia,64 122mm BM-21 Grad,0,0,0,1,1
 Russia,65 122mm BM-21 Grad,1,0,0,0,1
 Russia,65 KamAZ 6x6 tanker,0,0,0,1,1
 Russia,66 122mm BM-21 Grad,1,0,0,0,1
+Russia,66 KamAZ 6x6 tanker,1,0,0,0,1
 Russia,66 Unknown BMP-1/2,1,0,0,0,1
 Russia,67 Unknown BMP-1/2,1,0,0,0,1
 Russia,68 Unknown BMP-1/2,2,0,0,0,2
@@ -161,17 +173,20 @@ Russia,7 ZiL-131,1,0,0,0,1
 Russia,70 Unknown BMP-1/2,2,0,0,0,2
 Russia,70 Ural-4320 tanker,1,0,0,0,1
 Russia,71 Unknown BMP-1/2,1,0,0,0,1
+Russia,72 Unknown BMP-1/2,1,0,0,0,1
 Russia,72 Ural-4320 tanker,1,0,0,0,1
 Russia,73 Ural-4320 tanker,1,0,0,0,1
 Russia,74 Ural-4320 tanker,0,0,1,0,1
-Russia,8 120mm 2B16 Nona-K howitzer,0,1,0,0,1
+Russia,8 120mm 2B16 Nona-K howitzer,1,1,0,0,2
 Russia,8 Pantsir-S1,2,0,0,0,2
 Russia,8 T-72AV,1,0,0,0,1
 Russia,86 Ural-4320 tanker,10,2,0,0,12
+Russia,87 Ural-4320 tanker,1,0,0,0,1
 Russia,9 2K22M1 Tunguska,1,0,0,0,1
 Russia,9 KamAZ 4x4,2,0,0,0,2
 Russia,9 Pantsir-S1,1,0,0,0,1
 Russia,9 UAZ-452 van,1,0,0,0,1
+Russia,90 MT-LBVM and MT-LBVMK,3,9,0,1,13
 Russia,9<U+041C>131 Metis-M,0,3,0,0,3
 Russia,9<U+041C>131F Metis-M1,0,1,0,0,1
 Russia,9<U+041C>133 Kornet,0,1,0,0,1
@@ -209,22 +224,22 @@ Russia,9T244 transloader (for 9A330/1 Tor),1,1,0,1,3
 Russia,9T452 transporter-loader (for BM-27 'Uragan' MRL),15,5,0,0,20
 Russia,An-26 transport aircraft,1,0,0,0,1
 Russia,Armoured SUV,0,1,0,1,2
-Russia,BAT-2 heavy engineering vehicle,3,2,0,0,5
+Russia,BAT-2 heavy engineering vehicle,3,3,0,0,6
 Russia,BMD-1KSh-A command vehicle,2,0,0,0,2
-Russia,BMD-2,84,44,8,4,140
+Russia,BMD-2,85,44,8,4,141
 Russia,BMD-4M,24,18,1,1,44
 Russia,BMK-130M/BMK-150 towing and motor boat,1,1,1,0,3
 Russia,BMK-460 towing and motor boat,3,1,5,0,9
 Russia,BMO-T,2,0,0,0,2
 Russia,BMP-1(P),54,23,13,8,98
-Russia,BMP-1AM,10,2,3,2,17
+Russia,BMP-1AM,11,2,3,2,18
 Russia,BMP-1KSh command and staff vehicle,2,0,0,0,2
 Russia,BMP-1Khs,1,3,1,0,5
 Russia,BMP-2,183,66,27,12,288
 Russia,BMP-2 675-sb3KDZ,0,1,0,0,1
-Russia,BMP-2(K),41,19,5,5,70
+Russia,BMP-2(K),43,19,5,5,72
 Russia,BMP-2K,0,0,1,0,1
-Russia,BMP-3,93,47,2,7,149
+Russia,BMP-3,94,47,2,7,150
 Russia,BRDM-2,1,0,0,0,1
 Russia,BREM-1 armoured recovery vehicle,3,8,4,0,15
 Russia,BREM-2 armoured recovery vehicle,0,1,0,0,1
@@ -232,9 +247,9 @@ Russia,BREM-Ch ''BREM-4'' armoured recovery vehicle,4,1,1,0,6
 Russia,BREM-K armoured recovery vehicle,0,2,0,0,2
 Russia,BRM-1K,8,2,0,0,10
 Russia,BTR-70,2,0,0,0,2
-Russia,BTR-80,46,38,6,5,95
+Russia,BTR-80,47,39,6,5,97
 Russia,BTR-82A,96,59,11,10,176
-Russia,BTR-82A(M),18,5,1,0,24
+Russia,BTR-82A(M),20,5,1,1,27
 Russia,BTR-D,30,18,13,2,63
 Russia,BTR-D APC with UR-67 mine clearing charge,0,1,0,0,1
 Russia,BTR-MDM 'Rakushka',4,7,0,1,12
@@ -249,7 +264,7 @@ Russia,Forpost reconnaissance UAV,1,0,0,0,1
 Russia,Fuel train,3,0,0,0,3
 Russia,GAZ Sobol,1,0,1,0,2
 Russia,GAZ Tigr,1,0,1,0,2
-Russia,GAZ Tigr-M,60,33,3,6,102
+Russia,GAZ Tigr-M,61,33,3,6,103
 Russia,GAZ-3308,1,0,3,0,4
 Russia,GAZ-3344-20 'Aleut' articulated tracked carrier,2,0,0,0,2
 Russia,GAZ-66,8,6,1,0,15
@@ -262,7 +277,7 @@ Russia,Iveco LMV Rys,3,1,1,1,6
 Russia,K-53949 'Linza',2,4,0,1,7
 Russia,K-53949 'Typhoon-K',4,0,0,0,4
 Russia,K-53949 Typhoon-K,2,2,1,0,5
-Russia,Ka-52 'Alligator' attack helicopter,16,1,4,6,27
+Russia,Ka-52 'Alligator' attack helicopter,17,1,4,6,28
 Russia,KamAZ 4x4,2,4,1,0,7
 Russia,KamAZ 4x4 tanker,1,0,0,0,1
 Russia,KamAZ 6x6,166,107,22,16,311
@@ -284,22 +299,22 @@ Russia,KrAZ-255B with excavator,1,1,0,0,2
 Russia,Lastochka-M reconnaissance UAV,0,1,0,0,1
 Russia,MDK-3 trench-digging vehicle,0,1,0,0,1
 Russia,MP-2IM signals vehicle,0,0,1,0,1
-Russia,MT-LB,100,99,24,1,224
+Russia,MT-LB,108,100,24,1,233
 Russia,MT-LB Ambulance,2,0,0,0,2
 Russia,MT-LB with ZU-23 AA gun,6,1,0,0,7
-Russia,MT-LBM 6MB,2,0,1,0,3
+Russia,MT-LBM 6MB,2,1,1,0,4
 Russia,MT-LBVM and MT-LBVMK,18,21,2,0,41
 Russia,MT-LBu,12,10,4,0,26
 Russia,MTU-72 bridge layer,0,2,0,0,2
 Russia,Merlin-VR reconnaissance UAV,1,0,0,0,1
 Russia,Mi-24P attack helicopter,2,0,0,0,2
 Russia,Mi-24V/P attack helicopter,3,0,0,0,3
-Russia,Mi-28 attack helicopter,7,0,0,0,7
+Russia,Mi-28 attack helicopter,8,0,0,0,8
 Russia,Mi-35M attack helicopter,7,0,0,0,7
 Russia,Mi-8 transport helicopter,16,0,2,0,18
 Russia,Orion UCAV,1,0,0,0,1
 Russia,Orlan-10 jamming UAV,0,1,0,0,1
-Russia,Orlan-10 reconnaissance UAV,40,34,0,0,74
+Russia,Orlan-10 reconnaissance UAV,40,35,0,0,75
 Russia,Orlan-30 reconnaissance UAV,2,1,0,0,3
 Russia,P-260-U signal vehicle (for Redut-2US signal and communications system),2,2,0,0,4
 Russia,PMP floating bridge,6,2,0,0,8
@@ -318,34 +333,36 @@ Russia,Project 775 Ropucha class landing ship,0,0,0,1,1
 Russia,R-145BM1 command vehicle,1,2,0,0,3
 Russia,R-149AKSh-1 command and signals vehicle,4,0,0,0,4
 Russia,R-149MA1 command and staff vehicle,18,16,3,1,38
-Russia,R-149MA3 command and staff vehicle,6,6,0,2,14
-Russia,R-166-0.5 signals vehicle,9,7,2,0,18
+Russia,R-149MA3 command and staff vehicle,6,8,0,2,16
+Russia,R-166-0.5 signals vehicle,9,8,2,0,19
 Russia,R-330BMV Borisoglebsk-2B,2,1,0,1,4
 Russia,R-330ZH Zhitel,2,0,0,0,2
 Russia,R-419L1 communications station,0,0,1,0,1
 Russia,REM-KL armoured recovery vehicle,2,1,0,0,3
-Russia,REM-KL recovery vehicle,1,0,0,0,1
+Russia,REM-KL recovery vehicle,1,0,0,1,2
 Russia,RKhM-6 Povozka,3,0,0,0,3
 Russia,SNAR-10M1 battlefield surveillance radar,0,1,0,0,1
 Russia,Silok-01 antenna,1,0,0,0,1
-Russia,Su-25 close air support aircraft,16,0,0,2,18
-Russia,Su-30SM multirole aircraft,7,0,0,0,7
+Russia,Su-24M/MR strike/tactical reconnaissance aircraft,1,0,0,2,3
+Russia,Su-24MR tactical reconnaissance aircraft,1,0,0,0,1
+Russia,Su-25 close air support aircraft,17,0,0,2,19
+Russia,Su-30SM multirole aircraft,8,0,0,1,9
 Russia,Su-34 strike aircraft,12,0,0,0,12
 Russia,Su-34(M) strike aircraft,1,0,0,0,1
 Russia,Su-35 multirole aircraft,1,0,0,0,1
 Russia,Supercam S450 reconnaissance UAV,0,1,0,0,1
 Russia,T-62M,0,0,0,2,2
-Russia,T-64BV,25,7,2,2,36
+Russia,T-64BV,26,7,2,2,37
 Russia,T-72A,11,15,1,1,28
 Russia,T-72AV,7,3,0,0,10
-Russia,T-72B,96,61,10,11,178
-Russia,T-72B Obr. 1989,39,25,5,4,73
-Russia,T-72B3,89,57,12,11,169
+Russia,T-72B,97,61,10,11,179
+Russia,T-72B Obr. 1989,39,25,5,5,74
+Russia,T-72B3,90,57,12,11,170
 Russia,T-72B3 Obr. 2016,59,69,10,13,151
 Russia,T-72BA,0,3,0,0,3
 Russia,T-80BV,28,16,7,5,56
 Russia,T-80BVM,17,22,1,2,42
-Russia,T-80U,33,40,17,5,95
+Russia,T-80U,34,40,17,5,96
 Russia,T-80UE-1,0,1,0,0,1
 Russia,T-80UE1,0,1,0,0,1
 Russia,T-80UK,1,1,1,0,3
@@ -366,7 +383,7 @@ Russia,UAZ-452 van,0,1,0,1,2
 Russia,UAZ-469,4,2,1,0,7
 Russia,UR-77 'Meteorit' mine clearing vehicle,0,0,1,0,1
 Russia,UR-77 'Meterorit' mine clearing vehicle,4,7,1,0,12
-Russia,Unknown AFV,108,2,4,5,119
+Russia,Unknown AFV,110,2,4,5,121
 Russia,Unknown BMP-1/2,46,0,2,5,53
 Russia,Unknown BTR-80/BTR-82A,25,0,3,1,29
 Russia,Unknown BTR-D/BMD-2,23,1,0,0,24
@@ -404,6 +421,7 @@ Russia,Vityaz DT-30 articulated tracked carrier,1,2,1,1,5
 Russia,ZALA 421-16Е2 reconnaissance UAV,2,2,0,0,4
 Russia,ZALA Aero KUB-BLA loitering munition,7,0,0,0,7
 Russia,ZSU-23-4 'Shilka',0,4,0,1,5
+Russia,ZSU-23-4 Shilka,0,0,1,0,1
 Russia,ZiL-131,5,1,2,1,9
 Russia,NA,1,0,0,0,1
 Ukraine,1 155mm AHS Krab,2,0,0,0,2
@@ -445,7 +463,7 @@ Ukraine,152mm 2S19 Msta-S,2,0,0,0,2
 Ukraine,152mm 2S3 Akatsiya,2,3,0,1,6
 Ukraine,152mm 2S5 Giatsint-S,0,1,0,0,1
 Ukraine,152mm D-20 gun-howitzer,1,2,0,0,3
-Ukraine,155mm M109A3GN,0,0,0,1,1
+Ukraine,155mm M109A3GN,0,0,0,2,2
 Ukraine,155mm M777A2 howitzer,3,0,0,0,3
 Ukraine,16 MT-LB,1,0,0,0,1
 Ukraine,1L22 'Parol',1,1,0,1,3
@@ -490,6 +508,7 @@ Ukraine,5 155mm M777A2 howitzer,1,0,0,0,1
 Ukraine,5 KrAZ Cobra,0,1,0,0,1
 Ukraine,5 MT-LB with ZU-23 AA gun,1,0,0,0,1
 Ukraine,50 BRDM-2,3,0,0,0,3
+Ukraine,50 Unknown truck,1,0,0,0,1
 Ukraine,53 BTR-80,7,0,0,0,7
 Ukraine,55 BTR-80,1,4,0,0,5
 Ukraine,58 BRDM-2,7,2,0,0,9
@@ -515,6 +534,7 @@ Ukraine,71 ZiL-131,1,0,0,0,1
 Ukraine,72 ZiL-131,1,0,0,0,1
 Ukraine,74 BMP-1(P),6,0,0,0,6
 Ukraine,8 100mm MT-12 anti-tank gun,1,1,0,1,3
+Ukraine,8 155mm M777A2 howitzer,0,0,0,1,1
 Ukraine,8 AT105A Saxon,0,1,0,0,1
 Ukraine,8 Kozak-2M1,0,1,0,0,1
 Ukraine,80 BMP-1(P),6,0,0,0,6
@@ -551,28 +571,28 @@ Ukraine,BMK-150 towing and motor boat,0,1,0,0,1
 Ukraine,BMM-4S Ambulance,0,1,0,0,1
 Ukraine,BMM-70 Ambulance,1,0,0,0,1
 Ukraine,BMP-1 BM,1,0,0,0,1
-Ukraine,BMP-1(P),46,18,9,2,75
+Ukraine,BMP-1(P),61,18,9,2,90
 Ukraine,BMP-1Khs,1,0,0,0,1
 Ukraine,BMP-1TS,2,0,0,0,2
 Ukraine,BMP-1U 'Shkval',0,1,0,0,1
 Ukraine,BMP-2,12,3,1,1,17
-Ukraine,BMP-2(K),8,4,0,0,12
+Ukraine,BMP-2(K),10,4,0,0,14
 Ukraine,BMP-2K,0,1,0,0,1
-Ukraine,BRDM-2,17,33,8,0,58
+Ukraine,BRDM-2,22,34,8,0,64
 Ukraine,BREM-1 ARV,0,1,0,0,1
 Ukraine,BRM-1K,2,6,0,1,9
 Ukraine,BRM-1K reconnaissance vehicle,0,1,0,0,1
 Ukraine,BSEM-4K,1,0,0,0,1
 Ukraine,BTR-3,12,6,0,1,19
-Ukraine,BTR-4,22,29,2,1,54
+Ukraine,BTR-4,23,29,2,1,55
 Ukraine,BTR-60,0,4,0,0,4
-Ukraine,BTR-60PB,2,1,0,0,3
-Ukraine,BTR-70,4,12,1,1,18
-Ukraine,BTR-80,22,24,0,2,48
+Ukraine,BTR-60PB,3,1,0,0,4
+Ukraine,BTR-70,5,12,1,1,19
+Ukraine,BTR-80,22,25,0,3,50
 Ukraine,BTR-D,1,1,0,0,2
 Ukraine,BTS-4 ARV,0,2,0,0,2
 Ukraine,BTS-4 ARV with ZU-23 AA gun,0,1,0,0,1
-Ukraine,Bayraktar TB2 UCAV,14,0,0,0,14
+Ukraine,Bayraktar TB2 UCAV,15,0,0,0,15
 Ukraine,Bogdan-63172,1,0,0,0,1
 Ukraine,Bogdan-63172 'Kozak',0,1,0,0,1
 Ukraine,Buk-M1,2,0,0,0,2
@@ -602,6 +622,7 @@ Ukraine,KrAZ-5233,3,6,0,0,9
 Ukraine,KrAZ-6322,3,14,0,2,19
 Ukraine,KrAZ-MPV Shrek One,0,2,0,0,2
 Ukraine,Krivak III class frigate 'Hetman Sahaydachniy',1,0,0,0,1
+Ukraine,L-39 jet trainer/light attack aircraft,1,0,0,0,1
 Ukraine,Leleka-100 reconnaissance UAV,1,2,0,0,3
 Ukraine,MAZ,11,2,2,1,16
 Ukraine,MAZ-5316,1,0,0,1,2
@@ -661,7 +682,7 @@ Ukraine,T-72 'Ural',0,4,0,3,7
 Ukraine,T-72A/M1,0,1,0,0,1
 Ukraine,T-72AMT,7,7,0,1,15
 Ukraine,T-72AV,4,1,0,0,5
-Ukraine,T-72B,5,6,0,1,12
+Ukraine,T-72B,6,6,0,1,13
 Ukraine,T-72M1,0,2,0,0,2
 Ukraine,T-80BV,4,8,1,4,17
 Ukraine,TMM-3M1 bridge layer,0,1,0,0,1
@@ -678,10 +699,10 @@ Ukraine,Unknown AFV,13,0,0,0,13
 Ukraine,Unknown BMP-1/2,1,0,0,0,1
 Ukraine,Unknown BTR,2,0,2,0,4
 Ukraine,Unknown SPG,2,0,0,0,2
-Ukraine,Unknown tank,17,0,0,0,17
+Ukraine,Unknown tank,18,0,0,0,18
 Ukraine,Unknown towed artillery,4,0,0,2,6
 Ukraine,Unknown truck,25,4,2,4,35
-Ukraine,Unknown vehicle,16,0,0,0,16
+Ukraine,Unknown vehicle,17,0,0,0,17
 Ukraine,Ural-375D,4,18,0,0,22
 Ukraine,Ural-4320,10,6,0,1,17
 Ukraine,Ural-4320 KET-L recovery vehicle,1,0,0,0,1
