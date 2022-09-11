@@ -1,21 +1,21 @@
 country,equipment_type,destroyed,abandoned,captured,damaged,type_total
-Russia,All Types,3644,302,1586,135,5667
-Russia,Tanks,639,51,308,43,1041
-Russia,Armoured Fighting Vehicles,365,29,129,7,530
-Russia,Infantry Fighting Vehicles,745,73,310,25,1153
+Russia,All Types,3662,302,1598,136,5698
+Russia,Tanks,643,51,311,44,1049
+Russia,Armoured Fighting Vehicles,369,29,128,7,533
+Russia,Infantry Fighting Vehicles,746,73,318,25,1162
 Russia,Armoured Personnel Carriers,79,9,64,2,154
 Russia,Mine-Resistant Ambush Protected,17,2,9,4,32
 Russia,Infantry Mobility Vehicles,82,1,32,2,117
-Russia,Command Posts And Communications Stations,67,8,46,0,121
-Russia,Engineering Vehicles And Equipment,76,38,72,3,189
-Russia,Self-Propelled Anti-Tank Missile Systems,9,5,10,0,24
+Russia,Command Posts And Communications Stations,68,8,46,0,122
+Russia,Engineering Vehicles And Equipment,77,38,72,3,190
+Russia,Self-Propelled Anti-Tank Missile Systems,9,5,11,0,25
 Russia,Heavy Mortars,8,0,8,0,16
 Russia,Artillery Support Vehicles And Equipment,28,2,23,0,53
 Russia,Towed Artillery,29,5,47,5,86
-Russia,Self-Propelled Artillery,99,13,54,7,173
+Russia,Self-Propelled Artillery,99,13,59,7,178
 Russia,Multiple Rocket Launchers,62,2,31,1,96
 Russia,Anti-Aircraft Guns,2,0,9,0,11
-Russia,Self-Propelled Anti-Aircraft Guns,9,3,5,0,17
+Russia,Self-Propelled Anti-Aircraft Guns,10,3,5,0,18
 Russia,Surface-To-Air Missile Systems,40,8,22,2,72
 Russia,Radars,7,0,8,0,15
 Russia,Jammers And Deception Systems,9,0,4,1,14
@@ -24,12 +24,12 @@ Russia,Helicopters,47,0,1,0,48
 Russia,Unmanned Aerial Vehicles,63,0,61,0,124
 Russia,Naval Ships,8,0,0,3,11
 Russia,Logistics Trains,3,0,0,0,3
-Russia,"Trucks, Vehicles and Jeeps",1101,53,321,28,1503
-Ukraine,All Types,888,43,604,39,1574
+Russia,"Trucks, Vehicles and Jeeps",1107,53,325,28,1513
+Ukraine,All Types,888,43,604,41,1576
 Ukraine,Tanks,137,8,105,5,255
 Ukraine,Armoured Fighting Vehicles,73,4,58,0,135
 Ukraine,Infantry Fighting Vehicles,143,13,61,5,222
-Ukraine,Armoured Personnel Carriers,50,2,46,3,101
+Ukraine,Armoured Personnel Carriers,50,2,46,5,103
 Ukraine,Mine-Resistant Ambush Protected,2,1,2,1,6
 Ukraine,Infantry Mobility Vehicles,55,1,77,2,135
 Ukraine,Command Posts And Communications Stations,4,0,3,0,7
