@@ -1,18 +1,18 @@
 country,equipment_type,destroyed,abandoned,captured,damaged,type_total
-Russia,All Types,3788,303,1866,140,6097
-Russia,Tanks,672,51,361,44,1128
-Russia,Armoured Fighting Vehicles,386,29,159,9,583
-Russia,Infantry Fighting Vehicles,782,73,384,25,1264
-Russia,Armoured Personnel Carriers,80,9,73,2,164
+Russia,All Types,3806,303,1887,141,6137
+Russia,Tanks,672,51,363,44,1130
+Russia,Armoured Fighting Vehicles,387,29,166,9,591
+Russia,Infantry Fighting Vehicles,784,73,386,26,1269
+Russia,Armoured Personnel Carriers,80,9,74,2,165
 Russia,Mine-Resistant Ambush Protected,17,2,10,4,33
 Russia,Infantry Mobility Vehicles,86,1,38,2,127
-Russia,Command Posts And Communications Stations,72,8,62,0,142
-Russia,Engineering Vehicles And Equipment,80,39,81,3,203
+Russia,Command Posts And Communications Stations,72,8,61,0,141
+Russia,Engineering Vehicles And Equipment,81,39,81,3,204
 Russia,Self-Propelled Anti-Tank Missile Systems,9,5,11,0,25
-Russia,Heavy Mortars,9,0,9,0,18
+Russia,Heavy Mortars,9,0,11,0,20
 Russia,Artillery Support Vehicles And Equipment,29,2,28,0,59
 Russia,Towed Artillery,30,5,50,5,90
-Russia,Self-Propelled Artillery,103,13,78,8,202
+Russia,Self-Propelled Artillery,103,13,79,8,203
 Russia,Multiple Rocket Launchers,65,2,41,1,109
 Russia,Anti-Aircraft Guns,2,0,8,0,10
 Russia,Self-Propelled Anti-Aircraft Guns,10,3,5,0,18
@@ -24,11 +24,11 @@ Russia,Helicopters,47,0,1,0,48
 Russia,Unmanned Aerial Vehicles,64,0,63,0,127
 Russia,Naval Ships,8,0,0,3,11
 Russia,Logistics Trains,3,0,0,0,3
-Russia,"Trucks, Vehicles and Jeeps",1125,53,364,29,1571
-Ukraine,All Types,905,44,606,40,1595
+Russia,"Trucks, Vehicles and Jeeps",1139,53,370,29,1591
+Ukraine,All Types,907,44,606,40,1597
 Ukraine,Tanks,143,9,106,5,263
 Ukraine,Armoured Fighting Vehicles,74,3,59,0,136
-Ukraine,Infantry Fighting Vehicles,148,13,62,5,228
+Ukraine,Infantry Fighting Vehicles,150,13,62,5,230
 Ukraine,Armoured Personnel Carriers,52,2,46,5,105
 Ukraine,Mine-Resistant Ambush Protected,3,1,2,1,7
 Ukraine,Infantry Mobility Vehicles,56,1,77,2,136
