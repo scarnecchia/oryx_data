@@ -316,6 +316,7 @@ Russia,43 152mm 2S3(M) Akatsiya,0,1,0,0,1
 Russia,43 Unknown BTR-80/BTR-82A,0,1,0,0,1
 Russia,436 KamAZ 6x6,7,4,0,1,12
 Russia,44 (Unknown) vehicle,1,0,0,0,1
+Russia,44 152mm 2A65 Msta-B howitzer,1,0,0,0,1
 Russia,44 152mm 2S3(M) Akatsiya,0,1,0,0,1
 Russia,44 R-149MA1 command and staff vehicle,0,2,0,0,2
 Russia,440 KamAZ 6x6,1,2,0,0,3
@@ -432,6 +433,7 @@ Russia,7 Ural-63704-0010 Tornado-U,0,1,0,1,2
 Russia,7 ZiL-131,1,0,0,0,1
 Russia,70 122mm BM-21 Grad,1,2,0,0,3
 Russia,70 152mm 2S19 Msta-S,0,1,0,0,1
+Russia,70 T-72B Obr. 1989,1,0,0,0,1
 Russia,70 T-80BV,2,0,0,0,2
 Russia,70 Unknown BMP-1/2,3,0,0,0,3
 Russia,70 Ural-4320 tanker,1,0,0,0,1
@@ -479,6 +481,7 @@ Russia,87 T-80BV,1,5,0,0,6
 Russia,87 T-80U,1,0,0,0,1
 Russia,87 Ural-4320 tanker,1,0,0,0,1
 Russia,88 T-80BV,2,2,0,1,5
+Russia,88 T-80U,0,1,0,0,1
 Russia,89 BTR-80,0,4,0,0,4
 Russia,9 'Orlan-20' ''Kartograf'' reconnaissance UAV,1,0,0,0,1
 Russia,9 122mm 2B17 Tornado-G,0,1,0,0,1
@@ -571,7 +574,7 @@ Russia,BMP-1KSh command and staff vehicle,2,0,0,0,2
 Russia,BMP-1Khs,1,3,1,0,5
 Russia,BMP-2,183,66,27,12,288
 Russia,BMP-2 675-sb3KDZ,0,1,0,0,1
-Russia,BMP-2(K),122,96,7,17,242
+Russia,BMP-2(K),123,97,7,17,244
 Russia,BMP-2K,0,0,1,0,1
 Russia,BMP-2M,1,1,0,0,2
 Russia,BMP-3,109,55,5,9,178
@@ -691,7 +694,7 @@ Russia,T-62M,2,1,1,2,6
 Russia,T-64BV,31,7,2,3,43
 Russia,T-72A,14,15,1,1,31
 Russia,T-72AV,7,3,0,0,10
-Russia,T-72B,121,72,10,11,214
+Russia,T-72B,122,72,10,11,215
 Russia,T-72B Obr. 1989,47,29,6,6,88
 Russia,T-72B3,118,85,13,17,233
 Russia,T-72B3 Obr. 2016,83,89,11,15,198
@@ -703,7 +706,7 @@ Russia,T-80UE-1,0,1,0,0,1
 Russia,T-80UE1,0,1,0,0,1
 Russia,T-80UK,1,1,1,0,3
 Russia,T-80UM2,1,0,0,0,1
-Russia,T-90A,15,11,4,0,30
+Russia,T-90A,15,11,5,0,31
 Russia,T-90M,2,0,1,0,3
 Russia,TMM-3 bridge layer,5,15,3,4,27
 Russia,TZM-T reloader vehicle (for TOS-1A),4,6,2,0,12
@@ -914,6 +917,7 @@ Ukraine,72 ZiL-131,1,0,0,0,1
 Ukraine,74 BMP-1(P),6,0,0,0,6
 Ukraine,8 100mm MT-12 anti-tank gun,1,1,0,1,3
 Ukraine,8 155mm M777A2 howitzer,0,0,0,1,1
+Ukraine,8 A1-SM Fury reconnaissance UAV,1,0,0,0,1
 Ukraine,8 AT105A Saxon,0,1,0,0,1
 Ukraine,8 Kozak-2M1,1,1,0,0,2
 Ukraine,80 BMP-1(P),6,0,0,0,6

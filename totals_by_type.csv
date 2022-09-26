@@ -1,8 +1,8 @@
 country,equipment_type,destroyed,abandoned,captured,damaged,type_total
-Russia,All Types,3926,305,2014,146,6391
-Russia,Tanks,698,54,391,45,1188
+Russia,All Types,3928,307,2016,146,6397
+Russia,Tanks,699,56,392,45,1192
 Russia,Armoured Fighting Vehicles,398,29,178,9,614
-Russia,Infantry Fighting Vehicles,792,73,420,29,1314
+Russia,Infantry Fighting Vehicles,792,73,421,29,1315
 Russia,Armoured Personnel Carriers,82,9,73,2,166
 Russia,Mine-Resistant Ambush Protected,19,2,10,4,35
 Russia,Infantry Mobility Vehicles,87,1,39,2,129
@@ -11,7 +11,7 @@ Russia,Engineering Vehicles And Equipment,82,39,84,3,208
 Russia,Self-Propelled Anti-Tank Missile Systems,9,5,11,0,25
 Russia,Heavy Mortars,9,0,12,0,21
 Russia,Artillery Support Vehicles And Equipment,29,2,30,0,61
-Russia,Towed Artillery,30,5,54,5,94
+Russia,Towed Artillery,31,5,54,5,95
 Russia,Self-Propelled Artillery,104,13,86,8,211
 Russia,Multiple Rocket Launchers,65,2,41,1,109
 Russia,Anti-Aircraft Guns,2,0,8,0,10
@@ -25,7 +25,7 @@ Russia,Unmanned Aerial Vehicles,66,0,65,0,131
 Russia,Naval Ships,8,0,0,3,11
 Russia,Logistics Trains,3,0,0,0,3
 Russia,"Trucks, Vehicles and Jeeps",1192,53,400,30,1675
-Ukraine,All Types,931,51,609,41,1632
+Ukraine,All Types,932,51,609,41,1633
 Ukraine,Tanks,145,9,108,5,267
 Ukraine,Armoured Fighting Vehicles,76,3,59,0,138
 Ukraine,Infantry Fighting Vehicles,160,18,62,5,245
@@ -48,6 +48,6 @@ Ukraine,Radars And Communications Equipment,12,1,7,2,22
 Ukraine,Jammers And Deception Systems,0,0,1,0,1
 Ukraine,Aircraft,46,0,1,0,47
 Ukraine,Helicopters,11,0,3,0,14
-Ukraine,Unmanned Aerial Vehicles,25,0,10,0,35
+Ukraine,Unmanned Aerial Vehicles,26,0,10,0,36
 Ukraine,Naval Ships,7,0,13,0,20
 Ukraine,"Trucks, Vehicles and Jeeps",183,5,150,6,344
