@@ -1,504 +1,505 @@
 country,origin,system,status,url,date_recorded,sysID,imageID,statusID,matID
 Russia,Russia,(Unknown) truck,damaged,https://twitter.com/UAWeapons/status/1524489058235387912,2022-05-14,3,11,3,7-3113
 Russia,Russia,(Unknown) truck,damaged,https://twitter.com/UAWeapons/status/1539006612525965314,2022-06-26,3,36,3,7-3363
-Russia,Russia,(Unknown) vehicle,damaged,https://twitter.com/UAWeapons/status/1514229936898387972,2022-04-13,4,117,3,7-41173
-Russia,Russia,(Unknown) vehicle,damaged,https://twitter.com/UAWeapons/status/1515327665330442246,2022-04-18,4,121,3,7-41213
-Russia,Russia,(Unknown) vehicle,damaged,https://twitter.com/UAWeapons/status/1523070374077902848,2022-05-08,4,126,3,7-41263
-Russia,Soviet Union,1 T-62MV,damaged,https://twitter.com/UAWeapons/status/1577189346587082752,2022-10-05,40,165,3,7-401653
-Russia,Russia,10 KamAZ-5350 with armoured cab,damaged,https://twitter.com/UAWeapons/status/1568344642105532418,2022-09-10,59,189,3,7-591893
-Russia,Soviet Union,10 UAZ-452 van,damaged,https://i.postimg.cc/Hk2737Xj/1005-uaz452.jpg,2022-08-08,65,196,3,7-651963
-Russia,Soviet Union,102 T-80BV,damaged,https://twitter.com/UAWeapons/status/1572198403517419523,2022-09-22,74,211,3,7-742113
-Russia,Soviet Union,104 BMP-1(P),damaged,https://i.postimg.cc/906fchkJ/1004.jpg,2022-07-08,77,218,3,7-772183
-Russia,Soviet Union,11 IMR-2(M) combat engineering vehicle,damaged,https://i.postimg.cc/B6tqKYCg/1014-IMR2.jpg,2022-09-12,89,238,3,7-892383
-Russia,Soviet Union,11 UAZ-452 van,damaged,https://i.postimg.cc/HxGSMy5N/1013-uaz452.jpg,2022-08-18,95,245,3,7-952453
-Russia,Soviet Union,112 MT-LBVM and MT-LBVMK,damaged,https://i.postimg.cc/Y0Rs4CTd/2022-10-01-MT-LBVM.jpg,2022-10-02,103,261,3,7-1032613
-Russia,Soviet Union,115 BMP-1(P),damaged,https://i.postimg.cc/4NDTHKWz/1000-bmp-1.jpg,2022-08-05,108,268,3,7-1082683
-Russia,Soviet Union,12 UAZ-452 van,damaged,https://i.postimg.cc/02942jVH/1009-uar452.jpg,2022-09-09,118,289,3,7-1182893
-Russia,Soviet Union,120mm 2B16 Nona-K howitzer,damaged,https://i.postimg.cc/q79rzL7Q/478.png,2022-04-06,123,311,3,7-1233113
-Russia,Soviet Union,122mm 2S1 Gvozdika,damaged,https://i.postimg.cc/pXrnFmJS/48j.png,2022-06-29,130,359,3,7-1303593
-Russia,Soviet Union,122mm 2S1 Gvozdika,damaged,https://i.postimg.cc/5t3YHBgX/1005-2s1-gvozdika.jpg,2022-08-31,130,362,3,7-1303623
-Russia,Soviet Union,122mm BM-21 'Grad',damaged,https://i.postimg.cc/s2wR9DPH/768.png,2022-03-19,131,377,3,7-1313773
-Russia,Soviet Union,122mm BM-21 'Grad',damaged,https://i.postimg.cc/kGHcy5Hv/31.png,2022-03-26,131,388,3,7-1313883
-Russia,Soviet Union,122mm BM-21 'Grad',damaged,https://i.postimg.cc/jjfczBpW/856.jpg,2022-05-01,131,405,3,7-1314053
-Russia,Soviet Union,122mm BM-21 'Grad',damaged,https://i.postimg.cc/QtHX5cSf/332.png,2022-05-05,131,406,3,7-1314063
-Russia,Soviet Union,122mm BM-21 Grad,damaged,https://i.postimg.cc/RZnpMSc8/43f6.png,2022-05-23,132,411,3,7-1324113
-Russia,Soviet Union,132 BMP-1(P),damaged,https://i.postimg.cc/GmKgzL7N/1020-bmp1-2.jpg,2022-09-09,149,457,3,7-1494573
-Russia,Soviet Union,14 IMR-2(M) combat engineering vehicle,damaged,https://twitter.com/UAWeapons/status/1569229469990227970,2022-09-13,156,473,3,7-1564733
-Russia,Soviet Union,144 BMP-1(P),damaged,https://twitter.com/UAWeapons/status/1569295685689954305,2022-09-13,161,485,3,7-1614853
-Russia,Soviet Union,152mm 2A65 Msta-B howitzer,damaged,https://i.postimg.cc/yYx8J43v/Screenshot-8073.png,2022-03-19,171,505,3,7-1715053
-Russia,Soviet Union,152mm 2A65 Msta-B howitzer,damaged,https://i.postimg.cc/Y9xbmgHf/6655.jpg,2022-03-30,171,512,3,7-1715123
-Russia,Soviet Union,152mm 2A65 Msta-B howitzer,damaged,https://i.postimg.cc/QCTj6V1n/1003-1x-2-A65-Msta-B-damaged.jpg,2022-08-04,171,525,3,7-1715253
-Russia,Soviet Union,152mm 2A65 Msta-B howitzer,damaged,https://postimg.cc/q6CYJkkd,2022-08-18,171,527,3,7-1715273
-Russia,Soviet Union,152mm 2A65 Msta-B howitzer,damaged,https://i.postimg.cc/4338Nym4/1024-msta-b.jpg,2022-09-08,171,529,3,7-1715293
-Russia,Soviet Union,152mm 2S19 Msta-S,damaged,https://i.postimg.cc/V6hfPDxL/19.png,2022-04-04,172,565,3,7-1725653
-Russia,Soviet Union,152mm 2S19 Msta-S,damaged,https://i.postimg.cc/jqZ7G0y7/1005-msta-s-damaged.jpg,2022-08-15,172,596,3,7-1725963
-Russia,Soviet Union,152mm 2S19 Msta-S,damaged,https://i.postimg.cc/ncrDxR1w/1006-msta-s-damaged.jpg,2022-08-15,172,597,3,7-1725973
-Russia,Soviet Union,152mm 2S3 Akatsiya,damaged,https://i.postimg.cc/8kr2TQRq/324.png,2022-03-26,173,614,3,7-1736143
-Russia,Soviet Union,152mm 2S3 Akatsiya,damaged,https://twitter.com/UAWeapons/status/1506371635754029059,2022-03-26,173,615,3,7-1736153
-Russia,Soviet Union,152mm D-20 gun-howitzer,damaged,https://i.postimg.cc/gj2R3Wt5/1018-D-20-destr.jpg,2022-10-04,176,654,3,7-1766543
-Russia,Soviet Union,164 BMP-1(P),damaged,https://twitter.com/Blue_Sauron/status/1577397473257361408,2022-10-05,188,676,3,7-1886763
-Russia,Soviet Union,1V14 battery command and forward observer vehicle,damaged,https://i.postimg.cc/sDTPR0kN/23.jpg,2022-04-09,211,726,3,7-2117263
-Russia,Soviet Union,2 203mm 2S7M Malka,damaged,https://i.postimg.cc/kXvxwvLv/1008.jpg,2022-07-25,214,730,3,7-2147303
-Russia,Soviet Union,2 T-80BVK,damaged,https://i.postimg.cc/KjgLdNVP/1010.jpg,2022-07-27,228,752,3,7-2287523
-Russia,Soviet Union,20 BRM-1K reconnaissance vehicle,damaged,https://twitter.com/Blue_Sauron/status/1577397473257361408,2022-10-05,235,676,3,7-2356763
-Russia,Russia,204 Unknown tank,damaged,https://twitter.com/UAWeapons/status/1557732021937455104,2022-08-13,240,777,3,7-2407773
-Russia,Russia,204 Unknown tank,damaged,https://i.postimg.cc/8kwYcCfR/1002-unkn-tank.jpg,2022-08-13,240,778,3,7-2407783
-Russia,Russia,220mm TOS-1A,damaged,https://i.postimg.cc/C5BcPB1R/54f.png,2022-04-04,257,858,3,7-2578583
-Russia,Russia,220mm TOS-1A,damaged,https://i.postimg.cc/JhPdySQX/69.png,2022-04-10,257,859,3,7-2578593
-Russia,Russia,220mm TOS-1A,damaged,https://i.postimg.cc/HL58qWkz/76.jpg,2022-05-03,257,860,3,7-2578603
-Russia,Russia,220mm TOS-1A,damaged,https://i.postimg.cc/BbybtzsD/4311.png,2022-05-10,257,863,3,7-2578633
-Russia,Russia,233 BTR-82A(M),damaged,https://twitter.com/UAWeapons/status/1570423464971976705,2022-09-16,261,876,3,7-2618763
-Russia,Russia,233 BTR-82A(M),damaged,https://i.postimg.cc/yxpp9Gb4/2022-09-17-BTR-82-A.png,2022-09-19,261,880,3,7-2618803
-Russia,Soviet Union,23mm ZU-23-2,damaged,https://twitter.com/UAWeapons/status/1567822704601858048,2022-09-09,265,892,3,7-2658923
-Russia,Russia,24 KamAZ Avtozaks,damaged,https://i.postimg.cc/05BPkMNb/1004-Kam-AZ-Avtozaks.jpg,2022-08-24,267,895,3,7-2678953
-Russia,Russia,2K22M1 Tunguska,damaged,https://i.postimg.cc/9MqLyHJZ/764.png,2022-03-19,285,946,3,7-2859463
-Russia,Russia,2K22M1 Tunguska,damaged,https://i.postimg.cc/L8ZkVWLr/698.png,2022-04-09,285,949,3,7-2859493
-Russia,Russia,3 BMP-2M,damaged,https://twitter.com/UAWeapons/status/1572504785693310978,2022-09-22,293,961,3,7-2939613
-Russia,Soviet Union,30 122mm D-30 howitzer,damaged,https://i.postimg.cc/ZRrPVHSv/1169-d30.jpg,2022-08-23,303,971,3,7-3039713
-Russia,Russia,30 T-80BVM,damaged,https://i.postimg.cc/MKnvkmBv/1020-t80bvm-nr14.jpg,2022-08-13,306,976,3,7-3069763
-Russia,Russia,31 R-149MA3 command and staff vehicle,damaged,https://i.postimg.cc/qvy9mBSj/1013-R-149-MA3-dmg-capt.jpg,2022-10-02,314,991,3,7-3149913
-Russia,Russia,31 T-80BVM,damaged,https://i.postimg.cc/rwk9X6Y1/1000-t80bvm-nr-14.jpg,2022-08-14,315,993,3,7-3159933
-Russia,Russia,33 T-80BVM,damaged,https://i.postimg.cc/qRpN5jRw/1002-t80bvm.jpg,2022-08-15,319,1011,3,7-31910113
-Russia,Russia,335 Ural-4320,damaged,https://i.postimg.cc/zfZxn94Q/1118_Ural-4320_damaged_and_abandoned.jpg,2022-07-28,321,1042,3,7-32110423
-Russia,Russia,341 Ural-4320,damaged,https://i.postimg.cc/D0HCdSTm/1000-ural4320.jpg,2022-08-13,328,1090,3,7-32810903
-Russia,Russia,341 Ural-4320,damaged,https://postimg.cc/mhsHRWKh,2022-08-13,328,1091,3,7-32810913
-Russia,Russia,343 KamAZ 6x6,damaged,https://i.postimg.cc/zvHZkHg5/1001-kamaz-6x6.jpg,2022-08-09,331,1098,3,7-33110983
-Russia,Russia,343 Ural-4320,damaged,https://i.postimg.cc/NF1WZv0L/1002-ural4320.jpg,2022-08-17,332,1099,3,7-33210993
-Russia,Russia,35 T-80BVM,damaged,https://i.postimg.cc/qMTDvQnb/1003-t80bvm.jpg,2022-08-30,334,1101,3,7-33411013
-Russia,Russia,353 KamAZ 6x6,damaged,https://i.postimg.cc/gktrF01S/1001-REM-KL-Kamaz-6x6.jpg,2022-08-13,336,1108,3,7-33611083
-Russia,Russia,360 Ural-4320,damaged,https://i.postimg.cc/zG5zScVY/1144-ural-dam-capt.jpg,2022-08-23,342,1132,3,7-34211323
-Russia,Russia,365 Ural-4320,damaged,https://i.postimg.cc/fRrqKKD6/1008-ural4320.png,2022-09-09,345,1140,3,7-34511403
-Russia,Russia,386 KamAZ 6x6,damaged,https://i.postimg.cc/pLHBThD2/1132-kamaz-capt-dam.jpg,2022-08-23,358,1199,3,7-35811993
-Russia,Russia,392 KamAZ 6x6,damaged,https://twitter.com/UAWeapons/status/1568341095591088130,2022-09-10,365,1209,3,7-36512093
-Russia,Russia,398 Ural-4320,damaged,https://twitter.com/UAWeapons/status/1570482813857837056,2022-09-16,368,1216,3,7-36812163
-Russia,Russia,4 UAZ-394511 ‘Esaul’,damaged,https://i.postimg.cc/3ww79TFW/1000-Esaul.png,2022-08-13,371,1220,3,7-37112203
-Russia,Soviet Union,4 Unknown T-72,damaged,https://twitter.com/UAWeapons/status/1566072209642340352,2022-09-04,373,1222,3,7-37312223
-Russia,Soviet Union,4 Unknown towed artillery,damaged,https://i.postimg.cc/9FRhFdXp/1009-unkn-towed-art.jpg,2022-08-31,375,1223,3,7-37512233
-Russia,Russia,404 KamAZ 6x6,damaged,https://twitter.com/UAWeapons/status/1568628787457433600,2022-09-14,383,1240,3,7-38312403
-Russia,Russia,42 Unknown BTR-80/BTR-82A,damaged,https://twitter.com/UAWeapons/status/1570482813857837056,2022-09-16,393,1216,3,7-39312163
-Russia,Russia,420 Ural-4320,damaged,https://twitter.com/UAWeapons/status/1573229914483998720,2022-09-24,395,1268,3,7-39512683
-Russia,Russia,420 Ural-4320,damaged,https://i.postimg.cc/4dMmdk4Y/1006-ural4320.jpg,2022-09-24,395,1269,3,7-39512693
-Russia,Russia,436 KamAZ 6x6,damaged,https://i.postimg.cc/9z58PTRG/2022-09-19-Kam-AZ-6x6-1.jpg,2022-09-22,407,1300,3,7-40713003
-Russia,Russia,440 Ural-4320,damaged,https://i.postimg.cc/FRFP7LCS/1000-ural4320-dam-capt.jpg,2022-10-05,416,1317,3,7-41613173
-Russia,Russia,458 KamAZ 6x6,damaged,https://i.postimg.cc/VvtRYvjh/1005-kamaz-6x6-capt-dam.jpg,2022-10-02,424,1329,3,7-42413293
-Russia,Soviet Union,48 Unknown T-72,damaged,https://twitter.com/UAWeapons/status/1568696183836577798,2022-09-11,437,1351,3,7-43713513
-Russia,Russia,5 KamAZ-5350 with KS-45719-7M crane,damaged,https://i.postimg.cc/brrYjVdG/1015.jpg,2022-06-26,449,1368,3,7-44913683
-Russia,Russia,50 R-149MA1 command and staff vehicle,damaged,https://i.postimg.cc/pdvXZrd8/268.png,2022-09-15,458,1378,3,7-45813783
-Russia,Soviet Union,507 BMP-2(K),damaged,https://twitter.com/UAWeapons/status/1576153130751827969,2022-10-02,462,1390,3,7-46213903
-Russia,Russia,53 BMD-4M,damaged,https://i.postimg.cc/NfryXnSw/1032-BMD4-M.jpg,2022-07-28,470,1417,3,7-47014173
-Russia,Soviet Union,58 152mm 2S3(M) Akatsiya,damaged,https://twitter.com/UAWeapons/status/1569742426469720066,2022-09-14,487,1447,3,7-48714473
-Russia,Russia,6 T-72BA,damaged,https://i.postimg.cc/D0DT1XGd/1006-t72ba.jpg,2022-08-20,500,1464,3,7-50014643
-Russia,Russia,6 Unknown SPG,damaged,https://i.postimg.cc/brmSsT57/1001-unkn-spg.jpg,2022-08-23,502,1468,3,7-50214683
-Russia,Soviet Union,61 122mm BM-21 Grad,damaged,https://i.postimg.cc/43SsyRyt/1000-bm21.jpg,2022-09-09,509,1478,3,7-50914783
-Russia,Soviet Union,61 122mm BM-21 Grad,damaged,https://i.postimg.cc/FKBjwrRR/1015-bm21-grad.jpg,2022-09-09,509,1479,3,7-50914793
-Russia,Russia,61 Ural-43206,damaged,https://i.postimg.cc/R0QNMfTp/1141-Ural-43206-abandoned-and-damaged.jpg,2022-07-28,513,1491,3,7-51314913
-Russia,Russia,63 Ural-43206,damaged,https://i.postimg.cc/9F3SwNRP/1007-ural43206.jpg,2022-08-04,523,1507,3,7-52315073
-Russia,Soviet Union,64 122mm BM-21 Grad,damaged,https://twitter.com/UAWeapons/status/1550508867930529794,2022-07-24,524,1509,3,7-52415093
-Russia,Russia,65 KamAZ 6x6 tanker,damaged,https://i.postimg.cc/DyJTzQPv/1002-kamaz-tanker-x2-damaged.jpg,2022-08-05,528,1517,3,7-52815173
-Russia,Soviet Union,67 T-80BV,damaged,https://twitter.com/UAWeapons/status/1564716856950366208,2022-08-31,537,1533,3,7-53715333
-Russia,Soviet Union,7 UAZ-469 jeep,damaged,https://i.postimg.cc/1tx1VCKR/1088-UAZ-469.jpg,2022-07-28,552,1547,3,7-55215473
-Russia,Russia,7 Ural-63704-0010 Tornado-U,damaged,https://twitter.com/UAWeapons/status/1568628787457433600,2022-09-14,555,1240,3,7-55512403
-Russia,Soviet Union,72 T-72B Obr. 1989,damaged,https://twitter.com/Blue_Sauron/status/1575425367027892226,2022-09-30,571,480,3,7-5714803
-Russia,Soviet Union,76 122mm BM-21 Grad,damaged,https://twitter.com/UAWeapons/status/1575041804738523137,2022-09-28,583,96,3,7-583963
-Russia,Soviet Union,79 122mm BM-21 Grad,damaged,https://i.postimg.cc/R0wcBGnP/1012-bm21-capt.jpg,2022-10-04,591,1605,3,7-59116053
-Russia,Russia,79 KamAZ 6x6 tanker,damaged,https://i.postimg.cc/MGNqLr79/1000-kamaz-tanker-dam-capt.jpg,2022-10-06,592,1606,3,7-59216063
-Russia,Russia,8 BMP-2M,damaged,https://twitter.com/UAWeapons/status/1577686060473225217,2022-10-06,599,1616,3,7-59916163
-Russia,Russia,8 K-53949 Linza,damaged,https://twitter.com/UAWeapons/status/1568899249688952833,2022-09-12,600,1164,3,7-60011643
-Russia,Soviet Union,8 T-62M,damaged,https://i.postimg.cc/FHvqwqSC/1007-t62m-dam-aban.jpg,2022-10-04,604,1622,3,7-60416223
-Russia,Russia,83 T-80U,damaged,https://twitter.com/UAWeapons/status/1570479830562672640,2022-09-16,615,1639,3,7-61516393
-Russia,Russia,83 T-80U,damaged,https://twitter.com/UAWeapons/status/1571501699348430849,2022-09-19,615,1640,3,7-61516403
-Russia,Russia,86 Ural-4320 tanker,damaged,https://i.postimg.cc/JhRL94Pf/1026-ural-tanker.jpg,2022-09-10,621,1658,3,7-62116583
-Russia,Soviet Union,88 T-80BV,damaged,https://twitter.com/UAWeapons/status/1570138425843408896,2022-09-15,625,1160,3,7-62511603
-Russia,Soviet Union,9 ZiL-131,damaged,https://i.postimg.cc/tCWmqrwD/2022-09-19-Zi-L-131.jpg,2022-09-22,642,1687,3,7-64216873
-Russia,Soviet Union,90 MT-LBVM and MT-LBVMK,damaged,https://postimg.cc/mP4082r3,2022-08-13,645,1693,3,7-64516933
-Russia,Soviet Union,99 T-80BV,damaged,https://i.postimg.cc/MpQzsjSp/1007-t80bv.jpg,2022-09-20,677,1739,3,7-67717393
-Russia,Russia,9A310M1 TELAR (for Buk-M1-2),damaged,https://i.postimg.cc/DZXDG2k3/779.png,2022-03-19,681,1748,3,7-68117483
-Russia,Russia,9A317 TELAR (for Buk-M2),damaged,https://i.postimg.cc/JnCgXRXL/1016-9-A317.jpg,2022-08-23,685,1760,3,7-68517603
-Russia,Soviet Union,9A330 Tor TLAR (for 9K330 Tor),damaged,https://i.postimg.cc/x18N2bPf/g4.jpg,2022-04-06,686,1762,3,7-68617623
-Russia,Soviet Union,9A330 Tor TLAR (for 9K330 Tor),damaged,https://i.postimg.cc/KvJ3w5Bp/g5.jpg,2022-04-06,686,1763,3,7-68617633
-Russia,Soviet Union,9A330 Tor TLAR (for 9K330 Tor),damaged,https://i.postimg.cc/1XzB0gjR/7j7.png,2022-04-13,686,1765,3,7-68617653
-Russia,Soviet Union,9A330 Tor TLAR (for 9K330 Tor),damaged,https://i.postimg.cc/CMbpsN0w/553.jpg,2022-04-20,686,1766,3,7-68617663
-Russia,Soviet Union,9A330 Tor TLAR (for 9K330 Tor-M),damaged,https://i.postimg.cc/mgHPxQR3/5k.png,2022-03-19,687,1768,3,7-68717683
-Russia,Soviet Union,9K33 Osa,damaged,https://i.postimg.cc/PxkdsRX3/438.png,2022-03-19,693,1787,3,7-69317873
-Russia,Soviet Union,9P148 Konkurs,damaged,https://i.postimg.cc/KYLvDyD2/1007-9-P148-Konkurs-dmg-capt.jpg,2022-10-02,701,1831,3,7-70118313
-Russia,Russia,9T244 transloader (for 9A330/1 Tor),damaged,https://i.postimg.cc/x1t6g70s/d34.jpg,2022-04-06,712,1863,3,7-71218633
-Russia,Russia,Armoured SUV,damaged,https://i.postimg.cc/JhV6T907/329.png,2022-03-19,715,1882,3,7-71518823
-Russia,Soviet Union,BMD-2,damaged,https://i.postimg.cc/hvdB25Hw/j2.jpg,2022-03-19,718,1910,3,7-71819103
-Russia,Soviet Union,BMD-2,damaged,https://i.postimg.cc/MTmVp6Hz/c5.png,2022-03-19,718,1916,3,7-71819163
-Russia,Soviet Union,BMD-2,damaged,https://twitter.com/UAWeapons/status/1522706604977762313,2022-05-10,718,1985,3,7-71819853
-Russia,Soviet Union,BMD-2,damaged,https://twitter.com/UAWeapons/status/1534592976671866884,2022-06-09,718,1990,3,7-71819903
-Russia,Soviet Union,BMD-2,damaged,https://i.postimg.cc/nc5hKV4Y/1027-bmd2.jpg,2022-08-22,718,2023,3,7-71820233
-Russia,Soviet Union,BMD-2,damaged,https://i.postimg.cc/X7HkcTPY/1000-bmd2.jpg,2022-08-30,718,2025,3,7-71820253
-Russia,Russia,BMD-4M,damaged,https://i.postimg.cc/2jGTdhtw/45.jpg,2022-04-06,719,2075,3,7-71920753
-Russia,Soviet Union,BMP-1(P),damaged,https://postimg.cc/DJp7JbvH,2022-03-19,723,2116,3,7-72321163
-Russia,Soviet Union,BMP-1(P),damaged,https://twitter.com/RALee85/status/1521768997900984321,2022-05-05,723,2147,3,7-72321473
-Russia,Soviet Union,BMP-1(P),damaged,https://i.postimg.cc/QMPbRrpP/8j.png,2022-05-14,723,2149,3,7-72321493
-Russia,Soviet Union,BMP-1(P),damaged,https://i.postimg.cc/W4wTp5Qd/6h5.png,2022-05-26,723,2174,3,7-72321743
-Russia,Soviet Union,BMP-1(P),damaged,https://i.postimg.cc/CLz7N7gC/d3.jpg,2022-06-11,723,2187,3,7-72321873
-Russia,Soviet Union,BMP-1(P),damaged,https://twitter.com/UAWeapons/status/1535717957652865029,2022-06-26,723,2192,3,7-72321923
-Russia,Soviet Union,BMP-1(P),damaged,https://i.postimg.cc/Z5cKsDdh/478.png,2022-06-26,723,2193,3,7-72321933
-Russia,Soviet Union,BMP-1(P),damaged,https://twitter.com/UAWeapons/status/1536424104957460480,2022-06-26,723,2188,3,7-72321883
-Russia,Russia,BMP-1AM,damaged,https://i.postimg.cc/0Nbx8HDv/dc.jpg,2022-05-08,724,2197,3,7-72421973
-Russia,Russia,BMP-1AM,damaged,https://i.postimg.cc/HLqkkqg0/1003-bmp1am.jpg,2022-08-08,724,2211,3,7-72422113
-Russia,Russia,BMP-1AM,damaged,https://twitter.com/UAWeapons/status/1558386570432073728,2022-08-14,724,2213,3,7-72422133
-Russia,Russia,BMP-1AM,damaged,https://i.postimg.cc/RZnJ6Wy7/1003-bmp1am.jpg,2022-08-15,724,2215,3,7-72422153
-Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/vBy9TRg0/77699.png,2022-03-19,727,2266,3,7-72722663
-Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/XYyYKfsy/Screenshot-8236.png,2022-03-19,727,2267,3,7-72722673
-Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/2jX5hmCS/u1.jpg,2022-03-19,727,2268,3,7-72722683
-Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/RhxT6Pz9/663.png,2022-03-19,727,2278,3,7-72722783
-Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/rF84w7J1/fsl.png,2022-03-19,727,2279,3,7-72722793
-Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/y80rBVY6/469.png,2022-03-26,727,2317,3,7-72723173
-Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/4nCw32NC/43133.png,2022-03-26,727,2318,3,7-72723183
-Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/MpqBBJ4S/bmp22222222222222.jpg,2022-03-31,727,2348,3,7-72723483
-Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/3x5FhZtV/bmmp2.jpg,2022-04-13,727,2415,3,7-72724153
-Russia,Soviet Union,BMP-2,damaged,https://postlmg.cc/XXqxFmgP,2022-05-01,727,2445,3,7-72724453
-Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/NLqKRCD1/g54.jpg,2022-05-06,727,2460,3,7-72724603
-Russia,Soviet Union,BMP-2,damaged,https://twitter.com/UAWeapons/status/1527761851441881089,2022-05-23,727,2490,3,7-72724903
-Russia,Soviet Union,BMP-2(K),damaged,https://twitter.com/UAWeapons/status/1536726507061751808,2022-06-30,729,2520,3,7-72925203
-Russia,Soviet Union,BMP-2(K),damaged,https://twitter.com/UAWeapons/status/1542986188100886529,2022-07-02,729,981,3,7-7299813
-Russia,Soviet Union,BMP-2(K),damaged,https://i.postimg.cc/q7PzsbP6/1012.jpg,2022-07-03,729,2524,3,7-72925243
-Russia,Soviet Union,BMP-2(K),damaged,https://twitter.com/UAWeapons/status/1543979310171684864,2022-07-05,729,2526,3,7-72925263
-Russia,Soviet Union,BMP-2(K),damaged,https://i.postimg.cc/G38ZY9w0/1003-bmp2-damaged-abandoned.jpg,2022-08-04,729,2553,3,7-72925533
-Russia,Soviet Union,BMP-2(K),damaged,https://twitter.com/UAWeapons/status/1560014804869414916,2022-08-18,729,2569,3,7-72925693
-Russia,Soviet Union,BMP-2(K),damaged,https://i.postimg.cc/G2kXxmxm/1017-bmp2.jpg,2022-08-18,729,2570,3,7-72925703
-Russia,Soviet Union,BMP-2(K),damaged,https://i.postimg.cc/858BR3qV/1170-bmp2.jpg,2022-08-23,729,2606,3,7-72926063
-Russia,Soviet Union,BMP-2(K),damaged,https://twitter.com/Danspiun/status/1565338559099600896,2022-09-02,729,2615,3,7-72926153
-Russia,Soviet Union,BMP-2(K),damaged,https://twitter.com/UAWeapons/status/1566915724031008769,2022-09-05,729,2624,3,7-72926243
-Russia,Soviet Union,BMP-2(K),damaged,https://twitter.com/UAWeapons/status/1567956407768547328,2022-09-09,729,78,3,7-729783
-Russia,Soviet Union,BMP-2(K),damaged,https://i.postimg.cc/GmKgzL7N/1020-bmp1-2.jpg,2022-09-09,729,457,3,7-7294573
-Russia,Soviet Union,BMP-2(K),damaged,https://i.postimg.cc/W3RXhzqz/1008-bmp2.jpg,2022-09-10,729,2641,3,7-72926413
-Russia,Soviet Union,BMP-2(K),damaged,https://i.postimg.cc/8cST7mhc/1003-bmp2-2x.jpg,2022-09-16,729,2676,3,7-72926763
-Russia,Soviet Union,BMP-2(K),damaged,https://i.postimg.cc/90PmvbJk/1007-bmp2.jpg,2022-09-17,729,2678,3,7-72926783
-Russia,Soviet Union,BMP-2(K),damaged,https://twitter.com/UAWeapons/status/1571499575663370241,2022-09-19,729,2685,3,7-72926853
-Russia,Soviet Union,BMP-2(K),damaged,https://twitter.com/Blue_Sauron/status/1572514821471608832,2022-09-22,729,2688,3,7-72926883
-Russia,Russia,BMP-3,damaged,https://i.postimg.cc/HxnCghHt/446.jpg,2022-03-19,732,2739,3,7-73227393
-Russia,Russia,BMP-3,damaged,https://i.postimg.cc/WpmBhMvM/4d.png,2022-04-11,732,2786,3,7-73227863
-Russia,Russia,BMP-3,damaged,https://i.postimg.cc/6qQy4ByR/588.png,2022-04-11,732,2787,3,7-73227873
-Russia,Russia,BMP-3,damaged,https://i.postimg.cc/BQHt6Xc9/439.jpg,2022-05-05,732,2809,3,7-73228093
-Russia,Russia,BMP-3,damaged,https://twitter.com/UAWeapons/status/1522706604977762313,2022-05-10,732,1985,3,7-73219853
-Russia,Russia,BMP-3,damaged,https://twitter.com/UAWeapons/status/1531274223427125248,2022-05-31,732,2826,3,7-73228263
-Russia,Russia,BMP-3,damaged,https://twitter.com/UAWeapons/status/1533100107402563589,2022-06-05,732,2829,3,7-73228293
-Russia,Russia,BMP-3,damaged,https://i.postimg.cc/fy3wzKJk/1005-bmp3.jpg,2022-08-30,732,2870,3,7-73228703
-Russia,Russia,BMP-3,damaged,https://twitter.com/UAWeapons/status/1567823899785658368,2022-09-09,732,1206,3,7-73212063
-Russia,Russia,BMP-3,damaged,https://i.postimg.cc/q7z1vV8B/1024-bmp3-dmg.jpg,2022-10-01,732,2891,3,7-73228913
-Russia,Soviet Union,BTR-80,damaged,https://i.postimg.cc/HsQGV9qw/nm.jpg,2022-03-19,740,2960,3,7-74029603
-Russia,Soviet Union,BTR-80,damaged,https://i.postimg.cc/HWZKdnQ8/46p.png,2022-03-30,740,2987,3,7-74029873
-Russia,Soviet Union,BTR-80,damaged,https://i.postimg.cc/rmL9smDd/4f5.jpg,2022-04-06,740,2992,3,7-74029923
-Russia,Soviet Union,BTR-80,damaged,https://twitter.com/UAWeapons/status/1514213065268596737,2022-04-13,740,2996,3,7-74029963
-Russia,Soviet Union,BTR-80,damaged,https://i.postimg.cc/HWbk4YLL/b1.jpg,2022-06-06,740,3007,3,7-74030073
-Russia,Russia,BTR-82A,damaged,https://i.postimg.cc/RZQbNvvr/54.jpg,2022-03-19,741,3053,3,7-74130533
-Russia,Russia,BTR-82A,damaged,https://i.postimg.cc/j5kxgNCW/g66.jpg,2022-03-19,741,3054,3,7-74130543
-Russia,Russia,BTR-82A,damaged,https://i.postimg.cc/BbS69p4N/66588.png,2022-03-19,741,3062,3,7-74130623
-Russia,Russia,BTR-82A,damaged,https://i.postimg.cc/TY0tRgBM/4766.png,2022-04-01,741,3104,3,7-74131043
-Russia,Russia,BTR-82A,damaged,https://i.postimg.cc/4dcC0KqK/btr88222.jpg,2022-04-23,741,3162,3,7-74131623
-Russia,Russia,BTR-82A,damaged,https://i.postimg.cc/Y0xCJmg2/44f.jpg,2022-04-23,741,3163,3,7-74131633
-Russia,Russia,BTR-82A,damaged,https://twitter.com/UAWeapons/status/1516395004935213061,2022-04-23,741,3164,3,7-74131643
-Russia,Russia,BTR-82A,damaged,https://i.postimg.cc/J4mqZVzj/btr8822.jpg,2022-04-25,741,3171,3,7-74131713
-Russia,Russia,BTR-82A,damaged,https://twitter.com/UAWeapons/status/1524456618091589635,2022-05-14,741,3198,3,7-74131983
-Russia,Russia,BTR-82A,damaged,https://twitter.com/UAWeapons/status/1525936384434913281,2022-05-24,741,3202,3,7-74132023
-Russia,Russia,BTR-82A(M),damaged,https://twitter.com/UAWeapons/status/1558035528339128322,2022-08-13,742,3230,3,7-74232303
-Russia,Soviet Union,BTR-D,damaged,https://i.postimg.cc/9QZR97zk/7799.png,2022-04-18,743,3288,3,7-74332883
-Russia,Soviet Union,BTR-D,damaged,https://i.postimg.cc/L6V1m8C0/1040-BTR-D.jpg,2022-07-28,743,3309,3,7-74333093
-Russia,Russia,BTR-MDM 'Rakushka',damaged,https://i.postimg.cc/BQty5xVw/4fn.png,2022-03-28,745,3325,3,7-74533253
-Russia,Russia,GAZ Tigr-M,damaged,https://i.postimg.cc/ZKDrDbck/85.png,2022-03-19,757,3390,3,7-75733903
-Russia,Russia,GAZ Tigr-M,damaged,https://i.postimg.cc/vZRf920n/t1.jpg,2022-03-19,757,3391,3,7-75733913
-Russia,Russia,GAZ Tigr-M,damaged,https://i.postimg.cc/qv8nGcF5/t2.jpg,2022-03-19,757,3392,3,7-75733923
-Russia,Russia,GAZ Tigr-M,damaged,https://i.postimg.cc/25GZskrd/t3.jpg,2022-03-19,757,3393,3,7-75733933
-Russia,Russia,GAZ Tigr-M,damaged,https://i.postimg.cc/rpD3MW3F/5774.jpg,2022-04-01,757,3422,3,7-75734223
-Russia,Russia,GAZ Tigr-M,damaged,https://i.postimg.cc/50gTqtJF/35g.png,2022-04-04,757,3425,3,7-75734253
-Russia,Russia,GAZ Tigr-M,damaged,https://i.postimg.cc/XqyHHVHS/382.png,2022-09-15,757,3474,3,7-75734743
-Russia,Italy,Iveco LMV 'Rys',damaged,https://i.postimg.cc/4xrt6Lwt/542.png,2022-03-19,765,3523,3,7-76535233
-Russia,Italy,Iveco LMV 'Rys',damaged,https://i.postimg.cc/q7834FHV/355.png,2022-03-26,765,3527,3,7-76535273
-Russia,Italy,Iveco LMV 'Rys',damaged,https://i.postimg.cc/7YV8ty42/6j.png,2022-05-23,765,3534,3,7-76535343
-Russia,Italy,Iveco LMV Rys,damaged,https://i.postimg.cc/4d4Bvtwn/1024.jpg,2022-07-09,766,3538,3,7-76635383
-Russia,Italy,Iveco LMV Rys,damaged,https://twitter.com/UAWeapons/status/1567533093568892928,2022-09-08,766,3539,3,7-76635393
-Russia,Italy,Iveco LMV Rys,damaged,https://twitter.com/UAWeapons/status/1569049877882994692,2022-09-12,766,3540,3,7-76635403
-Russia,Russia,K-53949 'Linza',damaged,https://i.postimg.cc/7PCL4bbm/221.jpg,2022-06-08,767,3547,3,7-76735473
-Russia,Russia,Ka-52 'Alligator' attack helicopter,damaged,https://twitter.com/azyakancokkacan/status/1504785437902188573,2022-03-19,770,3561,3,7-77035613
-Russia,Russia,Ka-52 'Alligator' attack helicopter,damaged,https://postimg.cc/jCmC8Nx5,2022-03-19,770,3562,3,7-77035623
-Russia,Russia,Ka-52 'Alligator' attack helicopter,damaged,https://i.postimg.cc/Zqj182jJ/987.png,2022-03-19,770,3563,3,7-77035633
-Russia,Russia,Ka-52 'Alligator' attack helicopter,damaged,https://i.postimg.cc/0jWMTTRH/43d.png,2022-04-04,770,3566,3,7-77035663
-Russia,Russia,Ka-52 'Alligator' attack helicopter,damaged,https://i.postimg.cc/vmtC0wn8/57.png,2022-04-14,770,3569,3,7-77035693
-Russia,Russia,Ka-52 'Alligator' attack helicopter,damaged,https://i.postimg.cc/tRxDy5TM/3288.png,2022-04-21,770,3573,3,7-77035733
-Russia,Russia,KamAZ 6x6,damaged,https://i.postimg.cc/kGnW3KWg/880.png,2022-03-19,773,3666,3,7-77336663
-Russia,Russia,KamAZ 6x6,damaged,https://i.postimg.cc/XYdzk891/5g.png,2022-03-19,773,3667,3,7-77336673
-Russia,Russia,KamAZ 6x6,damaged,https://postimg.cc/jWRY7hHb,2022-03-19,773,3668,3,7-77336683
-Russia,Russia,KamAZ 6x6,damaged,https://i.postimg.cc/GhDp0yzL/tt1.png,2022-03-19,773,3669,3,7-77336693
-Russia,Russia,KamAZ 6x6,damaged,https://i.postimg.cc/VkpkSLDj/f87.png,2022-03-19,773,3689,3,7-77336893
-Russia,Russia,KamAZ 6x6,damaged,https://i.postimg.cc/C1ZkcvPv/d3.png,2022-03-19,773,3690,3,7-77336903
-Russia,Russia,KamAZ 6x6,damaged,https://i.postimg.cc/Rhhng7p9/4r.png,2022-03-19,773,3691,3,7-77336913
-Russia,Russia,KamAZ 6x6,damaged,https://twitter.com/UAWeapons/status/1506960042347614218,2022-03-26,773,3757,3,7-77337573
-Russia,Russia,KamAZ 6x6,damaged,https://i.postimg.cc/bYTrvqnw/1t.png,2022-03-26,773,3758,3,7-77337583
-Russia,Russia,KamAZ 6x6,damaged,https://i.postimg.cc/Jn4wQ0L6/5411.jpg,2022-03-26,773,3759,3,7-77337593
-Russia,Russia,KamAZ 6x6,damaged,https://postimg.cc/zb3wfMVh,2022-03-27,773,3773,3,7-77337733
-Russia,Russia,KamAZ 6x6,damaged,https://postimg.cc/3kSdwwpL,2022-03-27,773,3774,3,7-77337743
-Russia,Russia,KamAZ 6x6,damaged,https://postimg.cc/w71rrf27,2022-03-27,773,3775,3,7-77337753
-Russia,Russia,KamAZ 6x6,damaged,https://postimg.cc/vc6dRNB4,2022-03-27,773,3776,3,7-77337763
-Russia,Russia,KamAZ 6x6,damaged,https://twitter.com/UAWeapons/status/1525936384434913281,2022-05-24,773,3202,3,7-77332023
-Russia,Russia,KamAZ 6x6,damaged,https://postimg.cc/9R9Kd7mM,2022-05-25,773,3867,3,7-77338673
-Russia,Russia,KamAZ 6x6 tanker,damaged,https://i.postimg.cc/DfYbWs3H/Kamaz.png,2022-04-06,774,3880,3,7-77438803
-Russia,Russia,KamAZ 6x6 tanker,damaged,https://i.postimg.cc/m2TR1RH5/4311.jpg,2022-05-05,774,3891,3,7-77438913
-Russia,Russia,KamAZ 6x6 tanker,damaged,https://twitter.com/UAWeapons/status/1551210350548336640,2022-07-25,774,3908,3,7-77439083
-Russia,Russia,KamAZ 8x8,damaged,https://i.postimg.cc/7hRs911J/544.jpg,2022-04-25,775,3913,3,7-77539133
-Russia,Russia,KamAZ-6350 8x8 artillery tractor,damaged,https://i.postimg.cc/br6jRJWd/Screenshot-8072.png,2022-03-19,781,3949,3,7-78139493
-Russia,Russia,KamAZ-6350 8x8 artillery tractor,damaged,https://i.postimg.cc/nczxh49m/Screenshot-8074.png,2022-03-19,781,3950,3,7-78139503
-Russia,Russia,KamAZ-63968 'Typhoon',damaged,https://i.postimg.cc/KjxFyJC2/48.jpg,2022-04-20,782,3965,3,7-78239653
-Russia,Russia,KamAZ-63968 Typhoon,damaged,https://i.postimg.cc/g0gcjCG4/1005-Kam-AZ-63968-Typhoon.jpg,2022-08-04,783,3968,3,7-78339683
-Russia,Russia,Kamaz-435029 Patrol-A,damaged,https://twitter.com/UAWeapons/status/1542239547156795393,2022-06-30,784,3971,3,7-78439713
-Russia,Soviet Union,KrAZ-255B tanker,damaged,https://i.postimg.cc/jSFbtdw7/1086-Kr-AZ-255-B-tanker.jpg,2022-07-28,787,3978,3,7-78739783
-Russia,Soviet Union,MT-LB,damaged,https://twitter.com/UAWeapons/status/1538608332218458114,2022-06-30,792,4165,3,7-79241653
-Russia,Soviet Union,MT-LB,damaged,https://i.postimg.cc/rppG85WP/2022-09-18-MT-LB-1.jpg,2022-09-19,792,4236,3,7-79242363
-Russia,Soviet Union,MT-LB,damaged,https://twitter.com/naalsio26/status/1572364529723666435,2022-09-22,792,4240,3,7-79242403
-Russia,Soviet Union,MT-LB,damaged,https://i.postimg.cc/XqCXBHXQ/1005-mtlb.jpg,2022-09-24,792,4243,3,7-79242433
-Russia,Soviet Union,MT-LB,damaged,https://i.postimg.cc/BvPfD5JP/1004-mtlb.jpg,2022-09-28,792,4249,3,7-79242493
-Russia,Soviet Union,MT-LB,damaged,https://i.postimg.cc/tgrDNJxG/2022-09-28-MT-LBVM.jpg,2022-09-29,792,4252,3,7-79242523
-Russia,Soviet Union,PMP floating bridge,damaged,https://postimg.cc/mtdZGRwb,2022-09-15,812,4496,3,7-81244963
-Russia,Russia,PP-2005 floating bridge,damaged,https://i.postimg.cc/s2M12CLf/32d3.png,2022-05-08,813,4508,3,7-81345083
-Russia,Russia,PP-2005 floating bridge,damaged,https://i.postimg.cc/59RWtr9r/da2.jpg,2022-05-27,813,4512,3,7-81345123
-Russia,Russia,PP-2005 floating bridge,damaged,https://i.postimg.cc/9Q33dq7t/da1.jpg,2022-05-27,813,4513,3,7-81345133
-Russia,Soviet Union,PTS-3 tracked amphibious transport,damaged,https://i.postimg.cc/65MmYqgR/776.jpg,2022-06-11,815,4531,3,7-81545313
-Russia,Russia,Project 03160 Raptor class patrol boat,damaged,https://twitter.com/UAWeapons/status/1506229325598756872,2022-03-26,819,4553,3,7-81945533
-Russia,Russia,Project 03160 Raptor class patrol boat,damaged,https://i.postimg.cc/Gh7yVRxL/4438.png,2022-07-15,819,4558,3,7-81945583
-Russia,Soviet Union,Project 1164 Slava class guided missile cruiser 'Moskva',damaged,https://twitter.com/RALee85/status/1514379537903235074,2022-04-13,820,4559,3,7-82045593
-Russia,Soviet Union,Project 775 Ropucha class landing ship,damaged,https://i.postimg.cc/k4zbP5Ff/13.png,2022-03-26,824,4565,3,7-82445653
-Russia,Russia,R-149MA1 command and staff vehicle,damaged,https://i.postimg.cc/jSgsKMn3/g553.jpg,2022-03-19,827,4576,3,7-82745763
-Russia,Russia,R-149MA3 command and staff vehicle,damaged,https://i.postimg.cc/q7W198PZ/f431.png,2022-03-19,828,4610,3,7-82846103
-Russia,Russia,R-149MA3 command and staff vehicle,damaged,https://i.postimg.cc/65LWg9tK/554.jpg,2022-03-26,828,4614,3,7-82846143
-Russia,Russia,R-149MA3 command and staff vehicle,damaged,https://i.postimg.cc/dtQ6ZsNN/1003-btr80.jpg,2022-09-05,828,4619,3,7-82846193
-Russia,Russia,R-330BMV Borisoglebsk-2B,damaged,https://i.postimg.cc/wvzPRKsx/333.png,2022-03-19,830,4646,3,7-83046463
-Russia,Russia,REM-KL recovery vehicle,damaged,https://i.postimg.cc/gktrF01S/1001-REM-KL-Kamaz-6x6.jpg,2022-08-13,834,1108,3,7-83411083
-Russia,Soviet Union,Su-24M/MR strike/tactical reconnaissance aircraft,damaged,https://i.postimg.cc/mDQ1Vp8m/3326.png,2022-08-13,839,4667,3,7-83946673
-Russia,Soviet Union,Su-24M/MR strike/tactical reconnaissance aircraft,damaged,https://i.postimg.cc/mr7rGzCD/3326.png,2022-08-13,839,4668,3,7-83946683
-Russia,Soviet Union,Su-25 close air support aircraft,damaged,https://i.postimg.cc/zBVmRBJ2/h9.png,2022-03-19,841,4676,3,7-84146763
-Russia,Soviet Union,Su-25 close air support aircraft,damaged,https://twitter.com/UAWeapons/status/1535271617928081409,2022-06-11,841,4683,3,7-84146833
-Russia,Russia,Su-30SM multirole aircraft,damaged,https://i.postimg.cc/j5qMrfmQ/3326.png,2022-08-13,842,4702,3,7-84247023
-Russia,Soviet Union,T-62M,damaged,https://twitter.com/bayraktar_1love/status/1544790024838848515,2022-07-07,847,4725,3,7-84747253
-Russia,Soviet Union,T-62M,damaged,https://twitter.com/UAWeapons/status/1544797070883684353,2022-07-08,847,4726,3,7-84747263
-Russia,Soviet Union,T-64BV,damaged,https://i.postimg.cc/DfYzLMQ3/v60.png,2022-03-19,848,4734,3,7-84847343
-Russia,Soviet Union,T-64BV,damaged,https://i.postimg.cc/SQYyjpnT/887.jpg,2022-04-18,848,4744,3,7-84847443
-Russia,Soviet Union,T-64BV,damaged,https://postimg.cc/RqK9zGbg,2022-08-14,848,4768,3,7-84847683
-Russia,Soviet Union,T-72A,damaged,https://i.postimg.cc/0jTSbC5M/1012.jpg,2022-07-25,849,4798,3,7-84947983
-Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/HLqxBrSK/4fa.png,2022-03-19,851,4829,3,7-85148293
-Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/8zz8WcH7/763.png,2022-03-19,851,4830,3,7-85148303
-Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/Bv3rSysY/33213.png,2022-03-19,851,4836,3,7-85148363
-Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/sxgFWq3g/47.jpg,2022-03-31,851,4868,3,7-85148683
-Russia,Soviet Union,T-72B,damaged,https://twitter.com/UAWeapons/status/1513495397414715392,2022-04-13,851,4911,3,7-85149113
-Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/h4Tfc6FP/6523.png,2022-04-13,851,4912,3,7-85149123
-Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/ZKwvnxCF/65h.jpg,2022-05-14,851,4943,3,7-85149433
-Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/wjfhLTQ3/4f9.jpg,2022-05-20,851,4944,3,7-85149443
-Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/GhcpMPJj/53.jpg,2022-05-25,851,4953,3,7-85149533
-Russia,Soviet Union,T-72B,damaged,https://twitter.com/UAWeapons/status/1542986188100886529,2022-07-02,851,981,3,7-8519813
-Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/5091yjw5/1034.jpg,2022-07-05,851,4966,3,7-85149663
-Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/kX0QbyD7/1008-t72b-capt.jpg,2022-09-30,851,5014,3,7-85150143
-Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/W4xvnYDb/1010-t72b-capt-dam.jpg,2022-10-01,851,5017,3,7-85150173
-Russia,Russia,T-72B Obr. 1989,damaged,https://i.postimg.cc/Sx58mgzj/480.png,2022-03-19,852,5024,3,7-85250243
-Russia,Russia,T-72B Obr. 1989,damaged,https://i.postimg.cc/9XgKbxBF/8.jpg,2022-03-26,852,5032,3,7-85250323
-Russia,Russia,T-72B Obr. 1989,damaged,https://i.postimg.cc/KcW6QX5W/652.png,2022-04-04,852,5049,3,7-85250493
-Russia,Russia,T-72B Obr. 1989,damaged,https://i.postimg.cc/K8GWjV0y/257.png,2022-04-13,852,5062,3,7-85250623
-Russia,Soviet Union,T-72B Obr. 1989,damaged,https://twitter.com/UAWeapons/status/1557305465687744512,2022-08-13,852,5087,3,7-85250873
-Russia,Soviet Union,T-72B Obr. 1989,damaged,https://i.postimg.cc/FKkTr3Rw/1005-t72-B-1989.jpg,2022-09-10,852,5096,3,7-85250963
-Russia,Russia,T-72B3,damaged,https://i.postimg.cc/zfTsVnsF/579.png,2022-03-19,853,5107,3,7-85351073
-Russia,Russia,T-72B3,damaged,https://i.postimg.cc/X7MPs1gM/180.png,2022-03-26,853,5125,3,7-85351253
-Russia,Russia,T-72B3,damaged,https://twitter.com/UAWeapons/status/1508078103016488963,2022-03-27,853,5132,3,7-85351323
-Russia,Russia,T-72B3,damaged,https://i.postimg.cc/RZC1jkQd/3188.jpg,2022-03-29,853,5138,3,7-85351383
-Russia,Russia,T-72B3,damaged,https://twitter.com/UAWeapons/status/1516860518870523905,2022-04-20,853,5190,3,7-85351903
-Russia,Russia,T-72B3,damaged,https://i.postimg.cc/q7s3JVng/c7.jpg,2022-05-14,853,5216,3,7-85352163
-Russia,Russia,T-72B3,damaged,https://i.postimg.cc/xjhn41wr/68.jpg,2022-05-20,853,5218,3,7-85352183
-Russia,Russia,T-72B3,damaged,https://i.postimg.cc/Qtf6spC1/4ff.png,2022-05-25,853,5229,3,7-85352293
-Russia,Russia,T-72B3,damaged,https://twitter.com/RALee85/status/1544016163801387009,2022-07-05,853,3015,3,7-85330153
-Russia,Russia,T-72B3,damaged,https://twitter.com/UAWeapons/status/1547277890483519488,2022-07-14,853,5244,3,7-85352443
-Russia,Russia,T-72B3,damaged,https://twitter.com/UAWeapons/status/1554422066358648832,2022-08-04,853,5253,3,7-85352533
-Russia,Russia,T-72B3,damaged,https://twitter.com/RALee85/status/1562323160523046912,2022-08-30,853,5262,3,7-85352623
-Russia,Russia,T-72B3,damaged,https://i.postimg.cc/FRchYQZY/1048-t72b3.jpg,2022-09-08,853,5269,3,7-85352693
-Russia,Russia,T-72B3,damaged,https://i.postimg.cc/cJ7JnbbS/1002-t72b3.jpg,2022-09-10,853,5273,3,7-85352733
-Russia,Russia,T-72B3,damaged,https://twitter.com/RALee85/status/1568608823421865985,2022-09-11,853,5278,3,7-85352783
-Russia,Russia,T-72B3,damaged,https://i.postimg.cc/Xqf7LzV9/1004-t72b3.jpg,2022-09-16,853,5289,3,7-85352893
-Russia,Russia,T-72B3,damaged,https://twitter.com/UAWeapons/status/1573696104432111616,2022-09-25,853,5302,3,7-85353023
-Russia,Russia,T-72B3,damaged,https://twitter.com/UAWeapons/status/1575452097469943818,2022-09-30,853,5307,3,7-85353073
-Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/9Mhg9B0b/4g2.png,2022-03-19,854,5349,3,7-85453493
-Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/yNv6K4zM/468.png,2022-03-26,854,5386,3,7-85453863
-Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/6Qf1vBC4/6h.png,2022-04-24,854,5415,3,7-85454153
-Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/xdmnzGq2/d15.jpg,2022-05-06,854,5418,3,7-85454183
-Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/g2BDpPHM/f4.jpg,2022-05-08,854,5420,3,7-85454203
-Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/D02TR7J0/43g.png,2022-05-08,854,5421,3,7-85454213
-Russia,Russia,T-72B3 Obr. 2016,damaged,https://postimg.cc/dhZdrR3R,2022-05-21,854,5428,3,7-85454283
-Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/jdfBfJPd/d10.jpg,2022-06-26,854,5432,3,7-85454323
-Russia,Russia,T-72B3 Obr. 2016,damaged,https://twitter.com/UAWeapons/status/1545125402074562563,2022-07-08,854,5437,3,7-85454373
-Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/Njj1wvgY/1000.jpg,2022-07-16,854,5438,3,7-85454383
-Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/jjFPM35F/1007-t72b3-2016.jpg,2022-08-04,854,5444,3,7-85454443
-Russia,Russia,T-72B3 Obr. 2016,damaged,https://twitter.com/UAWeapons/status/1553999219156983808,2022-08-04,854,5445,3,7-85454453
-Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/Mpq5qdBh/1000.jpg,2022-08-09,854,5446,3,7-85454463
-Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/ydXZ0pTM/1005-t72b3-2016.jpg,2022-08-30,854,5455,3,7-85454553
-Russia,Russia,T-72B3 Obr. 2016,damaged,https://twitter.com/UAWeapons/status/1568967168473157632,2022-09-12,854,5468,3,7-85454683
-Russia,Soviet Union,T-80BV,damaged,https://i.postimg.cc/SxGZX1Gg/d14.jpg,2022-04-23,856,5516,3,7-85655163
-Russia,Soviet Union,T-80BV,damaged,https://i.postimg.cc/mhf9VRT7/d12.jpg,2022-04-23,856,5517,3,7-85655173
-Russia,Soviet Union,T-80BV,damaged,https://i.postimg.cc/T2yHk9RP/d13.jpg,2022-04-23,856,5518,3,7-85655183
-Russia,Soviet Union,T-80BV,damaged,https://i.postimg.cc/hv8ShJDX/97.png,2022-05-21,856,5527,3,7-85655273
-Russia,Soviet Union,T-80BV,damaged,https://twitter.com/UAWeapons/status/1541017371116281856,2022-06-29,856,5537,3,7-85655373
-Russia,Russia,T-80BVM,damaged,https://i.postimg.cc/x8NN9ZJx/1000.jpg,2022-07-21,857,5579,3,7-85755793
-Russia,Russia,T-80BVM,damaged,https://twitter.com/UAWeapons/status/1552708993830854657,2022-07-29,857,5582,3,7-85755823
-Russia,Russia,T-80U,damaged,https://i.postimg.cc/Pf2gzrfP/f5.png,2022-03-19,858,5601,3,7-85856013
-Russia,Russia,T-80U,damaged,https://i.postimg.cc/fbf34Qs1/331f.jpg,2022-03-26,858,5621,3,7-85856213
-Russia,Russia,T-80U,damaged,https://i.postimg.cc/hjp2dxTq/53.png,2022-03-29,858,5629,3,7-85856293
-Russia,Russia,T-80U,damaged,https://i.postimg.cc/vZ0cT4bY/47j.png,2022-04-09,858,5633,3,7-85856333
-Russia,Russia,T-80U,damaged,https://i.postimg.cc/6QgyG7dv/1000-t80u.jpg,2022-08-08,858,5667,3,7-85856673
-Russia,Soviet Union,TMM-3 bridge layer,damaged,https://i.postimg.cc/85dm6pjK/44565.png,2022-03-19,865,5712,3,7-86557123
-Russia,Soviet Union,TMM-3 bridge layer,damaged,https://i.postimg.cc/MpYMvFpy/33160.png,2022-03-26,865,5719,3,7-86557193
-Russia,Soviet Union,TMM-3 bridge layer,damaged,https://i.postimg.cc/9fkRL7G3/762.jpg,2022-04-01,865,5721,3,7-86557213
-Russia,Soviet Union,TMM-3 bridge layer,damaged,https://i.postimg.cc/FHXkWBMt/699.png,2022-05-03,865,5730,3,7-86557303
-Russia,Russia,UAZ Patriot,damaged,https://i.postimg.cc/tggdgvNx/54g.jpg,2022-03-19,871,5747,3,7-87157473
-Russia,Soviet Union,UAZ-452 van,damaged,https://i.postimg.cc/qv8yk3c1/66555.jpg,2022-06-26,875,5758,3,7-87557583
-Russia,Russia,Unknown AFV,damaged,https://twitter.com/UAWeapons/status/1518237093461385218,2022-04-24,879,5822,3,7-87958223
-Russia,Russia,Unknown AFV,damaged,https://twitter.com/UAWeapons/status/1522310446891610115,2022-05-06,879,5829,3,7-87958293
-Russia,Russia,Unknown AFV,damaged,https://twitter.com/UAWeapons/status/1524456618091589635,2022-05-14,879,3198,3,7-87931983
-Russia,Russia,Unknown AFV,damaged,https://twitter.com/UAWeapons/status/1539601165884743680,2022-06-28,879,5864,3,7-87958643
-Russia,Russia,Unknown AFV,damaged,https://i.postimg.cc/h4zTgvW3/1003-unkn-AFV.jpg,2022-08-08,879,5891,3,7-87958913
-Russia,Russia,Unknown AFV,damaged,https://twitter.com/Danspiun/status/1566064122852171778,2022-09-04,879,73,3,7-879733
-Russia,Soviet Union,Unknown BMP-1/2,damaged,https://twitter.com/UAWeapons/status/1517278456790269952,2022-04-23,880,5917,3,7-88059173
-Russia,Soviet Union,Unknown BMP-1/2,damaged,https://twitter.com/UAWeapons/status/1521759577745891330,2022-05-05,880,5920,3,7-88059203
-Russia,Soviet Union,Unknown BMP-1/2,damaged,https://i.postimg.cc/vmWTdr9s/8j.png,2022-05-14,880,5923,3,7-88059233
-Russia,Soviet Union,Unknown BMP-1/2,damaged,https://twitter.com/UAWeapons/status/1539006612525965314,2022-06-26,880,36,3,7-880363
-Russia,Soviet Union,Unknown BMP-1/2,damaged,https://twitter.com/UAWeapons/status/1539706697765322754,2022-06-28,880,5949,3,7-88059493
-Russia,Russia,Unknown BTR-80/BTR-82A,damaged,https://twitter.com/UAWeapons/status/1521908181542260738,2022-05-05,881,5972,3,7-88159723
-Russia,Russia,Unknown Mi-24/35 attack helicopter,damaged,https://i.postimg.cc/HxryM4jS/Screenshot-8449.png,2022-03-19,885,6010,3,7-88560103
-Russia,Russia,Unknown SPG,damaged,https://twitter.com/UAWeapons/status/1507012290536566788,2022-03-30,886,6011,3,7-88660113
-Russia,Russia,Unknown communications station based on the KamAZ 6x6,damaged,https://i.postimg.cc/DfxxKLnD/84.png,2022-03-19,892,6020,3,7-89260203
-Russia,Russia,Unknown helicopter,damaged,https://i.postimg.cc/QxT5hQNx/421.png,2022-03-19,894,6026,3,7-89460263
-Russia,Russia,Unknown tank,damaged,https://i.postimg.cc/44SFGsk4/4373.png,2022-03-19,895,6042,3,7-89560423
-Russia,Russia,Unknown tank,damaged,https://i.postimg.cc/gj3F2623/541.png,2022-03-19,895,6043,3,7-89560433
-Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1507711151689375750,2022-03-27,895,6056,3,7-89560563
-Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1512060297607065602,2022-04-09,895,6086,3,7-89560863
-Russia,Russia,Unknown tank,damaged,https://i.postimg.cc/kGf4RmBn/6h.jpg,2022-04-23,895,6098,3,7-89560983
-Russia,Russia,Unknown tank,damaged,https://i.postimg.cc/V6Kc8SKP/4370.jpg,2022-05-01,895,6112,3,7-89561123
-Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1519310504832942080,2022-05-01,895,6113,3,7-89561133
-Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1520362882743123968,2022-05-01,895,6114,3,7-89561143
-Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1521759577745891330,2022-05-05,895,5920,3,7-89559203
-Russia,Russia,Unknown tank,damaged,https://i.postimg.cc/SRCpdynN/652.jpg,2022-05-09,895,6123,3,7-89561233
-Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1524385443608936454,2022-05-12,895,6129,3,7-89561293
-Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1527620102895575040,2022-05-23,895,6132,3,7-89561323
-Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1535720555680305152,2022-06-26,895,6159,3,7-89561593
-Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1539601762272804866,2022-06-28,895,6160,3,7-89561603
-Russia,Russia,Unknown tank,damaged,https://twitter.com/RALee85/status/1540218005816238081,2022-06-29,895,6162,3,7-89561623
-Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1544068834604220417,2022-07-06,895,45,3,7-895453
-Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1545125584036151297,2022-07-08,895,6169,3,7-89561693
-Russia,Russia,Unknown tank,damaged,https://i.postimg.cc/hj3j3x1F/1011.jpg,2022-07-08,895,6170,3,7-89561703
-Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1546579953671602178,2022-07-12,895,6174,3,7-89561743
-Russia,Russia,Unknown tank,damaged,https://i.postimg.cc/MKzpNpgY/1003.jpg,2022-07-29,895,6188,3,7-89561883
-Russia,Russia,Unknown truck,damaged,https://i.postimg.cc/K834NwrF/67.jpg,2022-03-19,896,6228,3,7-89662283
-Russia,Russia,Unknown truck,damaged,https://postimg.cc/phTN0Xcc,2022-03-19,896,6231,3,7-89662313
-Russia,Russia,Unknown truck,damaged,https://postimg.cc/WDSL6J8J,2022-03-19,896,6232,3,7-89662323
-Russia,Russia,Unknown truck,damaged,https://i.postimg.cc/26pbyqvZ/v56.png,2022-03-19,896,6233,3,7-89662333
-Russia,Russia,Ural-4320,damaged,https://i.postimg.cc/YSs02PPZ/k9.png,2022-03-19,899,6380,3,7-89963803
-Russia,Russia,Ural-4320,damaged,https://postimg.cc/kVDPCNz0,2022-03-19,899,4269,3,7-89942693
-Russia,Russia,Ural-4320,damaged,https://i.postimg.cc/xd8C4F47/tt2.png,2022-03-19,899,6381,3,7-89963813
-Russia,Russia,Ural-4320,damaged,https://i.postimg.cc/fR5byVj2/k88.jpg,2022-03-19,899,6397,3,7-89963973
-Russia,Russia,Ural-4320,damaged,https://twitter.com/UAWeapons/status/1524456618091589635,2022-05-14,899,3198,3,7-89931983
-Russia,Russia,Ural-4320,damaged,https://i.postimg.cc/FFkvLZYn/1016.jpg,2022-07-19,899,6596,3,7-89965963
-Russia,Russia,Ural-4320 KET-L,damaged,https://i.postimg.cc/SsQHDVNQ/5579.png,2022-03-19,900,6598,3,7-90065983
-Russia,Russia,Ural-4320 tanker,damaged,https://postimg.cc/jWGDT456,2022-05-06,904,6621,3,7-90466213
-Russia,Russia,Vityaz DT-30 articulated tracked carrier,damaged,https://i.postimg.cc/wTZRmzx8/dt1.png,2022-04-10,913,6687,3,7-91366873
-Russia,Soviet Union,ZSU-23-4 'Shilka',damaged,https://i.postimg.cc/Y0chPZXk/43.jpg,2022-04-04,916,6703,3,7-91667033
-Russia,Soviet Union,ZiL-131,damaged,https://i.postimg.cc/cCWTD2S8/54.jpg,2022-04-01,918,6712,3,7-91867123
-Ukraine,United Kingdom,1 105mm L119 howitzer,damaged,https://i.postimg.cc/CxyRM7P0/2001-L119-dmg.jpg,2022-09-20,920,6714,3,380-92067143
-Ukraine,Turkey,1 BMC Kirpi,damaged,https://twitter.com/UAWeapons/status/1568241700921016320,2022-09-10,924,6719,3,380-92467193
-Ukraine,Yugoslavia,1 BVP M-80A,damaged,https://twitter.com/UAWeapons/status/1574382524964421638,2022-09-27,925,6720,3,380-92567203
-Ukraine,United Kingdom,1 Pinzgauer Vector 718,damaged,https://i.postimg.cc/Bb85pvw6/2000-Pinzgauer-Vector-718.jpg,2022-09-28,939,6734,3,380-93967343
-Ukraine,Ukraine,1 Unknown pickup truck,damaged,https://i.postimg.cc/zvKMKtZ3/2005.jpg,2022-07-21,948,6742,3,380-94867423
-Ukraine,France,1 VAB APC,damaged,https://twitter.com/UAWeapons/status/1576553022670635008,2022-10-04,949,6743,3,380-94967433
-Ukraine,Soviet Union,122mm 2S1 Gvozdika,damaged,https://i.postimg.cc/TwZV2tLf/799.jpg,2022-03-26,130,6786,3,380-13067863
-Ukraine,Soviet Union,14 BRM-1K reconnaissance vehicle,damaged,https://twitter.com/UAWeapons/status/1568241700921016320,2022-09-10,155,6719,3,380-15567193
-Ukraine,Soviet Union,14 BRM-1K reconnaissance vehicle,damaged,https://i.postimg.cc/L8M6bVH9/2000-brm-1k.jpg,2022-09-12,155,6830,3,380-15568303
-Ukraine,Ukraine,15 Unknown towed artillery,damaged,https://i.postimg.cc/fRXrgT3b/11.png,2022-08-09,970,6839,3,380-97068393
-Ukraine,Soviet Union,152mm 2S3 Akatsiya,damaged,https://twitter.com/UAWeapons/status/1541534349589454848,2022-06-29,173,6850,3,380-17368503
-Ukraine,Norway,155mm M109A3GN,damaged,https://twitter.com/UAWeapons/status/1534148275581894659,2022-06-11,973,6858,3,380-97368583
-Ukraine,Norway,155mm M109A3GN,damaged,https://twitter.com/UAWeapons/status/1557039445953626114,2022-08-13,973,6859,3,380-97368593
-Ukraine,Soviet Union,1L22 'Parol',damaged,https://postimg.cc/9Dcvz02c,2022-03-19,977,6867,3,380-97768673
-Ukraine,Poland,2 155mm AHS Krab,damaged,https://i.postimg.cc/yN7rvmF8/2000-krab-dmg.jpg,2022-10-02,981,6877,3,380-98168773
-Ukraine,Soviet Union,203mm 2S7 Pion,damaged,https://i.postimg.cc/K8pQghtB/790.png,2022-03-26,990,6884,3,380-99068843
-Ukraine,Soviet Union,203mm 2S7 Pion,damaged,https://i.postimg.cc/J4s5tfKL/4376.png,2022-04-07,990,6885,3,380-99068853
-Ukraine,Soviet Union,203mm 2S7 Pion,damaged,https://i.postimg.cc/VLs0y1LY/d34.jpg,2022-05-21,990,6887,3,380-99068873
-Ukraine,Soviet Union,203mm 2S7 Pion,damaged,https://twitter.com/UAWeapons/status/1534866398303948801,2022-06-10,990,6888,3,380-99068883
-Ukraine,Soviet Union,27 Ural-4320,damaged,https://i.postimg.cc/MH0p4XKm/Ukrainian-Ural-4320.png,2022-10-06,1005,6918,3,380-100569183
-Ukraine,Ukraine,4 Unknown BTR,damaged,https://i.postimg.cc/pTzc5ff2/1014-unkn-btr.jpg,2022-09-14,1033,6956,3,380-103369563
-Ukraine,Netherlands,4 YPR-765,damaged,https://twitter.com/UAWeapons/status/1566398729208340480,2022-09-05,1034,6957,3,380-103469573
-Ukraine,Soviet Union,8 100mm MT-12 anti-tank gun,damaged,https://twitter.com/UAWeapons/status/1543548850559926272,2022-07-04,1081,6943,3,380-108169433
-Ukraine,United States,8 155mm M777A2 howitzer,damaged,https://twitter.com/RALee85/status/1557298928248291330,2022-08-13,1082,7058,3,380-108270583
-Ukraine,Ukraine,8 Novator,damaged,https://i.postimg.cc/HnjZpKPG/48.png,2022-10-05,1086,7063,3,380-108670633
-Ukraine,Soviet Union,9K35 Strela-10,damaged,https://postimg.cc/SYK0f1pm,2022-03-26,695,7106,3,380-69571063
-Ukraine,Soviet Union,9P149 Shturm-S ATGM carrier,damaged,https://i.postimg.cc/DZ9hwS9W/49.png,2022-05-01,703,7124,3,380-70371243
-Ukraine,United States,AN/TPQ-36 lightweight counter mortar radar,damaged,https://twitter.com/UAWeapons/status/1505623206014636035,2022-03-26,1099,7135,3,380-109971353
-Ukraine,Germany,Armoured Volkswagen Amarok pickup truck,damaged,https://i.postimg.cc/tgB7S9GQ/65.png,2022-05-15,1107,7154,3,380-110771543
-Ukraine,Soviet Union,BMP-1(P),damaged,https://i.postimg.cc/vmNpXbHQ/gg2.png,2022-03-19,723,7176,3,380-72371763
-Ukraine,Soviet Union,BMP-1(P),damaged,https://i.postimg.cc/dVSzT4KK/d1.jpg,2022-04-01,723,7196,3,380-72371963
-Ukraine,Soviet Union,BMP-1(P),damaged,https://twitter.com/UAWeapons/status/1558416989827235840,2022-08-14,723,7257,3,380-72372573
-Ukraine,Soviet Union,BMP-1(P),damaged,https://i.postimg.cc/FR5mKHKs/2000-bmp1.jpg,2022-09-10,723,7270,3,380-72372703
-Ukraine,Soviet Union,BMP-1(P),damaged,https://twitter.com/UAWeapons/status/1568241700921016320,2022-09-10,723,6719,3,380-72367193
-Ukraine,Soviet Union,BMP-2,damaged,https://i.postimg.cc/cJfZ5HRh/547.jpg,2022-03-26,727,7286,3,380-72772863
-Ukraine,Soviet Union,BRDM-2,damaged,https://i.postimg.cc/brg6QFkk/2.png,2022-09-27,733,7371,3,380-73373713
-Ukraine,Soviet Union,BRM-1K,damaged,https://i.postimg.cc/tC4jmbcK/446.png,2022-03-19,738,7373,3,380-73873733
-Ukraine,Ukraine,BTR-3,damaged,https://i.postimg.cc/pdWMwW8W/da1.jpg,2022-04-04,1119,7391,3,380-111973913
-Ukraine,Ukraine,BTR-4,damaged,https://twitter.com/RALee85/status/1497785823198162944,2022-03-26,1120,7424,3,380-112074243
-Ukraine,Soviet Union,BTR-70,damaged,https://postimg.cc/rKptXh9Z,2022-03-31,739,7474,3,380-73974743
-Ukraine,Soviet Union,BTR-80,damaged,https://postimg.cc/NK7P45WT,2022-04-19,740,7507,3,380-74075073
-Ukraine,Soviet Union,BTR-80,damaged,https://postimg.cc/67NyqCSj,2022-08-09,740,7532,3,380-74075323
-Ukraine,Soviet Union,BTR-80,damaged,https://postimg.cc/YhJxSHh3,2022-08-13,740,7533,3,380-74075333
-Ukraine,Soviet Union,BTR-80,damaged,https://i.postimg.cc/BQG09mbr/2000-btr80-2x.jpg,2022-09-11,740,7534,3,380-74075343
-Ukraine,Soviet Union,GAZ-66,damaged,https://i.postimg.cc/gjhmvGsF/g3.png,2022-03-19,760,7575,3,380-76075753
-Ukraine,Soviet Union,GAZ-66,damaged,https://i.postimg.cc/YC0mqTkH/58.png,2022-03-19,760,7576,3,380-76075763
-Ukraine,Soviet Union,GAZ-66,damaged,https://i.postimg.cc/gj9TG17c/Screenshot-8228.png,2022-03-19,760,6842,3,380-76068423
-Ukraine,Soviet Union,GAZ-66,damaged,https://i.postimg.cc/prPjVJt8/688.jpg,2022-05-13,760,7610,3,380-76076103
-Ukraine,Soviet Union,GAZ-66,damaged,https://i.postimg.cc/65xFtXnZ/2004.jpg,2022-07-21,760,7612,3,380-76076123
-Ukraine,United States,HMMWV,damaged,https://i.postimg.cc/zX4hRNMG/4799.png,2022-03-19,1133,7623,3,380-113376233
-Ukraine,United States,HMMWV,damaged,https://i.postimg.cc/y88wjYxy/d12.png,2022-03-29,1133,7625,3,380-113376253
-Ukraine,United States,HMMWV,damaged,https://i.postimg.cc/zGpRmpJ1/34.png,2022-03-29,1133,7626,3,380-113376263
-Ukraine,United States,HMMWV,damaged,https://i.postimg.cc/7YLY6Kz4/14.png,2022-05-01,1133,7640,3,380-113376403
-Ukraine,United States,HMMWV,damaged,https://twitter.com/UAWeapons/status/1543548844910206976,2022-07-04,1133,7648,3,380-113376483
-Ukraine,United States,HMMWV Ambulance,damaged,https://i.postimg.cc/MHHmB5bG/48800.png,2022-04-13,1134,7656,3,380-113476563
-Ukraine,Soviet Union,KamAZ,damaged,https://i.postimg.cc/yx42BBdm/u1.png,2022-03-26,1139,7666,3,380-113976663
-Ukraine,Ukraine,Kozak-2,damaged,https://i.postimg.cc/1XzJ7nhW/d2g.png,2022-03-19,1140,7672,3,380-114076723
-Ukraine,Ukraine,KrAZ-6322,damaged,https://i.postimg.cc/wM4RWy5K/r3.png,2022-03-19,1147,7740,3,380-114777403
-Ukraine,Ukraine,KrAZ-6322,damaged,https://i.postimg.cc/MT0QM4sL/33311.png,2022-03-30,1147,7748,3,380-114777483
-Ukraine,Belarus,MAZ,damaged,https://i.postimg.cc/9fRbHBdp/f3.png,2022-03-19,1152,7771,3,380-115277713
-Ukraine,Belarus,MAZ-5316,damaged,https://i.postimg.cc/L6ZKgBD7/4ff.png,2022-08-08,1153,7779,3,380-115377793
-Ukraine,Soviet Union,MT-LBu,damaged,https://i.postimg.cc/ZYHxJ6rp/Screenshot-8036.png,2022-03-19,797,7806,3,380-79778063
-Ukraine,Ukraine,Novator,damaged,https://i.postimg.cc/MKMkcgwH/776.png,2022-03-19,1164,7839,3,380-116478393
-Ukraine,Soviet Union,P-14 'Tall King',damaged,https://i.postimg.cc/rpWmrPLb/57.png,2022-03-19,1165,7847,3,380-116578473
-Ukraine,Poland,Pr.304 Amur Class command ship 'Donbas' ''U-500'',damaged,https://twitter.com/CovertShores/status/1511808852278263810,2022-04-06,1173,7856,3,380-117378563
-Ukraine,Poland,Pr.304 Amur Class command ship 'Donbas' ''U-500'',damaged,https://i.postimg.cc/tTh8MZ53/47.png,2022-04-09,1173,7857,3,380-117378573
-Ukraine,Ukraine,Small patrol boats (Sea Guard),damaged,https://i.postimg.cc/rpyDgH04/32.png,2022-04-20,1179,7876,3,380-117978763
-Ukraine,Ukraine,Small patrol boats (Sea Guard),damaged,https://i.postimg.cc/R0pnx9T5/578.png,2022-04-23,1179,7877,3,380-117978773
-Ukraine,Soviet Union,Su-25 attack aircraft,damaged,https://twitter.com/UAWeapons/status/1506317219000721412,2022-03-26,1188,7899,3,380-118878993
-Ukraine,Ukraine,T-64B1M,damaged,https://i.postimg.cc/HxmWTxMP/3d1.png,2022-03-19,1193,7918,3,380-119379183
-Ukraine,Soviet Union,T-64BV,damaged,https://i.postimg.cc/CLn96SZZ/f7.png,2022-03-19,848,7953,3,380-84879533
-Ukraine,Soviet Union,T-64BV,damaged,https://i.postimg.cc/6QWhgDnj/j8.png,2022-03-19,848,7960,3,380-84879603
-Ukraine,Soviet Union,T-64BV,damaged,https://i.postimg.cc/bvfcZfxh/58.png,2022-03-30,848,7989,3,380-84879893
-Ukraine,Soviet Union,T-64BV,damaged,https://i.postimg.cc/d3FsgJDL/6898.png,2022-04-17,848,8018,3,380-84880183
-Ukraine,Soviet Union,T-64BV,damaged,https://i.postimg.cc/Nff9Q7xw/90.jpg,2022-04-25,848,8030,3,380-84880303
-Ukraine,Soviet Union,T-64BV,damaged,https://twitter.com/UAWeapons/status/1522308548440563715,2022-05-08,848,8038,3,380-84880383
-Ukraine,Soviet Union,T-64BV,damaged,https://i.postimg.cc/DwwCthLG/322.jpg,2022-06-11,848,8055,3,380-84880553
-Ukraine,Soviet Union,T-64BV,damaged,https://twitter.com/UAWeapons/status/1537541023018139650,2022-06-26,848,8056,3,380-84880563
-Ukraine,Soviet Union,T-64BV,damaged,https://i.postimg.cc/DZyRGvkf/688.png,2022-06-29,848,8059,3,380-84880593
-Ukraine,Soviet Union,T-72 'Ural',damaged,https://i.postimg.cc/28hSgCVJ/ur3.png,2022-04-04,1197,8114,3,380-119781143
-Ukraine,Soviet Union,T-72 'Ural',damaged,https://i.postimg.cc/kgGrv2cn/2002.jpg,2022-07-26,1197,8115,3,380-119781153
-Ukraine,Soviet Union,T-72 'Ural',damaged,https://i.postimg.cc/nzX0hqgz/2002.jpg,2022-07-27,1197,8116,3,380-119781163
-Ukraine,Ukraine,T-72AMT,damaged,https://i.postimg.cc/9QZN39jX/8754.png,2022-06-26,1199,8129,3,380-119981293
-Ukraine,Ukraine,T-72AMT,damaged,https://i.postimg.cc/QdkdMWKj/2000.jpg,2022-08-30,1199,8134,3,380-119981343
-Ukraine,Ukraine,T-72AMT,damaged,https://twitter.com/UAWeapons/status/1569014536824553473,2022-09-12,1199,8135,3,380-119981353
-Ukraine,Soviet Union,T-72B,damaged,https://i.postimg.cc/7Lr4jy27/54d.jpg,2022-05-08,851,8148,3,380-85181483
-Ukraine,Poland,T-72M1/R,damaged,https://i.postimg.cc/XqMpms7D/2000-t72m1.jpg,2022-08-31,1203,8167,3,380-120381673
-Ukraine,Poland,T-72M1/R,damaged,https://i.postimg.cc/TYJpNq8C/2001-t72m1.jpg,2022-08-31,1203,8168,3,380-120381683
-Ukraine,Soviet Union,T-80BV,damaged,https://i.postimg.cc/0jXKJsjL/f58.png,2022-03-19,856,8170,3,380-85681703
-Ukraine,Soviet Union,T-80BV,damaged,https://i.postimg.cc/fb3dc6LV/389.png,2022-04-13,856,8172,3,380-85681723
-Ukraine,Soviet Union,T-80BV,damaged,https://i.postimg.cc/VsJn5zPD/43f.jpg,2022-05-21,856,8177,3,380-85681773
-Ukraine,Soviet Union,T-80BV,damaged,https://i.postimg.cc/MT0KSR08/6522.png,2022-05-29,856,8178,3,380-85681783
-Ukraine,Soviet Union,T-80BV,damaged,https://twitter.com/UAWeapons/status/1577254567708094464,2022-10-05,856,8185,3,380-85681853
-Ukraine,Ukraine,Unknown towed artillery,damaged,https://i.postimg.cc/BnNpxWwv/33.jpg,2022-03-26,1213,8254,3,380-121382543
-Ukraine,Ukraine,Unknown towed artillery,damaged,https://i.postimg.cc/J0jdMrPN/900.jpg,2022-03-26,1213,8255,3,380-121382553
-Ukraine,Ukraine,Unknown truck,damaged,https://i.postimg.cc/3Jzj3bLL/bnm.png,2022-03-19,896,8262,3,380-89682623
-Ukraine,Ukraine,Unknown truck,damaged,https://i.postimg.cc/4xBF4TJG/37.jpg,2022-03-26,896,8267,3,380-89682673
-Ukraine,Ukraine,Unknown truck,damaged,https://i.postimg.cc/J0jdMrPN/900.jpg,2022-03-26,896,8255,3,380-89682553
-Ukraine,Ukraine,Unknown truck,damaged,https://i.postimg.cc/SRtv4JHH/1dg.png,2022-03-26,896,8268,3,380-89682683
-Ukraine,Soviet Union,Ural-4320,damaged,https://i.postimg.cc/GmVqtBjC/328.png,2022-05-03,899,8331,3,380-89983313
-Ukraine,Netherlands,YPR-765,damaged,https://twitter.com/UAWeapons/status/1570133414971408385,2022-09-15,1222,8360,3,380-122283603
-Ukraine,Netherlands,YPR-765,damaged,https://twitter.com/UAWeapons/status/1574382524964421638,2022-09-27,1222,6720,3,380-122267203
-Ukraine,Australia,NA,damaged,https://i.postimg.cc/x8krj1Zk/2000-bushmaster.jpg,2022-08-20,919,8422,3,380-91984223
+Russia,Russia,(Unknown) vehicle,damaged,https://twitter.com/UAWeapons/status/1514229936898387972,2022-04-13,4,118,3,7-41183
+Russia,Russia,(Unknown) vehicle,damaged,https://twitter.com/UAWeapons/status/1515327665330442246,2022-04-18,4,122,3,7-41223
+Russia,Russia,(Unknown) vehicle,damaged,https://twitter.com/UAWeapons/status/1523070374077902848,2022-05-08,4,127,3,7-41273
+Russia,Soviet Union,1 T-62MV,damaged,https://twitter.com/UAWeapons/status/1577189346587082752,2022-10-05,41,167,3,7-411673
+Russia,Russia,10 KamAZ-5350 with armoured cab,damaged,https://twitter.com/UAWeapons/status/1568344642105532418,2022-09-10,60,191,3,7-601913
+Russia,Soviet Union,10 UAZ-452 van,damaged,https://i.postimg.cc/Hk2737Xj/1005-uaz452.jpg,2022-08-08,66,198,3,7-661983
+Russia,Soviet Union,102 T-80BV,damaged,https://twitter.com/UAWeapons/status/1572198403517419523,2022-09-22,75,213,3,7-752133
+Russia,Soviet Union,104 BMP-1(P),damaged,https://i.postimg.cc/906fchkJ/1004.jpg,2022-07-08,78,220,3,7-782203
+Russia,Soviet Union,11 IMR-2(M) combat engineering vehicle,damaged,https://i.postimg.cc/B6tqKYCg/1014-IMR2.jpg,2022-09-12,90,240,3,7-902403
+Russia,Soviet Union,11 UAZ-452 van,damaged,https://i.postimg.cc/HxGSMy5N/1013-uaz452.jpg,2022-08-18,96,247,3,7-962473
+Russia,Soviet Union,112 MT-LBVM and MT-LBVMK,damaged,https://i.postimg.cc/Y0Rs4CTd/2022-10-01-MT-LBVM.jpg,2022-10-02,104,263,3,7-1042633
+Russia,Soviet Union,115 BMP-1(P),damaged,https://i.postimg.cc/4NDTHKWz/1000-bmp-1.jpg,2022-08-05,109,270,3,7-1092703
+Russia,Soviet Union,12 UAZ-452 van,damaged,https://i.postimg.cc/02942jVH/1009-uar452.jpg,2022-09-09,120,292,3,7-1202923
+Russia,Soviet Union,120mm 2B16 Nona-K howitzer,damaged,https://i.postimg.cc/q79rzL7Q/478.png,2022-04-06,125,314,3,7-1253143
+Russia,Soviet Union,122mm 2S1 Gvozdika,damaged,https://i.postimg.cc/pXrnFmJS/48j.png,2022-06-29,132,362,3,7-1323623
+Russia,Soviet Union,122mm 2S1 Gvozdika,damaged,https://i.postimg.cc/5t3YHBgX/1005-2s1-gvozdika.jpg,2022-08-31,132,365,3,7-1323653
+Russia,Soviet Union,122mm BM-21 'Grad',damaged,https://i.postimg.cc/s2wR9DPH/768.png,2022-03-19,133,380,3,7-1333803
+Russia,Soviet Union,122mm BM-21 'Grad',damaged,https://i.postimg.cc/kGHcy5Hv/31.png,2022-03-26,133,391,3,7-1333913
+Russia,Soviet Union,122mm BM-21 'Grad',damaged,https://i.postimg.cc/jjfczBpW/856.jpg,2022-05-01,133,408,3,7-1334083
+Russia,Soviet Union,122mm BM-21 'Grad',damaged,https://i.postimg.cc/QtHX5cSf/332.png,2022-05-05,133,409,3,7-1334093
+Russia,Soviet Union,122mm BM-21 Grad,damaged,https://i.postimg.cc/RZnpMSc8/43f6.png,2022-05-23,134,414,3,7-1344143
+Russia,Soviet Union,132 BMP-1(P),damaged,https://i.postimg.cc/GmKgzL7N/1020-bmp1-2.jpg,2022-09-09,151,460,3,7-1514603
+Russia,Soviet Union,14 IMR-2(M) combat engineering vehicle,damaged,https://twitter.com/UAWeapons/status/1569229469990227970,2022-09-13,158,476,3,7-1584763
+Russia,Soviet Union,144 BMP-1(P),damaged,https://twitter.com/UAWeapons/status/1569295685689954305,2022-09-13,163,488,3,7-1634883
+Russia,Soviet Union,152mm 2A65 Msta-B howitzer,damaged,https://i.postimg.cc/yYx8J43v/Screenshot-8073.png,2022-03-19,174,509,3,7-1745093
+Russia,Soviet Union,152mm 2A65 Msta-B howitzer,damaged,https://i.postimg.cc/Y9xbmgHf/6655.jpg,2022-03-30,174,516,3,7-1745163
+Russia,Soviet Union,152mm 2A65 Msta-B howitzer,damaged,https://i.postimg.cc/QCTj6V1n/1003-1x-2-A65-Msta-B-damaged.jpg,2022-08-04,174,529,3,7-1745293
+Russia,Soviet Union,152mm 2A65 Msta-B howitzer,damaged,https://postimg.cc/q6CYJkkd,2022-08-18,174,531,3,7-1745313
+Russia,Soviet Union,152mm 2A65 Msta-B howitzer,damaged,https://i.postimg.cc/4338Nym4/1024-msta-b.jpg,2022-09-08,174,533,3,7-1745333
+Russia,Soviet Union,152mm 2S19 Msta-S,damaged,https://i.postimg.cc/V6hfPDxL/19.png,2022-04-04,175,569,3,7-1755693
+Russia,Soviet Union,152mm 2S19 Msta-S,damaged,https://i.postimg.cc/jqZ7G0y7/1005-msta-s-damaged.jpg,2022-08-15,175,600,3,7-1756003
+Russia,Soviet Union,152mm 2S19 Msta-S,damaged,https://i.postimg.cc/ncrDxR1w/1006-msta-s-damaged.jpg,2022-08-15,175,601,3,7-1756013
+Russia,Soviet Union,152mm 2S3 Akatsiya,damaged,https://i.postimg.cc/8kr2TQRq/324.png,2022-03-26,176,618,3,7-1766183
+Russia,Soviet Union,152mm 2S3 Akatsiya,damaged,https://twitter.com/UAWeapons/status/1506371635754029059,2022-03-26,176,619,3,7-1766193
+Russia,Soviet Union,152mm D-20 gun-howitzer,damaged,https://i.postimg.cc/gj2R3Wt5/1018-D-20-destr.jpg,2022-10-04,179,658,3,7-1796583
+Russia,Soviet Union,164 BMP-1(P),damaged,https://twitter.com/Blue_Sauron/status/1577397473257361408,2022-10-05,191,680,3,7-1916803
+Russia,Soviet Union,1V14 battery command and forward observer vehicle,damaged,https://i.postimg.cc/sDTPR0kN/23.jpg,2022-04-09,215,732,3,7-2157323
+Russia,Soviet Union,2 203mm 2S7M Malka,damaged,https://i.postimg.cc/kXvxwvLv/1008.jpg,2022-07-25,218,736,3,7-2187363
+Russia,Soviet Union,2 T-80BVK,damaged,https://i.postimg.cc/KjgLdNVP/1010.jpg,2022-07-27,233,759,3,7-2337593
+Russia,Soviet Union,20 BRM-1K reconnaissance vehicle,damaged,https://twitter.com/Blue_Sauron/status/1577397473257361408,2022-10-05,240,680,3,7-2406803
+Russia,Russia,204 Unknown tank,damaged,https://twitter.com/UAWeapons/status/1557732021937455104,2022-08-13,245,784,3,7-2457843
+Russia,Russia,204 Unknown tank,damaged,https://i.postimg.cc/8kwYcCfR/1002-unkn-tank.jpg,2022-08-13,245,785,3,7-2457853
+Russia,Russia,220mm TOS-1A,damaged,https://i.postimg.cc/C5BcPB1R/54f.png,2022-04-04,263,871,3,7-2638713
+Russia,Russia,220mm TOS-1A,damaged,https://i.postimg.cc/JhPdySQX/69.png,2022-04-10,263,872,3,7-2638723
+Russia,Russia,220mm TOS-1A,damaged,https://i.postimg.cc/HL58qWkz/76.jpg,2022-05-03,263,873,3,7-2638733
+Russia,Russia,220mm TOS-1A,damaged,https://i.postimg.cc/BbybtzsD/4311.png,2022-05-10,263,876,3,7-2638763
+Russia,Russia,233 BTR-82A(M),damaged,https://twitter.com/UAWeapons/status/1570423464971976705,2022-09-16,267,889,3,7-2678893
+Russia,Russia,233 BTR-82A(M),damaged,https://i.postimg.cc/yxpp9Gb4/2022-09-17-BTR-82-A.png,2022-09-19,267,893,3,7-2678933
+Russia,Soviet Union,23mm ZU-23-2,damaged,https://twitter.com/UAWeapons/status/1567822704601858048,2022-09-09,271,905,3,7-2719053
+Russia,Russia,24 KamAZ Avtozaks,damaged,https://i.postimg.cc/05BPkMNb/1004-Kam-AZ-Avtozaks.jpg,2022-08-24,273,908,3,7-2739083
+Russia,Russia,2K22M1 Tunguska,damaged,https://i.postimg.cc/9MqLyHJZ/764.png,2022-03-19,293,960,3,7-2939603
+Russia,Russia,2K22M1 Tunguska,damaged,https://i.postimg.cc/L8ZkVWLr/698.png,2022-04-09,293,963,3,7-2939633
+Russia,Russia,3 BMP-2M,damaged,https://twitter.com/UAWeapons/status/1572504785693310978,2022-09-22,301,975,3,7-3019753
+Russia,Soviet Union,30 122mm D-30 howitzer,damaged,https://i.postimg.cc/ZRrPVHSv/1169-d30.jpg,2022-08-23,311,985,3,7-3119853
+Russia,Russia,30 T-80BVM,damaged,https://i.postimg.cc/MKnvkmBv/1020-t80bvm-nr14.jpg,2022-08-13,314,990,3,7-3149903
+Russia,Russia,31 R-149MA3 command and staff vehicle,damaged,https://i.postimg.cc/qvy9mBSj/1013-R-149-MA3-dmg-capt.jpg,2022-10-02,322,1005,3,7-32210053
+Russia,Russia,31 T-80BVM,damaged,https://i.postimg.cc/rwk9X6Y1/1000-t80bvm-nr-14.jpg,2022-08-14,323,1007,3,7-32310073
+Russia,Russia,33 T-80BVM,damaged,https://i.postimg.cc/qRpN5jRw/1002-t80bvm.jpg,2022-08-15,327,1025,3,7-32710253
+Russia,Russia,335 Ural-4320,damaged,https://i.postimg.cc/zfZxn94Q/1118_Ural-4320_damaged_and_abandoned.jpg,2022-07-28,329,1056,3,7-32910563
+Russia,Russia,341 Ural-4320,damaged,https://i.postimg.cc/D0HCdSTm/1000-ural4320.jpg,2022-08-13,336,1104,3,7-33611043
+Russia,Russia,341 Ural-4320,damaged,https://postimg.cc/mhsHRWKh,2022-08-13,336,1105,3,7-33611053
+Russia,Russia,343 KamAZ 6x6,damaged,https://i.postimg.cc/zvHZkHg5/1001-kamaz-6x6.jpg,2022-08-09,339,1112,3,7-33911123
+Russia,Russia,343 Ural-4320,damaged,https://i.postimg.cc/NF1WZv0L/1002-ural4320.jpg,2022-08-17,340,1113,3,7-34011133
+Russia,Russia,35 T-80BVM,damaged,https://i.postimg.cc/qMTDvQnb/1003-t80bvm.jpg,2022-08-30,342,1115,3,7-34211153
+Russia,Russia,353 KamAZ 6x6,damaged,https://i.postimg.cc/gktrF01S/1001-REM-KL-Kamaz-6x6.jpg,2022-08-13,344,1122,3,7-34411223
+Russia,Russia,360 Ural-4320,damaged,https://i.postimg.cc/zG5zScVY/1144-ural-dam-capt.jpg,2022-08-23,350,1146,3,7-35011463
+Russia,Russia,365 Ural-4320,damaged,https://i.postimg.cc/fRrqKKD6/1008-ural4320.png,2022-09-09,353,1154,3,7-35311543
+Russia,Russia,386 KamAZ 6x6,damaged,https://i.postimg.cc/pLHBThD2/1132-kamaz-capt-dam.jpg,2022-08-23,366,1213,3,7-36612133
+Russia,Russia,392 KamAZ 6x6,damaged,https://twitter.com/UAWeapons/status/1568341095591088130,2022-09-10,373,1223,3,7-37312233
+Russia,Russia,398 Ural-4320,damaged,https://twitter.com/UAWeapons/status/1570482813857837056,2022-09-16,376,1230,3,7-37612303
+Russia,Russia,4 UAZ-394511 ‘Esaul’,damaged,https://i.postimg.cc/3ww79TFW/1000-Esaul.png,2022-08-13,381,1237,3,7-38112373
+Russia,Soviet Union,4 Unknown T-72,damaged,https://twitter.com/UAWeapons/status/1566072209642340352,2022-09-04,383,1239,3,7-38312393
+Russia,Soviet Union,4 Unknown towed artillery,damaged,https://i.postimg.cc/9FRhFdXp/1009-unkn-towed-art.jpg,2022-08-31,385,1240,3,7-38512403
+Russia,Russia,404 KamAZ 6x6,damaged,https://twitter.com/UAWeapons/status/1568628787457433600,2022-09-14,393,1257,3,7-39312573
+Russia,Russia,42 Unknown BTR-80/BTR-82A,damaged,https://twitter.com/UAWeapons/status/1570482813857837056,2022-09-16,403,1230,3,7-40312303
+Russia,Russia,420 Ural-4320,damaged,https://twitter.com/UAWeapons/status/1573229914483998720,2022-09-24,405,1285,3,7-40512853
+Russia,Russia,420 Ural-4320,damaged,https://i.postimg.cc/4dMmdk4Y/1006-ural4320.jpg,2022-09-24,405,1286,3,7-40512863
+Russia,Russia,436 KamAZ 6x6,damaged,https://i.postimg.cc/9z58PTRG/2022-09-19-Kam-AZ-6x6-1.jpg,2022-09-22,417,1317,3,7-41713173
+Russia,Russia,440 Ural-4320,damaged,https://i.postimg.cc/FRFP7LCS/1000-ural4320-dam-capt.jpg,2022-10-05,426,1334,3,7-42613343
+Russia,Russia,458 KamAZ 6x6,damaged,https://i.postimg.cc/VvtRYvjh/1005-kamaz-6x6-capt-dam.jpg,2022-10-02,435,1349,3,7-43513493
+Russia,Soviet Union,48 Unknown T-72,damaged,https://twitter.com/UAWeapons/status/1568696183836577798,2022-09-11,449,1372,3,7-44913723
+Russia,Russia,5 KamAZ-5350 with KS-45719-7M crane,damaged,https://i.postimg.cc/brrYjVdG/1015.jpg,2022-06-26,461,1389,3,7-46113893
+Russia,Russia,50 R-149MA1 command and staff vehicle,damaged,https://i.postimg.cc/pdvXZrd8/268.png,2022-09-15,470,1399,3,7-47013993
+Russia,Soviet Union,507 BMP-2(K),damaged,https://twitter.com/UAWeapons/status/1576153130751827969,2022-10-02,474,1411,3,7-47414113
+Russia,Soviet Union,521 BMP-2(K),damaged,https://i.postimg.cc/zBJ4yRy2/1009-bmp2-dam-capt.jpg,2022-10-07,482,1433,3,7-48214333
+Russia,Russia,53 BMD-4M,damaged,https://i.postimg.cc/NfryXnSw/1032-BMD4-M.jpg,2022-07-28,483,1443,3,7-48314433
+Russia,Soviet Union,58 152mm 2S3(M) Akatsiya,damaged,https://twitter.com/UAWeapons/status/1569742426469720066,2022-09-14,500,1473,3,7-50014733
+Russia,Russia,6 T-72BA,damaged,https://i.postimg.cc/D0DT1XGd/1006-t72ba.jpg,2022-08-20,513,1490,3,7-51314903
+Russia,Russia,6 Unknown SPG,damaged,https://i.postimg.cc/brmSsT57/1001-unkn-spg.jpg,2022-08-23,515,1494,3,7-51514943
+Russia,Soviet Union,61 122mm BM-21 Grad,damaged,https://i.postimg.cc/43SsyRyt/1000-bm21.jpg,2022-09-09,522,1504,3,7-52215043
+Russia,Soviet Union,61 122mm BM-21 Grad,damaged,https://i.postimg.cc/FKBjwrRR/1015-bm21-grad.jpg,2022-09-09,522,1505,3,7-52215053
+Russia,Russia,61 Ural-43206,damaged,https://i.postimg.cc/R0QNMfTp/1141-Ural-43206-abandoned-and-damaged.jpg,2022-07-28,526,1517,3,7-52615173
+Russia,Russia,63 Ural-43206,damaged,https://i.postimg.cc/9F3SwNRP/1007-ural43206.jpg,2022-08-04,536,1533,3,7-53615333
+Russia,Soviet Union,64 122mm BM-21 Grad,damaged,https://twitter.com/UAWeapons/status/1550508867930529794,2022-07-24,537,1535,3,7-53715353
+Russia,Russia,65 KamAZ 6x6 tanker,damaged,https://i.postimg.cc/DyJTzQPv/1002-kamaz-tanker-x2-damaged.jpg,2022-08-05,541,1543,3,7-54115433
+Russia,Soviet Union,67 T-80BV,damaged,https://twitter.com/UAWeapons/status/1564716856950366208,2022-08-31,550,1559,3,7-55015593
+Russia,Soviet Union,7 UAZ-469 jeep,damaged,https://i.postimg.cc/1tx1VCKR/1088-UAZ-469.jpg,2022-07-28,565,1573,3,7-56515733
+Russia,Russia,7 Ural-63704-0010 Tornado-U,damaged,https://twitter.com/UAWeapons/status/1568628787457433600,2022-09-14,568,1257,3,7-56812573
+Russia,Soviet Union,72 T-72B Obr. 1989,damaged,https://twitter.com/Blue_Sauron/status/1575425367027892226,2022-09-30,584,483,3,7-5844833
+Russia,Soviet Union,76 122mm BM-21 Grad,damaged,https://twitter.com/UAWeapons/status/1575041804738523137,2022-09-28,596,96,3,7-596963
+Russia,Soviet Union,79 122mm BM-21 Grad,damaged,https://i.postimg.cc/R0wcBGnP/1012-bm21-capt.jpg,2022-10-04,604,1631,3,7-60416313
+Russia,Russia,79 KamAZ 6x6 tanker,damaged,https://i.postimg.cc/MGNqLr79/1000-kamaz-tanker-dam-capt.jpg,2022-10-06,605,1632,3,7-60516323
+Russia,Russia,8 BMP-2M,damaged,https://twitter.com/UAWeapons/status/1577686060473225217,2022-10-06,612,1642,3,7-61216423
+Russia,Russia,8 K-53949 Linza,damaged,https://twitter.com/UAWeapons/status/1568899249688952833,2022-09-12,613,1178,3,7-61311783
+Russia,Soviet Union,8 T-62M,damaged,https://i.postimg.cc/FHvqwqSC/1007-t62m-dam-aban.jpg,2022-10-04,617,1648,3,7-61716483
+Russia,Russia,83 T-80U,damaged,https://twitter.com/UAWeapons/status/1570479830562672640,2022-09-16,628,1665,3,7-62816653
+Russia,Russia,83 T-80U,damaged,https://twitter.com/UAWeapons/status/1571501699348430849,2022-09-19,628,1666,3,7-62816663
+Russia,Russia,86 Ural-4320 tanker,damaged,https://i.postimg.cc/JhRL94Pf/1026-ural-tanker.jpg,2022-09-10,635,1685,3,7-63516853
+Russia,Soviet Union,88 T-80BV,damaged,https://twitter.com/UAWeapons/status/1570138425843408896,2022-09-15,639,1174,3,7-63911743
+Russia,Soviet Union,9 ZiL-131,damaged,https://i.postimg.cc/tCWmqrwD/2022-09-19-Zi-L-131.jpg,2022-09-22,656,1714,3,7-65617143
+Russia,Soviet Union,90 MT-LBVM and MT-LBVMK,damaged,https://postimg.cc/mP4082r3,2022-08-13,659,1720,3,7-65917203
+Russia,Soviet Union,99 T-80BV,damaged,https://i.postimg.cc/MpQzsjSp/1007-t80bv.jpg,2022-09-20,692,1767,3,7-69217673
+Russia,Russia,9A310M1 TELAR (for Buk-M1-2),damaged,https://i.postimg.cc/DZXDG2k3/779.png,2022-03-19,696,1776,3,7-69617763
+Russia,Russia,9A317 TELAR (for Buk-M2),damaged,https://i.postimg.cc/JnCgXRXL/1016-9-A317.jpg,2022-08-23,700,1788,3,7-70017883
+Russia,Soviet Union,9A330 Tor TLAR (for 9K330 Tor),damaged,https://i.postimg.cc/x18N2bPf/g4.jpg,2022-04-06,701,1790,3,7-70117903
+Russia,Soviet Union,9A330 Tor TLAR (for 9K330 Tor),damaged,https://i.postimg.cc/KvJ3w5Bp/g5.jpg,2022-04-06,701,1791,3,7-70117913
+Russia,Soviet Union,9A330 Tor TLAR (for 9K330 Tor),damaged,https://i.postimg.cc/1XzB0gjR/7j7.png,2022-04-13,701,1793,3,7-70117933
+Russia,Soviet Union,9A330 Tor TLAR (for 9K330 Tor),damaged,https://i.postimg.cc/CMbpsN0w/553.jpg,2022-04-20,701,1794,3,7-70117943
+Russia,Soviet Union,9A330 Tor TLAR (for 9K330 Tor-M),damaged,https://i.postimg.cc/mgHPxQR3/5k.png,2022-03-19,702,1796,3,7-70217963
+Russia,Soviet Union,9K33 Osa,damaged,https://i.postimg.cc/PxkdsRX3/438.png,2022-03-19,708,1815,3,7-70818153
+Russia,Soviet Union,9P148 Konkurs,damaged,https://i.postimg.cc/KYLvDyD2/1007-9-P148-Konkurs-dmg-capt.jpg,2022-10-02,716,1859,3,7-71618593
+Russia,Russia,9T244 transloader (for 9A330/1 Tor),damaged,https://i.postimg.cc/x1t6g70s/d34.jpg,2022-04-06,727,1891,3,7-72718913
+Russia,Russia,Armoured SUV,damaged,https://i.postimg.cc/JhV6T907/329.png,2022-03-19,730,1910,3,7-73019103
+Russia,Soviet Union,BMD-2,damaged,https://i.postimg.cc/hvdB25Hw/j2.jpg,2022-03-19,733,1938,3,7-73319383
+Russia,Soviet Union,BMD-2,damaged,https://i.postimg.cc/MTmVp6Hz/c5.png,2022-03-19,733,1944,3,7-73319443
+Russia,Soviet Union,BMD-2,damaged,https://twitter.com/UAWeapons/status/1522706604977762313,2022-05-10,733,2013,3,7-73320133
+Russia,Soviet Union,BMD-2,damaged,https://twitter.com/UAWeapons/status/1534592976671866884,2022-06-09,733,2018,3,7-73320183
+Russia,Soviet Union,BMD-2,damaged,https://i.postimg.cc/nc5hKV4Y/1027-bmd2.jpg,2022-08-22,733,2051,3,7-73320513
+Russia,Soviet Union,BMD-2,damaged,https://i.postimg.cc/X7HkcTPY/1000-bmd2.jpg,2022-08-30,733,2053,3,7-73320533
+Russia,Russia,BMD-4M,damaged,https://i.postimg.cc/2jGTdhtw/45.jpg,2022-04-06,734,2103,3,7-73421033
+Russia,Soviet Union,BMP-1(P),damaged,https://postimg.cc/DJp7JbvH,2022-03-19,738,2144,3,7-73821443
+Russia,Soviet Union,BMP-1(P),damaged,https://twitter.com/RALee85/status/1521768997900984321,2022-05-05,738,2175,3,7-73821753
+Russia,Soviet Union,BMP-1(P),damaged,https://i.postimg.cc/QMPbRrpP/8j.png,2022-05-14,738,2177,3,7-73821773
+Russia,Soviet Union,BMP-1(P),damaged,https://i.postimg.cc/W4wTp5Qd/6h5.png,2022-05-26,738,2202,3,7-73822023
+Russia,Soviet Union,BMP-1(P),damaged,https://i.postimg.cc/CLz7N7gC/d3.jpg,2022-06-11,738,2215,3,7-73822153
+Russia,Soviet Union,BMP-1(P),damaged,https://twitter.com/UAWeapons/status/1535717957652865029,2022-06-26,738,2220,3,7-73822203
+Russia,Soviet Union,BMP-1(P),damaged,https://i.postimg.cc/Z5cKsDdh/478.png,2022-06-26,738,2221,3,7-73822213
+Russia,Soviet Union,BMP-1(P),damaged,https://twitter.com/UAWeapons/status/1536424104957460480,2022-06-26,738,2216,3,7-73822163
+Russia,Russia,BMP-1AM,damaged,https://i.postimg.cc/0Nbx8HDv/dc.jpg,2022-05-08,739,2225,3,7-73922253
+Russia,Russia,BMP-1AM,damaged,https://i.postimg.cc/HLqkkqg0/1003-bmp1am.jpg,2022-08-08,739,2239,3,7-73922393
+Russia,Russia,BMP-1AM,damaged,https://twitter.com/UAWeapons/status/1558386570432073728,2022-08-14,739,2241,3,7-73922413
+Russia,Russia,BMP-1AM,damaged,https://i.postimg.cc/RZnJ6Wy7/1003-bmp1am.jpg,2022-08-15,739,2243,3,7-73922433
+Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/vBy9TRg0/77699.png,2022-03-19,742,2294,3,7-74222943
+Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/XYyYKfsy/Screenshot-8236.png,2022-03-19,742,2295,3,7-74222953
+Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/2jX5hmCS/u1.jpg,2022-03-19,742,2296,3,7-74222963
+Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/RhxT6Pz9/663.png,2022-03-19,742,2306,3,7-74223063
+Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/rF84w7J1/fsl.png,2022-03-19,742,2307,3,7-74223073
+Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/y80rBVY6/469.png,2022-03-26,742,2345,3,7-74223453
+Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/4nCw32NC/43133.png,2022-03-26,742,2346,3,7-74223463
+Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/MpqBBJ4S/bmp22222222222222.jpg,2022-03-31,742,2376,3,7-74223763
+Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/3x5FhZtV/bmmp2.jpg,2022-04-13,742,2443,3,7-74224433
+Russia,Soviet Union,BMP-2,damaged,https://postlmg.cc/XXqxFmgP,2022-05-01,742,2473,3,7-74224733
+Russia,Soviet Union,BMP-2,damaged,https://i.postimg.cc/NLqKRCD1/g54.jpg,2022-05-06,742,2488,3,7-74224883
+Russia,Soviet Union,BMP-2,damaged,https://twitter.com/UAWeapons/status/1527761851441881089,2022-05-23,742,2518,3,7-74225183
+Russia,Soviet Union,BMP-2(K),damaged,https://twitter.com/UAWeapons/status/1536726507061751808,2022-06-30,744,2548,3,7-74425483
+Russia,Soviet Union,BMP-2(K),damaged,https://twitter.com/UAWeapons/status/1542986188100886529,2022-07-02,744,995,3,7-7449953
+Russia,Soviet Union,BMP-2(K),damaged,https://i.postimg.cc/q7PzsbP6/1012.jpg,2022-07-03,744,2552,3,7-74425523
+Russia,Soviet Union,BMP-2(K),damaged,https://twitter.com/UAWeapons/status/1543979310171684864,2022-07-05,744,2554,3,7-74425543
+Russia,Soviet Union,BMP-2(K),damaged,https://i.postimg.cc/G38ZY9w0/1003-bmp2-damaged-abandoned.jpg,2022-08-04,744,2581,3,7-74425813
+Russia,Soviet Union,BMP-2(K),damaged,https://twitter.com/UAWeapons/status/1560014804869414916,2022-08-18,744,2597,3,7-74425973
+Russia,Soviet Union,BMP-2(K),damaged,https://i.postimg.cc/G2kXxmxm/1017-bmp2.jpg,2022-08-18,744,2598,3,7-74425983
+Russia,Soviet Union,BMP-2(K),damaged,https://i.postimg.cc/858BR3qV/1170-bmp2.jpg,2022-08-23,744,2634,3,7-74426343
+Russia,Soviet Union,BMP-2(K),damaged,https://twitter.com/Danspiun/status/1565338559099600896,2022-09-02,744,2643,3,7-74426433
+Russia,Soviet Union,BMP-2(K),damaged,https://twitter.com/UAWeapons/status/1566915724031008769,2022-09-05,744,2652,3,7-74426523
+Russia,Soviet Union,BMP-2(K),damaged,https://twitter.com/UAWeapons/status/1567956407768547328,2022-09-09,744,78,3,7-744783
+Russia,Soviet Union,BMP-2(K),damaged,https://i.postimg.cc/GmKgzL7N/1020-bmp1-2.jpg,2022-09-09,744,460,3,7-7444603
+Russia,Soviet Union,BMP-2(K),damaged,https://i.postimg.cc/W3RXhzqz/1008-bmp2.jpg,2022-09-10,744,2669,3,7-74426693
+Russia,Soviet Union,BMP-2(K),damaged,https://i.postimg.cc/8cST7mhc/1003-bmp2-2x.jpg,2022-09-16,744,2704,3,7-74427043
+Russia,Soviet Union,BMP-2(K),damaged,https://i.postimg.cc/90PmvbJk/1007-bmp2.jpg,2022-09-17,744,2706,3,7-74427063
+Russia,Soviet Union,BMP-2(K),damaged,https://twitter.com/UAWeapons/status/1571499575663370241,2022-09-19,744,2713,3,7-74427133
+Russia,Soviet Union,BMP-2(K),damaged,https://twitter.com/Blue_Sauron/status/1572514821471608832,2022-09-22,744,2716,3,7-74427163
+Russia,Russia,BMP-3,damaged,https://i.postimg.cc/HxnCghHt/446.jpg,2022-03-19,747,2767,3,7-74727673
+Russia,Russia,BMP-3,damaged,https://i.postimg.cc/WpmBhMvM/4d.png,2022-04-11,747,2814,3,7-74728143
+Russia,Russia,BMP-3,damaged,https://i.postimg.cc/6qQy4ByR/588.png,2022-04-11,747,2815,3,7-74728153
+Russia,Russia,BMP-3,damaged,https://i.postimg.cc/BQHt6Xc9/439.jpg,2022-05-05,747,2837,3,7-74728373
+Russia,Russia,BMP-3,damaged,https://twitter.com/UAWeapons/status/1522706604977762313,2022-05-10,747,2013,3,7-74720133
+Russia,Russia,BMP-3,damaged,https://twitter.com/UAWeapons/status/1531274223427125248,2022-05-31,747,2854,3,7-74728543
+Russia,Russia,BMP-3,damaged,https://twitter.com/UAWeapons/status/1533100107402563589,2022-06-05,747,2857,3,7-74728573
+Russia,Russia,BMP-3,damaged,https://i.postimg.cc/fy3wzKJk/1005-bmp3.jpg,2022-08-30,747,2898,3,7-74728983
+Russia,Russia,BMP-3,damaged,https://twitter.com/UAWeapons/status/1567823899785658368,2022-09-09,747,1220,3,7-74712203
+Russia,Russia,BMP-3,damaged,https://i.postimg.cc/q7z1vV8B/1024-bmp3-dmg.jpg,2022-10-01,747,2919,3,7-74729193
+Russia,Soviet Union,BTR-80,damaged,https://i.postimg.cc/HsQGV9qw/nm.jpg,2022-03-19,755,2988,3,7-75529883
+Russia,Soviet Union,BTR-80,damaged,https://i.postimg.cc/HWZKdnQ8/46p.png,2022-03-30,755,3015,3,7-75530153
+Russia,Soviet Union,BTR-80,damaged,https://i.postimg.cc/rmL9smDd/4f5.jpg,2022-04-06,755,3020,3,7-75530203
+Russia,Soviet Union,BTR-80,damaged,https://twitter.com/UAWeapons/status/1514213065268596737,2022-04-13,755,3024,3,7-75530243
+Russia,Soviet Union,BTR-80,damaged,https://i.postimg.cc/HWbk4YLL/b1.jpg,2022-06-06,755,3035,3,7-75530353
+Russia,Russia,BTR-82A,damaged,https://i.postimg.cc/RZQbNvvr/54.jpg,2022-03-19,756,3081,3,7-75630813
+Russia,Russia,BTR-82A,damaged,https://i.postimg.cc/j5kxgNCW/g66.jpg,2022-03-19,756,3082,3,7-75630823
+Russia,Russia,BTR-82A,damaged,https://i.postimg.cc/BbS69p4N/66588.png,2022-03-19,756,3090,3,7-75630903
+Russia,Russia,BTR-82A,damaged,https://i.postimg.cc/TY0tRgBM/4766.png,2022-04-01,756,3132,3,7-75631323
+Russia,Russia,BTR-82A,damaged,https://i.postimg.cc/4dcC0KqK/btr88222.jpg,2022-04-23,756,3190,3,7-75631903
+Russia,Russia,BTR-82A,damaged,https://i.postimg.cc/Y0xCJmg2/44f.jpg,2022-04-23,756,3191,3,7-75631913
+Russia,Russia,BTR-82A,damaged,https://twitter.com/UAWeapons/status/1516395004935213061,2022-04-23,756,3192,3,7-75631923
+Russia,Russia,BTR-82A,damaged,https://i.postimg.cc/J4mqZVzj/btr8822.jpg,2022-04-25,756,3199,3,7-75631993
+Russia,Russia,BTR-82A,damaged,https://twitter.com/UAWeapons/status/1524456618091589635,2022-05-14,756,3226,3,7-75632263
+Russia,Russia,BTR-82A,damaged,https://twitter.com/UAWeapons/status/1525936384434913281,2022-05-24,756,3230,3,7-75632303
+Russia,Russia,BTR-82A(M),damaged,https://twitter.com/UAWeapons/status/1558035528339128322,2022-08-13,757,3258,3,7-75732583
+Russia,Soviet Union,BTR-D,damaged,https://i.postimg.cc/9QZR97zk/7799.png,2022-04-18,758,3316,3,7-75833163
+Russia,Soviet Union,BTR-D,damaged,https://i.postimg.cc/L6V1m8C0/1040-BTR-D.jpg,2022-07-28,758,3337,3,7-75833373
+Russia,Russia,BTR-MDM 'Rakushka',damaged,https://i.postimg.cc/BQty5xVw/4fn.png,2022-03-28,760,3353,3,7-76033533
+Russia,Russia,GAZ Tigr-M,damaged,https://i.postimg.cc/ZKDrDbck/85.png,2022-03-19,772,3418,3,7-77234183
+Russia,Russia,GAZ Tigr-M,damaged,https://i.postimg.cc/vZRf920n/t1.jpg,2022-03-19,772,3419,3,7-77234193
+Russia,Russia,GAZ Tigr-M,damaged,https://i.postimg.cc/qv8nGcF5/t2.jpg,2022-03-19,772,3420,3,7-77234203
+Russia,Russia,GAZ Tigr-M,damaged,https://i.postimg.cc/25GZskrd/t3.jpg,2022-03-19,772,3421,3,7-77234213
+Russia,Russia,GAZ Tigr-M,damaged,https://i.postimg.cc/rpD3MW3F/5774.jpg,2022-04-01,772,3450,3,7-77234503
+Russia,Russia,GAZ Tigr-M,damaged,https://i.postimg.cc/50gTqtJF/35g.png,2022-04-04,772,3453,3,7-77234533
+Russia,Russia,GAZ Tigr-M,damaged,https://i.postimg.cc/XqyHHVHS/382.png,2022-09-15,772,3502,3,7-77235023
+Russia,Italy,Iveco LMV 'Rys',damaged,https://i.postimg.cc/4xrt6Lwt/542.png,2022-03-19,780,3551,3,7-78035513
+Russia,Italy,Iveco LMV 'Rys',damaged,https://i.postimg.cc/q7834FHV/355.png,2022-03-26,780,3555,3,7-78035553
+Russia,Italy,Iveco LMV 'Rys',damaged,https://i.postimg.cc/7YV8ty42/6j.png,2022-05-23,780,3562,3,7-78035623
+Russia,Italy,Iveco LMV Rys,damaged,https://i.postimg.cc/4d4Bvtwn/1024.jpg,2022-07-09,781,3566,3,7-78135663
+Russia,Italy,Iveco LMV Rys,damaged,https://twitter.com/UAWeapons/status/1567533093568892928,2022-09-08,781,3567,3,7-78135673
+Russia,Italy,Iveco LMV Rys,damaged,https://twitter.com/UAWeapons/status/1569049877882994692,2022-09-12,781,3568,3,7-78135683
+Russia,Russia,K-53949 'Linza',damaged,https://i.postimg.cc/7PCL4bbm/221.jpg,2022-06-08,782,3575,3,7-78235753
+Russia,Russia,Ka-52 'Alligator' attack helicopter,damaged,https://twitter.com/azyakancokkacan/status/1504785437902188573,2022-03-19,785,3589,3,7-78535893
+Russia,Russia,Ka-52 'Alligator' attack helicopter,damaged,https://postimg.cc/jCmC8Nx5,2022-03-19,785,3590,3,7-78535903
+Russia,Russia,Ka-52 'Alligator' attack helicopter,damaged,https://i.postimg.cc/Zqj182jJ/987.png,2022-03-19,785,3591,3,7-78535913
+Russia,Russia,Ka-52 'Alligator' attack helicopter,damaged,https://i.postimg.cc/0jWMTTRH/43d.png,2022-04-04,785,3594,3,7-78535943
+Russia,Russia,Ka-52 'Alligator' attack helicopter,damaged,https://i.postimg.cc/vmtC0wn8/57.png,2022-04-14,785,3597,3,7-78535973
+Russia,Russia,Ka-52 'Alligator' attack helicopter,damaged,https://i.postimg.cc/tRxDy5TM/3288.png,2022-04-21,785,3601,3,7-78536013
+Russia,Russia,KamAZ 6x6,damaged,https://i.postimg.cc/kGnW3KWg/880.png,2022-03-19,788,3694,3,7-78836943
+Russia,Russia,KamAZ 6x6,damaged,https://i.postimg.cc/XYdzk891/5g.png,2022-03-19,788,3695,3,7-78836953
+Russia,Russia,KamAZ 6x6,damaged,https://postimg.cc/jWRY7hHb,2022-03-19,788,3696,3,7-78836963
+Russia,Russia,KamAZ 6x6,damaged,https://i.postimg.cc/GhDp0yzL/tt1.png,2022-03-19,788,3697,3,7-78836973
+Russia,Russia,KamAZ 6x6,damaged,https://i.postimg.cc/VkpkSLDj/f87.png,2022-03-19,788,3717,3,7-78837173
+Russia,Russia,KamAZ 6x6,damaged,https://i.postimg.cc/C1ZkcvPv/d3.png,2022-03-19,788,3718,3,7-78837183
+Russia,Russia,KamAZ 6x6,damaged,https://i.postimg.cc/Rhhng7p9/4r.png,2022-03-19,788,3719,3,7-78837193
+Russia,Russia,KamAZ 6x6,damaged,https://twitter.com/UAWeapons/status/1506960042347614218,2022-03-26,788,3785,3,7-78837853
+Russia,Russia,KamAZ 6x6,damaged,https://i.postimg.cc/bYTrvqnw/1t.png,2022-03-26,788,3786,3,7-78837863
+Russia,Russia,KamAZ 6x6,damaged,https://i.postimg.cc/Jn4wQ0L6/5411.jpg,2022-03-26,788,3787,3,7-78837873
+Russia,Russia,KamAZ 6x6,damaged,https://postimg.cc/zb3wfMVh,2022-03-27,788,3801,3,7-78838013
+Russia,Russia,KamAZ 6x6,damaged,https://postimg.cc/3kSdwwpL,2022-03-27,788,3802,3,7-78838023
+Russia,Russia,KamAZ 6x6,damaged,https://postimg.cc/w71rrf27,2022-03-27,788,3803,3,7-78838033
+Russia,Russia,KamAZ 6x6,damaged,https://postimg.cc/vc6dRNB4,2022-03-27,788,3804,3,7-78838043
+Russia,Russia,KamAZ 6x6,damaged,https://twitter.com/UAWeapons/status/1525936384434913281,2022-05-24,788,3230,3,7-78832303
+Russia,Russia,KamAZ 6x6,damaged,https://postimg.cc/9R9Kd7mM,2022-05-25,788,3895,3,7-78838953
+Russia,Russia,KamAZ 6x6 tanker,damaged,https://i.postimg.cc/DfYbWs3H/Kamaz.png,2022-04-06,789,3908,3,7-78939083
+Russia,Russia,KamAZ 6x6 tanker,damaged,https://i.postimg.cc/m2TR1RH5/4311.jpg,2022-05-05,789,3919,3,7-78939193
+Russia,Russia,KamAZ 6x6 tanker,damaged,https://twitter.com/UAWeapons/status/1551210350548336640,2022-07-25,789,3936,3,7-78939363
+Russia,Russia,KamAZ 8x8,damaged,https://i.postimg.cc/7hRs911J/544.jpg,2022-04-25,790,3941,3,7-79039413
+Russia,Russia,KamAZ-6350 8x8 artillery tractor,damaged,https://i.postimg.cc/br6jRJWd/Screenshot-8072.png,2022-03-19,796,3977,3,7-79639773
+Russia,Russia,KamAZ-6350 8x8 artillery tractor,damaged,https://i.postimg.cc/nczxh49m/Screenshot-8074.png,2022-03-19,796,3978,3,7-79639783
+Russia,Russia,KamAZ-63968 'Typhoon',damaged,https://i.postimg.cc/KjxFyJC2/48.jpg,2022-04-20,797,3993,3,7-79739933
+Russia,Russia,KamAZ-63968 Typhoon,damaged,https://i.postimg.cc/g0gcjCG4/1005-Kam-AZ-63968-Typhoon.jpg,2022-08-04,798,3996,3,7-79839963
+Russia,Russia,Kamaz-435029 Patrol-A,damaged,https://twitter.com/UAWeapons/status/1542239547156795393,2022-06-30,799,4001,3,7-79940013
+Russia,Soviet Union,KrAZ-255B tanker,damaged,https://i.postimg.cc/jSFbtdw7/1086-Kr-AZ-255-B-tanker.jpg,2022-07-28,802,4008,3,7-80240083
+Russia,Soviet Union,MT-LB,damaged,https://twitter.com/UAWeapons/status/1538608332218458114,2022-06-30,807,4195,3,7-80741953
+Russia,Soviet Union,MT-LB,damaged,https://i.postimg.cc/rppG85WP/2022-09-18-MT-LB-1.jpg,2022-09-19,807,4266,3,7-80742663
+Russia,Soviet Union,MT-LB,damaged,https://twitter.com/naalsio26/status/1572364529723666435,2022-09-22,807,4270,3,7-80742703
+Russia,Soviet Union,MT-LB,damaged,https://i.postimg.cc/XqCXBHXQ/1005-mtlb.jpg,2022-09-24,807,4273,3,7-80742733
+Russia,Soviet Union,MT-LB,damaged,https://i.postimg.cc/BvPfD5JP/1004-mtlb.jpg,2022-09-28,807,4279,3,7-80742793
+Russia,Soviet Union,MT-LB,damaged,https://i.postimg.cc/tgrDNJxG/2022-09-28-MT-LBVM.jpg,2022-09-29,807,4282,3,7-80742823
+Russia,Soviet Union,PMP floating bridge,damaged,https://postimg.cc/mtdZGRwb,2022-09-15,827,4528,3,7-82745283
+Russia,Russia,PP-2005 floating bridge,damaged,https://i.postimg.cc/s2M12CLf/32d3.png,2022-05-08,828,4540,3,7-82845403
+Russia,Russia,PP-2005 floating bridge,damaged,https://i.postimg.cc/59RWtr9r/da2.jpg,2022-05-27,828,4544,3,7-82845443
+Russia,Russia,PP-2005 floating bridge,damaged,https://i.postimg.cc/9Q33dq7t/da1.jpg,2022-05-27,828,4545,3,7-82845453
+Russia,Soviet Union,PTS-3 tracked amphibious transport,damaged,https://i.postimg.cc/65MmYqgR/776.jpg,2022-06-11,830,4563,3,7-83045633
+Russia,Russia,Project 03160 Raptor class patrol boat,damaged,https://twitter.com/UAWeapons/status/1506229325598756872,2022-03-26,834,4585,3,7-83445853
+Russia,Russia,Project 03160 Raptor class patrol boat,damaged,https://i.postimg.cc/Gh7yVRxL/4438.png,2022-07-15,834,4590,3,7-83445903
+Russia,Soviet Union,Project 1164 Slava class guided missile cruiser 'Moskva',damaged,https://twitter.com/RALee85/status/1514379537903235074,2022-04-13,835,4591,3,7-83545913
+Russia,Soviet Union,Project 775 Ropucha class landing ship,damaged,https://i.postimg.cc/k4zbP5Ff/13.png,2022-03-26,839,4597,3,7-83945973
+Russia,Russia,R-149MA1 command and staff vehicle,damaged,https://i.postimg.cc/jSgsKMn3/g553.jpg,2022-03-19,842,4608,3,7-84246083
+Russia,Russia,R-149MA3 command and staff vehicle,damaged,https://i.postimg.cc/q7W198PZ/f431.png,2022-03-19,843,4642,3,7-84346423
+Russia,Russia,R-149MA3 command and staff vehicle,damaged,https://i.postimg.cc/65LWg9tK/554.jpg,2022-03-26,843,4646,3,7-84346463
+Russia,Russia,R-149MA3 command and staff vehicle,damaged,https://i.postimg.cc/dtQ6ZsNN/1003-btr80.jpg,2022-09-05,843,4651,3,7-84346513
+Russia,Russia,R-330BMV Borisoglebsk-2B,damaged,https://i.postimg.cc/wvzPRKsx/333.png,2022-03-19,845,4678,3,7-84546783
+Russia,Russia,REM-KL recovery vehicle,damaged,https://i.postimg.cc/gktrF01S/1001-REM-KL-Kamaz-6x6.jpg,2022-08-13,849,1122,3,7-84911223
+Russia,Soviet Union,Su-24M/MR strike/tactical reconnaissance aircraft,damaged,https://i.postimg.cc/mDQ1Vp8m/3326.png,2022-08-13,854,4699,3,7-85446993
+Russia,Soviet Union,Su-24M/MR strike/tactical reconnaissance aircraft,damaged,https://i.postimg.cc/mr7rGzCD/3326.png,2022-08-13,854,4700,3,7-85447003
+Russia,Soviet Union,Su-25 close air support aircraft,damaged,https://i.postimg.cc/zBVmRBJ2/h9.png,2022-03-19,856,4708,3,7-85647083
+Russia,Soviet Union,Su-25 close air support aircraft,damaged,https://twitter.com/UAWeapons/status/1535271617928081409,2022-06-11,856,4715,3,7-85647153
+Russia,Russia,Su-30SM multirole aircraft,damaged,https://i.postimg.cc/j5qMrfmQ/3326.png,2022-08-13,857,4734,3,7-85747343
+Russia,Soviet Union,T-62M,damaged,https://twitter.com/bayraktar_1love/status/1544790024838848515,2022-07-07,862,4757,3,7-86247573
+Russia,Soviet Union,T-62M,damaged,https://twitter.com/UAWeapons/status/1544797070883684353,2022-07-08,862,4758,3,7-86247583
+Russia,Soviet Union,T-64BV,damaged,https://i.postimg.cc/DfYzLMQ3/v60.png,2022-03-19,863,4766,3,7-86347663
+Russia,Soviet Union,T-64BV,damaged,https://i.postimg.cc/SQYyjpnT/887.jpg,2022-04-18,863,4776,3,7-86347763
+Russia,Soviet Union,T-64BV,damaged,https://postimg.cc/RqK9zGbg,2022-08-14,863,4800,3,7-86348003
+Russia,Soviet Union,T-72A,damaged,https://i.postimg.cc/0jTSbC5M/1012.jpg,2022-07-25,864,4830,3,7-86448303
+Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/HLqxBrSK/4fa.png,2022-03-19,866,4861,3,7-86648613
+Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/8zz8WcH7/763.png,2022-03-19,866,4862,3,7-86648623
+Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/Bv3rSysY/33213.png,2022-03-19,866,4868,3,7-86648683
+Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/sxgFWq3g/47.jpg,2022-03-31,866,4900,3,7-86649003
+Russia,Soviet Union,T-72B,damaged,https://twitter.com/UAWeapons/status/1513495397414715392,2022-04-13,866,4943,3,7-86649433
+Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/h4Tfc6FP/6523.png,2022-04-13,866,4944,3,7-86649443
+Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/ZKwvnxCF/65h.jpg,2022-05-14,866,4975,3,7-86649753
+Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/wjfhLTQ3/4f9.jpg,2022-05-20,866,4976,3,7-86649763
+Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/GhcpMPJj/53.jpg,2022-05-25,866,4985,3,7-86649853
+Russia,Soviet Union,T-72B,damaged,https://twitter.com/UAWeapons/status/1542986188100886529,2022-07-02,866,995,3,7-8669953
+Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/5091yjw5/1034.jpg,2022-07-05,866,4998,3,7-86649983
+Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/kX0QbyD7/1008-t72b-capt.jpg,2022-09-30,866,5046,3,7-86650463
+Russia,Soviet Union,T-72B,damaged,https://i.postimg.cc/W4xvnYDb/1010-t72b-capt-dam.jpg,2022-10-01,866,5049,3,7-86650493
+Russia,Russia,T-72B Obr. 1989,damaged,https://i.postimg.cc/Sx58mgzj/480.png,2022-03-19,867,5058,3,7-86750583
+Russia,Russia,T-72B Obr. 1989,damaged,https://i.postimg.cc/9XgKbxBF/8.jpg,2022-03-26,867,5066,3,7-86750663
+Russia,Russia,T-72B Obr. 1989,damaged,https://i.postimg.cc/KcW6QX5W/652.png,2022-04-04,867,5083,3,7-86750833
+Russia,Russia,T-72B Obr. 1989,damaged,https://i.postimg.cc/K8GWjV0y/257.png,2022-04-13,867,5096,3,7-86750963
+Russia,Soviet Union,T-72B Obr. 1989,damaged,https://twitter.com/UAWeapons/status/1557305465687744512,2022-08-13,867,5121,3,7-86751213
+Russia,Soviet Union,T-72B Obr. 1989,damaged,https://i.postimg.cc/FKkTr3Rw/1005-t72-B-1989.jpg,2022-09-10,867,5130,3,7-86751303
+Russia,Russia,T-72B3,damaged,https://i.postimg.cc/zfTsVnsF/579.png,2022-03-19,868,5141,3,7-86851413
+Russia,Russia,T-72B3,damaged,https://i.postimg.cc/X7MPs1gM/180.png,2022-03-26,868,5159,3,7-86851593
+Russia,Russia,T-72B3,damaged,https://twitter.com/UAWeapons/status/1508078103016488963,2022-03-27,868,5166,3,7-86851663
+Russia,Russia,T-72B3,damaged,https://i.postimg.cc/RZC1jkQd/3188.jpg,2022-03-29,868,5172,3,7-86851723
+Russia,Russia,T-72B3,damaged,https://twitter.com/UAWeapons/status/1516860518870523905,2022-04-20,868,5224,3,7-86852243
+Russia,Russia,T-72B3,damaged,https://i.postimg.cc/q7s3JVng/c7.jpg,2022-05-14,868,5250,3,7-86852503
+Russia,Russia,T-72B3,damaged,https://i.postimg.cc/xjhn41wr/68.jpg,2022-05-20,868,5252,3,7-86852523
+Russia,Russia,T-72B3,damaged,https://i.postimg.cc/Qtf6spC1/4ff.png,2022-05-25,868,5263,3,7-86852633
+Russia,Russia,T-72B3,damaged,https://twitter.com/RALee85/status/1544016163801387009,2022-07-05,868,3043,3,7-86830433
+Russia,Russia,T-72B3,damaged,https://twitter.com/UAWeapons/status/1547277890483519488,2022-07-14,868,5278,3,7-86852783
+Russia,Russia,T-72B3,damaged,https://twitter.com/UAWeapons/status/1554422066358648832,2022-08-04,868,5287,3,7-86852873
+Russia,Russia,T-72B3,damaged,https://twitter.com/RALee85/status/1562323160523046912,2022-08-30,868,5296,3,7-86852963
+Russia,Russia,T-72B3,damaged,https://i.postimg.cc/FRchYQZY/1048-t72b3.jpg,2022-09-08,868,5303,3,7-86853033
+Russia,Russia,T-72B3,damaged,https://i.postimg.cc/cJ7JnbbS/1002-t72b3.jpg,2022-09-10,868,5307,3,7-86853073
+Russia,Russia,T-72B3,damaged,https://twitter.com/RALee85/status/1568608823421865985,2022-09-11,868,5312,3,7-86853123
+Russia,Russia,T-72B3,damaged,https://i.postimg.cc/Xqf7LzV9/1004-t72b3.jpg,2022-09-16,868,5323,3,7-86853233
+Russia,Russia,T-72B3,damaged,https://twitter.com/UAWeapons/status/1573696104432111616,2022-09-25,868,5336,3,7-86853363
+Russia,Russia,T-72B3,damaged,https://twitter.com/UAWeapons/status/1575452097469943818,2022-09-30,868,5341,3,7-86853413
+Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/9Mhg9B0b/4g2.png,2022-03-19,869,5383,3,7-86953833
+Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/yNv6K4zM/468.png,2022-03-26,869,5420,3,7-86954203
+Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/6Qf1vBC4/6h.png,2022-04-24,869,5449,3,7-86954493
+Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/xdmnzGq2/d15.jpg,2022-05-06,869,5452,3,7-86954523
+Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/g2BDpPHM/f4.jpg,2022-05-08,869,5454,3,7-86954543
+Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/D02TR7J0/43g.png,2022-05-08,869,5455,3,7-86954553
+Russia,Russia,T-72B3 Obr. 2016,damaged,https://postimg.cc/dhZdrR3R,2022-05-21,869,5462,3,7-86954623
+Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/jdfBfJPd/d10.jpg,2022-06-26,869,5466,3,7-86954663
+Russia,Russia,T-72B3 Obr. 2016,damaged,https://twitter.com/UAWeapons/status/1545125402074562563,2022-07-08,869,5471,3,7-86954713
+Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/Njj1wvgY/1000.jpg,2022-07-16,869,5472,3,7-86954723
+Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/jjFPM35F/1007-t72b3-2016.jpg,2022-08-04,869,5478,3,7-86954783
+Russia,Russia,T-72B3 Obr. 2016,damaged,https://twitter.com/UAWeapons/status/1553999219156983808,2022-08-04,869,5479,3,7-86954793
+Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/Mpq5qdBh/1000.jpg,2022-08-09,869,5480,3,7-86954803
+Russia,Russia,T-72B3 Obr. 2016,damaged,https://i.postimg.cc/ydXZ0pTM/1005-t72b3-2016.jpg,2022-08-30,869,5489,3,7-86954893
+Russia,Russia,T-72B3 Obr. 2016,damaged,https://twitter.com/UAWeapons/status/1568967168473157632,2022-09-12,869,5502,3,7-86955023
+Russia,Soviet Union,T-80BV,damaged,https://i.postimg.cc/SxGZX1Gg/d14.jpg,2022-04-23,871,5552,3,7-87155523
+Russia,Soviet Union,T-80BV,damaged,https://i.postimg.cc/mhf9VRT7/d12.jpg,2022-04-23,871,5553,3,7-87155533
+Russia,Soviet Union,T-80BV,damaged,https://i.postimg.cc/T2yHk9RP/d13.jpg,2022-04-23,871,5554,3,7-87155543
+Russia,Soviet Union,T-80BV,damaged,https://i.postimg.cc/hv8ShJDX/97.png,2022-05-21,871,5563,3,7-87155633
+Russia,Soviet Union,T-80BV,damaged,https://twitter.com/UAWeapons/status/1541017371116281856,2022-06-29,871,5573,3,7-87155733
+Russia,Russia,T-80BVM,damaged,https://i.postimg.cc/x8NN9ZJx/1000.jpg,2022-07-21,872,5615,3,7-87256153
+Russia,Russia,T-80BVM,damaged,https://twitter.com/UAWeapons/status/1552708993830854657,2022-07-29,872,5618,3,7-87256183
+Russia,Russia,T-80U,damaged,https://i.postimg.cc/Pf2gzrfP/f5.png,2022-03-19,873,5637,3,7-87356373
+Russia,Russia,T-80U,damaged,https://i.postimg.cc/fbf34Qs1/331f.jpg,2022-03-26,873,5657,3,7-87356573
+Russia,Russia,T-80U,damaged,https://i.postimg.cc/hjp2dxTq/53.png,2022-03-29,873,5665,3,7-87356653
+Russia,Russia,T-80U,damaged,https://i.postimg.cc/vZ0cT4bY/47j.png,2022-04-09,873,5669,3,7-87356693
+Russia,Russia,T-80U,damaged,https://i.postimg.cc/6QgyG7dv/1000-t80u.jpg,2022-08-08,873,5703,3,7-87357033
+Russia,Soviet Union,TMM-3 bridge layer,damaged,https://i.postimg.cc/85dm6pjK/44565.png,2022-03-19,880,5748,3,7-88057483
+Russia,Soviet Union,TMM-3 bridge layer,damaged,https://i.postimg.cc/MpYMvFpy/33160.png,2022-03-26,880,5755,3,7-88057553
+Russia,Soviet Union,TMM-3 bridge layer,damaged,https://i.postimg.cc/9fkRL7G3/762.jpg,2022-04-01,880,5757,3,7-88057573
+Russia,Soviet Union,TMM-3 bridge layer,damaged,https://i.postimg.cc/FHXkWBMt/699.png,2022-05-03,880,5766,3,7-88057663
+Russia,Russia,UAZ Patriot,damaged,https://i.postimg.cc/tggdgvNx/54g.jpg,2022-03-19,886,5783,3,7-88657833
+Russia,Soviet Union,UAZ-452 van,damaged,https://i.postimg.cc/qv8yk3c1/66555.jpg,2022-06-26,890,5794,3,7-89057943
+Russia,Russia,Unknown AFV,damaged,https://twitter.com/UAWeapons/status/1518237093461385218,2022-04-24,894,5858,3,7-89458583
+Russia,Russia,Unknown AFV,damaged,https://twitter.com/UAWeapons/status/1522310446891610115,2022-05-06,894,5865,3,7-89458653
+Russia,Russia,Unknown AFV,damaged,https://twitter.com/UAWeapons/status/1524456618091589635,2022-05-14,894,3226,3,7-89432263
+Russia,Russia,Unknown AFV,damaged,https://twitter.com/UAWeapons/status/1539601165884743680,2022-06-28,894,5900,3,7-89459003
+Russia,Russia,Unknown AFV,damaged,https://i.postimg.cc/h4zTgvW3/1003-unkn-AFV.jpg,2022-08-08,894,5927,3,7-89459273
+Russia,Russia,Unknown AFV,damaged,https://twitter.com/Danspiun/status/1566064122852171778,2022-09-04,894,73,3,7-894733
+Russia,Soviet Union,Unknown BMP-1/2,damaged,https://twitter.com/UAWeapons/status/1517278456790269952,2022-04-23,895,5955,3,7-89559553
+Russia,Soviet Union,Unknown BMP-1/2,damaged,https://twitter.com/UAWeapons/status/1521759577745891330,2022-05-05,895,5958,3,7-89559583
+Russia,Soviet Union,Unknown BMP-1/2,damaged,https://i.postimg.cc/vmWTdr9s/8j.png,2022-05-14,895,5961,3,7-89559613
+Russia,Soviet Union,Unknown BMP-1/2,damaged,https://twitter.com/UAWeapons/status/1539006612525965314,2022-06-26,895,36,3,7-895363
+Russia,Soviet Union,Unknown BMP-1/2,damaged,https://twitter.com/UAWeapons/status/1539706697765322754,2022-06-28,895,5987,3,7-89559873
+Russia,Russia,Unknown BTR-80/BTR-82A,damaged,https://twitter.com/UAWeapons/status/1521908181542260738,2022-05-05,896,6010,3,7-89660103
+Russia,Russia,Unknown Mi-24/35 attack helicopter,damaged,https://i.postimg.cc/HxryM4jS/Screenshot-8449.png,2022-03-19,900,6048,3,7-90060483
+Russia,Russia,Unknown SPG,damaged,https://twitter.com/UAWeapons/status/1507012290536566788,2022-03-30,901,6049,3,7-90160493
+Russia,Russia,Unknown communications station based on the KamAZ 6x6,damaged,https://i.postimg.cc/DfxxKLnD/84.png,2022-03-19,907,6058,3,7-90760583
+Russia,Russia,Unknown helicopter,damaged,https://i.postimg.cc/QxT5hQNx/421.png,2022-03-19,909,6064,3,7-90960643
+Russia,Russia,Unknown tank,damaged,https://i.postimg.cc/44SFGsk4/4373.png,2022-03-19,910,6080,3,7-91060803
+Russia,Russia,Unknown tank,damaged,https://i.postimg.cc/gj3F2623/541.png,2022-03-19,910,6081,3,7-91060813
+Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1507711151689375750,2022-03-27,910,6094,3,7-91060943
+Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1512060297607065602,2022-04-09,910,6124,3,7-91061243
+Russia,Russia,Unknown tank,damaged,https://i.postimg.cc/kGf4RmBn/6h.jpg,2022-04-23,910,6136,3,7-91061363
+Russia,Russia,Unknown tank,damaged,https://i.postimg.cc/V6Kc8SKP/4370.jpg,2022-05-01,910,6150,3,7-91061503
+Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1519310504832942080,2022-05-01,910,6151,3,7-91061513
+Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1520362882743123968,2022-05-01,910,6152,3,7-91061523
+Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1521759577745891330,2022-05-05,910,5958,3,7-91059583
+Russia,Russia,Unknown tank,damaged,https://i.postimg.cc/SRCpdynN/652.jpg,2022-05-09,910,6161,3,7-91061613
+Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1524385443608936454,2022-05-12,910,6167,3,7-91061673
+Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1527620102895575040,2022-05-23,910,6170,3,7-91061703
+Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1535720555680305152,2022-06-26,910,6197,3,7-91061973
+Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1539601762272804866,2022-06-28,910,6198,3,7-91061983
+Russia,Russia,Unknown tank,damaged,https://twitter.com/RALee85/status/1540218005816238081,2022-06-29,910,6200,3,7-91062003
+Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1544068834604220417,2022-07-06,910,45,3,7-910453
+Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1545125584036151297,2022-07-08,910,6207,3,7-91062073
+Russia,Russia,Unknown tank,damaged,https://i.postimg.cc/hj3j3x1F/1011.jpg,2022-07-08,910,6208,3,7-91062083
+Russia,Russia,Unknown tank,damaged,https://twitter.com/UAWeapons/status/1546579953671602178,2022-07-12,910,6212,3,7-91062123
+Russia,Russia,Unknown tank,damaged,https://i.postimg.cc/MKzpNpgY/1003.jpg,2022-07-29,910,6226,3,7-91062263
+Russia,Russia,Unknown truck,damaged,https://i.postimg.cc/K834NwrF/67.jpg,2022-03-19,911,6266,3,7-91162663
+Russia,Russia,Unknown truck,damaged,https://postimg.cc/phTN0Xcc,2022-03-19,911,6269,3,7-91162693
+Russia,Russia,Unknown truck,damaged,https://postimg.cc/WDSL6J8J,2022-03-19,911,6270,3,7-91162703
+Russia,Russia,Unknown truck,damaged,https://i.postimg.cc/26pbyqvZ/v56.png,2022-03-19,911,6271,3,7-91162713
+Russia,Russia,Ural-4320,damaged,https://i.postimg.cc/YSs02PPZ/k9.png,2022-03-19,914,6418,3,7-91464183
+Russia,Russia,Ural-4320,damaged,https://postimg.cc/kVDPCNz0,2022-03-19,914,4301,3,7-91443013
+Russia,Russia,Ural-4320,damaged,https://i.postimg.cc/xd8C4F47/tt2.png,2022-03-19,914,6419,3,7-91464193
+Russia,Russia,Ural-4320,damaged,https://i.postimg.cc/fR5byVj2/k88.jpg,2022-03-19,914,6435,3,7-91464353
+Russia,Russia,Ural-4320,damaged,https://twitter.com/UAWeapons/status/1524456618091589635,2022-05-14,914,3226,3,7-91432263
+Russia,Russia,Ural-4320,damaged,https://i.postimg.cc/FFkvLZYn/1016.jpg,2022-07-19,914,6634,3,7-91466343
+Russia,Russia,Ural-4320 KET-L,damaged,https://i.postimg.cc/SsQHDVNQ/5579.png,2022-03-19,915,6636,3,7-91566363
+Russia,Russia,Ural-4320 tanker,damaged,https://postimg.cc/jWGDT456,2022-05-06,919,6659,3,7-91966593
+Russia,Russia,Vityaz DT-30 articulated tracked carrier,damaged,https://i.postimg.cc/wTZRmzx8/dt1.png,2022-04-10,928,6725,3,7-92867253
+Russia,Soviet Union,ZSU-23-4 'Shilka',damaged,https://i.postimg.cc/Y0chPZXk/43.jpg,2022-04-04,931,6741,3,7-93167413
+Russia,Soviet Union,ZiL-131,damaged,https://i.postimg.cc/cCWTD2S8/54.jpg,2022-04-01,933,6750,3,7-93367503
+Ukraine,United Kingdom,1 105mm L119 howitzer,damaged,https://i.postimg.cc/CxyRM7P0/2001-L119-dmg.jpg,2022-09-20,935,6752,3,380-93567523
+Ukraine,Turkey,1 BMC Kirpi,damaged,https://twitter.com/UAWeapons/status/1568241700921016320,2022-09-10,939,6757,3,380-93967573
+Ukraine,Yugoslavia,1 BVP M-80A,damaged,https://twitter.com/UAWeapons/status/1574382524964421638,2022-09-27,940,6758,3,380-94067583
+Ukraine,United Kingdom,1 Pinzgauer Vector 718,damaged,https://i.postimg.cc/Bb85pvw6/2000-Pinzgauer-Vector-718.jpg,2022-09-28,954,6772,3,380-95467723
+Ukraine,Ukraine,1 Unknown pickup truck,damaged,https://i.postimg.cc/zvKMKtZ3/2005.jpg,2022-07-21,963,6780,3,380-96367803
+Ukraine,France,1 VAB APC,damaged,https://twitter.com/UAWeapons/status/1576553022670635008,2022-10-04,964,6781,3,380-96467813
+Ukraine,Soviet Union,122mm 2S1 Gvozdika,damaged,https://i.postimg.cc/TwZV2tLf/799.jpg,2022-03-26,132,6824,3,380-13268243
+Ukraine,Soviet Union,14 BRM-1K reconnaissance vehicle,damaged,https://twitter.com/UAWeapons/status/1568241700921016320,2022-09-10,157,6757,3,380-15767573
+Ukraine,Soviet Union,14 BRM-1K reconnaissance vehicle,damaged,https://i.postimg.cc/L8M6bVH9/2000-brm-1k.jpg,2022-09-12,157,6868,3,380-15768683
+Ukraine,Ukraine,15 Unknown towed artillery,damaged,https://i.postimg.cc/fRXrgT3b/11.png,2022-08-09,985,6877,3,380-98568773
+Ukraine,Soviet Union,152mm 2S3 Akatsiya,damaged,https://twitter.com/UAWeapons/status/1541534349589454848,2022-06-29,176,6888,3,380-17668883
+Ukraine,Norway,155mm M109A3GN,damaged,https://twitter.com/UAWeapons/status/1534148275581894659,2022-06-11,988,6896,3,380-98868963
+Ukraine,Norway,155mm M109A3GN,damaged,https://twitter.com/UAWeapons/status/1557039445953626114,2022-08-13,988,6897,3,380-98868973
+Ukraine,Soviet Union,1L22 'Parol',damaged,https://postimg.cc/9Dcvz02c,2022-03-19,992,6905,3,380-99269053
+Ukraine,Poland,2 155mm AHS Krab,damaged,https://i.postimg.cc/yN7rvmF8/2000-krab-dmg.jpg,2022-10-02,996,6915,3,380-99669153
+Ukraine,Soviet Union,203mm 2S7 Pion,damaged,https://i.postimg.cc/K8pQghtB/790.png,2022-03-26,1005,6922,3,380-100569223
+Ukraine,Soviet Union,203mm 2S7 Pion,damaged,https://i.postimg.cc/J4s5tfKL/4376.png,2022-04-07,1005,6923,3,380-100569233
+Ukraine,Soviet Union,203mm 2S7 Pion,damaged,https://i.postimg.cc/VLs0y1LY/d34.jpg,2022-05-21,1005,6925,3,380-100569253
+Ukraine,Soviet Union,203mm 2S7 Pion,damaged,https://twitter.com/UAWeapons/status/1534866398303948801,2022-06-10,1005,6926,3,380-100569263
+Ukraine,Soviet Union,27 Ural-4320,damaged,https://i.postimg.cc/MH0p4XKm/Ukrainian-Ural-4320.png,2022-10-06,1020,6956,3,380-102069563
+Ukraine,Ukraine,4 Unknown BTR,damaged,https://i.postimg.cc/pTzc5ff2/1014-unkn-btr.jpg,2022-09-14,1048,6994,3,380-104869943
+Ukraine,Netherlands,4 YPR-765,damaged,https://twitter.com/UAWeapons/status/1566398729208340480,2022-09-05,1049,6995,3,380-104969953
+Ukraine,Soviet Union,8 100mm MT-12 anti-tank gun,damaged,https://twitter.com/UAWeapons/status/1543548850559926272,2022-07-04,1096,6981,3,380-109669813
+Ukraine,United States,8 155mm M777A2 howitzer,damaged,https://twitter.com/RALee85/status/1557298928248291330,2022-08-13,1097,7096,3,380-109770963
+Ukraine,Ukraine,8 Novator,damaged,https://i.postimg.cc/HnjZpKPG/48.png,2022-10-05,1101,7101,3,380-110171013
+Ukraine,Soviet Union,9K35 Strela-10,damaged,https://postimg.cc/SYK0f1pm,2022-03-26,710,7144,3,380-71071443
+Ukraine,Soviet Union,9P149 Shturm-S ATGM carrier,damaged,https://i.postimg.cc/DZ9hwS9W/49.png,2022-05-01,718,7162,3,380-71871623
+Ukraine,United States,AN/TPQ-36 lightweight counter mortar radar,damaged,https://twitter.com/UAWeapons/status/1505623206014636035,2022-03-26,1114,7173,3,380-111471733
+Ukraine,Germany,Armoured Volkswagen Amarok pickup truck,damaged,https://i.postimg.cc/tgB7S9GQ/65.png,2022-05-15,1122,7192,3,380-112271923
+Ukraine,Soviet Union,BMP-1(P),damaged,https://i.postimg.cc/vmNpXbHQ/gg2.png,2022-03-19,738,7214,3,380-73872143
+Ukraine,Soviet Union,BMP-1(P),damaged,https://i.postimg.cc/dVSzT4KK/d1.jpg,2022-04-01,738,7234,3,380-73872343
+Ukraine,Soviet Union,BMP-1(P),damaged,https://twitter.com/UAWeapons/status/1558416989827235840,2022-08-14,738,7295,3,380-73872953
+Ukraine,Soviet Union,BMP-1(P),damaged,https://i.postimg.cc/FR5mKHKs/2000-bmp1.jpg,2022-09-10,738,7308,3,380-73873083
+Ukraine,Soviet Union,BMP-1(P),damaged,https://twitter.com/UAWeapons/status/1568241700921016320,2022-09-10,738,6757,3,380-73867573
+Ukraine,Soviet Union,BMP-2,damaged,https://i.postimg.cc/cJfZ5HRh/547.jpg,2022-03-26,742,7324,3,380-74273243
+Ukraine,Soviet Union,BRDM-2,damaged,https://i.postimg.cc/brg6QFkk/2.png,2022-09-27,748,7409,3,380-74874093
+Ukraine,Soviet Union,BRM-1K,damaged,https://i.postimg.cc/tC4jmbcK/446.png,2022-03-19,753,7411,3,380-75374113
+Ukraine,Ukraine,BTR-3,damaged,https://i.postimg.cc/pdWMwW8W/da1.jpg,2022-04-04,1134,7429,3,380-113474293
+Ukraine,Ukraine,BTR-4,damaged,https://twitter.com/RALee85/status/1497785823198162944,2022-03-26,1135,7462,3,380-113574623
+Ukraine,Soviet Union,BTR-70,damaged,https://postimg.cc/rKptXh9Z,2022-03-31,754,7512,3,380-75475123
+Ukraine,Soviet Union,BTR-80,damaged,https://postimg.cc/NK7P45WT,2022-04-19,755,7546,3,380-75575463
+Ukraine,Soviet Union,BTR-80,damaged,https://postimg.cc/67NyqCSj,2022-08-09,755,7571,3,380-75575713
+Ukraine,Soviet Union,BTR-80,damaged,https://postimg.cc/YhJxSHh3,2022-08-13,755,7572,3,380-75575723
+Ukraine,Soviet Union,BTR-80,damaged,https://i.postimg.cc/BQG09mbr/2000-btr80-2x.jpg,2022-09-11,755,7573,3,380-75575733
+Ukraine,Soviet Union,GAZ-66,damaged,https://i.postimg.cc/gjhmvGsF/g3.png,2022-03-19,775,7614,3,380-77576143
+Ukraine,Soviet Union,GAZ-66,damaged,https://i.postimg.cc/YC0mqTkH/58.png,2022-03-19,775,7615,3,380-77576153
+Ukraine,Soviet Union,GAZ-66,damaged,https://i.postimg.cc/gj9TG17c/Screenshot-8228.png,2022-03-19,775,6880,3,380-77568803
+Ukraine,Soviet Union,GAZ-66,damaged,https://i.postimg.cc/prPjVJt8/688.jpg,2022-05-13,775,7649,3,380-77576493
+Ukraine,Soviet Union,GAZ-66,damaged,https://i.postimg.cc/65xFtXnZ/2004.jpg,2022-07-21,775,7651,3,380-77576513
+Ukraine,United States,HMMWV,damaged,https://i.postimg.cc/zX4hRNMG/4799.png,2022-03-19,1148,7662,3,380-114876623
+Ukraine,United States,HMMWV,damaged,https://i.postimg.cc/y88wjYxy/d12.png,2022-03-29,1148,7664,3,380-114876643
+Ukraine,United States,HMMWV,damaged,https://i.postimg.cc/zGpRmpJ1/34.png,2022-03-29,1148,7665,3,380-114876653
+Ukraine,United States,HMMWV,damaged,https://i.postimg.cc/7YLY6Kz4/14.png,2022-05-01,1148,7679,3,380-114876793
+Ukraine,United States,HMMWV,damaged,https://twitter.com/UAWeapons/status/1543548844910206976,2022-07-04,1148,7687,3,380-114876873
+Ukraine,United States,HMMWV Ambulance,damaged,https://i.postimg.cc/MHHmB5bG/48800.png,2022-04-13,1149,7695,3,380-114976953
+Ukraine,Soviet Union,KamAZ,damaged,https://i.postimg.cc/yx42BBdm/u1.png,2022-03-26,1154,7705,3,380-115477053
+Ukraine,Ukraine,Kozak-2,damaged,https://i.postimg.cc/1XzJ7nhW/d2g.png,2022-03-19,1155,7711,3,380-115577113
+Ukraine,Ukraine,KrAZ-6322,damaged,https://i.postimg.cc/wM4RWy5K/r3.png,2022-03-19,1162,7779,3,380-116277793
+Ukraine,Ukraine,KrAZ-6322,damaged,https://i.postimg.cc/MT0QM4sL/33311.png,2022-03-30,1162,7787,3,380-116277873
+Ukraine,Belarus,MAZ,damaged,https://i.postimg.cc/9fRbHBdp/f3.png,2022-03-19,1167,7810,3,380-116778103
+Ukraine,Belarus,MAZ-5316,damaged,https://i.postimg.cc/L6ZKgBD7/4ff.png,2022-08-08,1168,7818,3,380-116878183
+Ukraine,Soviet Union,MT-LBu,damaged,https://i.postimg.cc/ZYHxJ6rp/Screenshot-8036.png,2022-03-19,812,7845,3,380-81278453
+Ukraine,Ukraine,Novator,damaged,https://i.postimg.cc/MKMkcgwH/776.png,2022-03-19,1179,7878,3,380-117978783
+Ukraine,Soviet Union,P-14 'Tall King',damaged,https://i.postimg.cc/rpWmrPLb/57.png,2022-03-19,1180,7886,3,380-118078863
+Ukraine,Poland,Pr.304 Amur Class command ship 'Donbas' ''U-500'',damaged,https://twitter.com/CovertShores/status/1511808852278263810,2022-04-06,1188,7895,3,380-118878953
+Ukraine,Poland,Pr.304 Amur Class command ship 'Donbas' ''U-500'',damaged,https://i.postimg.cc/tTh8MZ53/47.png,2022-04-09,1188,7896,3,380-118878963
+Ukraine,Ukraine,Small patrol boats (Sea Guard),damaged,https://i.postimg.cc/rpyDgH04/32.png,2022-04-20,1194,7915,3,380-119479153
+Ukraine,Ukraine,Small patrol boats (Sea Guard),damaged,https://i.postimg.cc/R0pnx9T5/578.png,2022-04-23,1194,7916,3,380-119479163
+Ukraine,Soviet Union,Su-25 attack aircraft,damaged,https://twitter.com/UAWeapons/status/1506317219000721412,2022-03-26,1203,7938,3,380-120379383
+Ukraine,Ukraine,T-64B1M,damaged,https://i.postimg.cc/HxmWTxMP/3d1.png,2022-03-19,1208,7957,3,380-120879573
+Ukraine,Soviet Union,T-64BV,damaged,https://i.postimg.cc/CLn96SZZ/f7.png,2022-03-19,863,7992,3,380-86379923
+Ukraine,Soviet Union,T-64BV,damaged,https://i.postimg.cc/6QWhgDnj/j8.png,2022-03-19,863,7999,3,380-86379993
+Ukraine,Soviet Union,T-64BV,damaged,https://i.postimg.cc/bvfcZfxh/58.png,2022-03-30,863,8028,3,380-86380283
+Ukraine,Soviet Union,T-64BV,damaged,https://i.postimg.cc/d3FsgJDL/6898.png,2022-04-17,863,8057,3,380-86380573
+Ukraine,Soviet Union,T-64BV,damaged,https://i.postimg.cc/Nff9Q7xw/90.jpg,2022-04-25,863,8069,3,380-86380693
+Ukraine,Soviet Union,T-64BV,damaged,https://twitter.com/UAWeapons/status/1522308548440563715,2022-05-08,863,8077,3,380-86380773
+Ukraine,Soviet Union,T-64BV,damaged,https://i.postimg.cc/DwwCthLG/322.jpg,2022-06-11,863,8094,3,380-86380943
+Ukraine,Soviet Union,T-64BV,damaged,https://twitter.com/UAWeapons/status/1537541023018139650,2022-06-26,863,8095,3,380-86380953
+Ukraine,Soviet Union,T-64BV,damaged,https://i.postimg.cc/DZyRGvkf/688.png,2022-06-29,863,8098,3,380-86380983
+Ukraine,Soviet Union,T-72 'Ural',damaged,https://i.postimg.cc/28hSgCVJ/ur3.png,2022-04-04,1212,8153,3,380-121281533
+Ukraine,Soviet Union,T-72 'Ural',damaged,https://i.postimg.cc/kgGrv2cn/2002.jpg,2022-07-26,1212,8154,3,380-121281543
+Ukraine,Soviet Union,T-72 'Ural',damaged,https://i.postimg.cc/nzX0hqgz/2002.jpg,2022-07-27,1212,8155,3,380-121281553
+Ukraine,Ukraine,T-72AMT,damaged,https://i.postimg.cc/9QZN39jX/8754.png,2022-06-26,1214,8168,3,380-121481683
+Ukraine,Ukraine,T-72AMT,damaged,https://i.postimg.cc/QdkdMWKj/2000.jpg,2022-08-30,1214,8173,3,380-121481733
+Ukraine,Ukraine,T-72AMT,damaged,https://twitter.com/UAWeapons/status/1569014536824553473,2022-09-12,1214,8174,3,380-121481743
+Ukraine,Soviet Union,T-72B,damaged,https://i.postimg.cc/7Lr4jy27/54d.jpg,2022-05-08,866,8187,3,380-86681873
+Ukraine,Poland,T-72M1/R,damaged,https://i.postimg.cc/XqMpms7D/2000-t72m1.jpg,2022-08-31,1218,8206,3,380-121882063
+Ukraine,Poland,T-72M1/R,damaged,https://i.postimg.cc/TYJpNq8C/2001-t72m1.jpg,2022-08-31,1218,8207,3,380-121882073
+Ukraine,Soviet Union,T-80BV,damaged,https://i.postimg.cc/0jXKJsjL/f58.png,2022-03-19,871,8209,3,380-87182093
+Ukraine,Soviet Union,T-80BV,damaged,https://i.postimg.cc/fb3dc6LV/389.png,2022-04-13,871,8211,3,380-87182113
+Ukraine,Soviet Union,T-80BV,damaged,https://i.postimg.cc/VsJn5zPD/43f.jpg,2022-05-21,871,8216,3,380-87182163
+Ukraine,Soviet Union,T-80BV,damaged,https://i.postimg.cc/MT0KSR08/6522.png,2022-05-29,871,8217,3,380-87182173
+Ukraine,Soviet Union,T-80BV,damaged,https://twitter.com/UAWeapons/status/1577254567708094464,2022-10-05,871,8224,3,380-87182243
+Ukraine,Ukraine,Unknown towed artillery,damaged,https://i.postimg.cc/BnNpxWwv/33.jpg,2022-03-26,1228,8293,3,380-122882933
+Ukraine,Ukraine,Unknown towed artillery,damaged,https://i.postimg.cc/J0jdMrPN/900.jpg,2022-03-26,1228,8294,3,380-122882943
+Ukraine,Ukraine,Unknown truck,damaged,https://i.postimg.cc/3Jzj3bLL/bnm.png,2022-03-19,911,8301,3,380-91183013
+Ukraine,Ukraine,Unknown truck,damaged,https://i.postimg.cc/4xBF4TJG/37.jpg,2022-03-26,911,8306,3,380-91183063
+Ukraine,Ukraine,Unknown truck,damaged,https://i.postimg.cc/J0jdMrPN/900.jpg,2022-03-26,911,8294,3,380-91182943
+Ukraine,Ukraine,Unknown truck,damaged,https://i.postimg.cc/SRtv4JHH/1dg.png,2022-03-26,911,8307,3,380-91183073
+Ukraine,Soviet Union,Ural-4320,damaged,https://i.postimg.cc/GmVqtBjC/328.png,2022-05-03,914,8370,3,380-91483703
+Ukraine,Netherlands,YPR-765,damaged,https://twitter.com/UAWeapons/status/1570133414971408385,2022-09-15,1237,8399,3,380-123783993
+Ukraine,Netherlands,YPR-765,damaged,https://twitter.com/UAWeapons/status/1574382524964421638,2022-09-27,1237,6758,3,380-123767583
+Ukraine,Australia,NA,damaged,https://i.postimg.cc/x8krj1Zk/2000-bushmaster.jpg,2022-08-20,934,8461,3,380-93484613
