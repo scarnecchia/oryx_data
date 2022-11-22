@@ -29,6 +29,7 @@ Russia,1 Eleron T28ME reconnaissance UAV,0,1,0,0,1
 Russia,1 GAZ-51,0,1,0,0,1
 Russia,1 Grifon-12 reconnaissance UAV,0,1,0,0,1
 Russia,1 KamAZ KMV-10V Boom Crane Truck,1,0,0,0,1
+Russia,1 KamAZ-395800 'Gorets',1,0,0,0,1
 Russia,1 KamAZ-63501 with KS-55729-7M 32-ton crane,1,0,0,0,1
 Russia,1 KrAZ-260 tanker,1,0,0,0,1
 Russia,1 Leer-2 electronic warfare system,1,0,0,0,1
@@ -190,6 +191,7 @@ Russia,12 T-72BA,1,0,0,0,1
 Russia,12 UAZ-452 van,0,1,0,1,2
 Russia,12 UAZ-469 jeep,1,1,0,0,2
 Russia,12 ZiL-131,0,2,0,0,2
+Russia,120 GAZ Tigr-M,1,0,0,0,1
 Russia,120 T-80BV,0,1,0,0,1
 Russia,120mm 2B11/2S12,5,5,0,0,10
 Russia,120mm 2B11/2S12A,1,3,0,0,4
@@ -307,6 +309,7 @@ Russia,158 BMP-1(P),1,1,0,0,2
 Russia,158 T-80BV,1,0,0,0,1
 Russia,158 Unknown tank,2,0,0,0,2
 Russia,159 T-80BV,0,2,0,1,3
+Russia,16 23mm ZU-23-2,0,1,0,0,1
 Russia,16 BRM-1K reconnaissance vehicle,0,2,0,0,2
 Russia,16 IMR-2(M) combat engineering vehicle,0,1,0,0,1
 Russia,16 MT-LB with ZU-23 AA gun,0,1,0,0,1
@@ -339,6 +342,7 @@ Russia,172 T-80BV,2,0,0,0,2
 Russia,173 T-80BV,0,1,0,0,1
 Russia,173 Unknown tank,2,0,0,0,2
 Russia,174 BMP-1(P),2,4,0,0,6
+Russia,174 T-80BV,1,0,0,0,1
 Russia,175 BMP-1(P),0,1,0,0,1
 Russia,175 Unknown tank,2,0,0,0,2
 Russia,178 BMP-1(P),1,2,0,1,4
@@ -611,6 +615,7 @@ Russia,344 Ural-4320,1,0,0,0,1
 Russia,346 BTR-82A(M),3,1,0,0,4
 Russia,347 BTR-82A(M),0,1,0,0,1
 Russia,348 BTR-82A(M),1,0,0,0,1
+Russia,349 BTR-82A(M),0,1,0,0,1
 Russia,35 122mm D-30 howitzer,0,1,0,0,1
 Russia,35 T-62M,2,0,0,0,2
 Russia,35 T-80BVM,0,0,1,1,2
@@ -816,6 +821,7 @@ Russia,512 Ural-4320,1,1,0,1,3
 Russia,513 KamAZ 6x6,3,0,0,0,3
 Russia,513 Ural-4320,1,1,0,0,2
 Russia,514 KamAZ 6x6,2,0,0,0,2
+Russia,514 Ural-4320,1,0,0,0,1
 Russia,516 BMP-2(K),2,3,0,0,5
 Russia,52 152mm 2S3(M) Akatsiya,2,0,0,0,2
 Russia,52 T-80BV,0,1,0,0,1
@@ -944,6 +950,7 @@ Russia,63 T-80BV,0,1,0,0,1
 Russia,63 Unknown BMP-1/2,1,0,0,0,1
 Russia,63 Ural-43206,1,1,0,1,3
 Russia,630 BMP-2(K),2,1,0,0,3
+Russia,634 BMP-2(K),2,2,0,0,4
 Russia,64 122mm BM-21 Grad,0,0,0,1,1
 Russia,64 152mm 2S3(M) Akatsiya,0,1,0,0,1
 Russia,64 R-149MA1 command and staff vehicle,1,0,0,0,1
@@ -1240,7 +1247,7 @@ Russia,BMP-2 675-sb3KDZ,2,2,0,1,5
 Russia,BMP-2(K),136,104,7,17,264
 Russia,BMP-2K,0,0,1,0,1
 Russia,BMP-2M,1,1,0,0,2
-Russia,BMP-3,150,69,6,16,241
+Russia,BMP-3,151,69,6,16,242
 Russia,BRDM-2,1,0,0,0,1
 Russia,BREM-1 armoured recovery vehicle,5,12,4,0,21
 Russia,BREM-2 armoured recovery vehicle,0,1,0,0,1
@@ -1301,7 +1308,7 @@ Russia,KrAZ-255B with excavator,1,1,0,0,2
 Russia,Lastochka-M reconnaissance UAV,0,1,0,0,1
 Russia,MDK-3 trench-digging vehicle,1,1,0,0,2
 Russia,MP-2IM signals vehicle,0,0,1,0,1
-Russia,MT-LB,195,181,24,10,410
+Russia,MT-LB,196,181,24,10,411
 Russia,MT-LB Ambulance,2,0,0,0,2
 Russia,MT-LB with ZU-23 AA gun,7,1,0,0,8
 Russia,MT-LBM 6MB,2,1,1,0,4
@@ -1730,6 +1737,7 @@ Ukraine,7 Novator,3,0,0,0,3
 Ukraine,7 UAZ-452 van,1,0,0,0,1
 Ukraine,70 BMP-2(K),3,0,0,0,3
 Ukraine,70 ZiL-131,2,1,0,0,3
+Ukraine,71 BMP-2(K),0,1,0,0,1
 Ukraine,71 BRDM-2,2,1,0,0,3
 Ukraine,71 ZiL-131,1,0,0,0,1
 Ukraine,72 BMP-2(K),2,0,0,0,2
@@ -1858,7 +1866,7 @@ Ukraine,L-39 jet trainer/light attack aircraft,1,0,0,0,1
 Ukraine,Land Rover Defender,1,0,0,0,1
 Ukraine,Leleka-100 reconnaissance UAV,3,4,0,0,7
 Ukraine,M1114 and M1151 HMMWV,6,6,0,2,14
-Ukraine,M1152 HMMWV,1,0,0,0,1
+Ukraine,M1152 HMMWV,2,0,0,0,2
 Ukraine,M998 HMMWV,0,2,0,0,2
 Ukraine,MAZ,11,2,2,1,16
 Ukraine,MAZ-5316,1,0,0,1,2
@@ -1916,7 +1924,7 @@ Ukraine,T-64B,2,0,0,0,2
 Ukraine,T-64B1M,1,8,1,1,11
 Ukraine,T-64BM 'Bulat',5,2,0,1,8
 Ukraine,T-64BM2 'Bulat',2,0,0,0,2
-Ukraine,T-64BV,113,80,9,12,214
+Ukraine,T-64BV,114,80,9,12,215
 Ukraine,T-64BV Obr. 2017,4,7,0,0,11
 Ukraine,T-64BV Zr. 2017,2,2,0,1,5
 Ukraine,T-64BVK,0,1,0,0,1
@@ -1959,7 +1967,7 @@ Ukraine,Vepr AFV,0,2,0,0,2
 Ukraine,Vepr MRAP,0,1,0,0,1
 Ukraine,Warmate loitering munition,2,0,0,0,2
 Ukraine,Weaponised VTOL UAV,1,2,0,0,3
-Ukraine,YPR-765,7,0,1,3,11
+Ukraine,YPR-765,8,0,1,3,12
 Ukraine,ZSU-23-4 'Shilka',0,3,0,0,3
 Ukraine,ZSU-23-4 Shilka,0,1,0,1,2
 Ukraine,Zhuk class patrol boat (Sea Guard),0,2,0,0,2
