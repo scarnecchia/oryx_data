@@ -1021,6 +1021,7 @@ Russia,343 BTR-82A(M),1,0,0,0,1
 Russia,343 KamAZ 6x6,0,0,0,1,1
 Russia,343 Ural-4320,0,0,0,1,1
 Russia,344 Ural-4320,1,0,0,0,1
+Russia,346 BMP-1(P),0,0,1,1,2
 Russia,346 BTR-82A(M),3,1,0,0,4
 Russia,347 BTR-82A(M),0,1,0,0,1
 Russia,348 BTR-82A(M),1,0,0,0,1
@@ -1764,6 +1765,7 @@ Russia,81 152mm 2S19 Msta-S,1,0,0,0,1
 Russia,81 Ural-43206,1,0,0,0,1
 Russia,811 BMP-2(K),3,0,1,0,4
 Russia,812 BMP-2(K),0,1,0,0,1
+Russia,813 BMP-2(K),1,0,0,0,1
 Russia,82 152mm 2A65 Msta-B howitzer,1,0,0,0,1
 Russia,82 T-72B Obr. 1989,1,0,1,0,2
 Russia,82 Unknown BMP-1/2,2,0,0,0,2
@@ -2067,7 +2069,7 @@ Russia,MiG-31BM fighter aircraft,1,0,0,0,1
 Russia,Mohajer-6 UCAV,0,1,0,0,1
 Russia,Orion,1,0,0,0,1
 Russia,Orion UCAV,4,0,0,0,4
-Russia,Orlan-10,24,21,0,0,45
+Russia,Orlan-10,25,21,0,0,46
 Russia,Orlan-10 jamming UAV,0,1,0,0,1
 Russia,Orlan-10 reconnaissance UAV,50,47,0,0,97
 Russia,Orlan-30,0,1,0,0,1
@@ -2840,7 +2842,7 @@ Ukraine,Kozak-2,33,28,2,3,66
 Ukraine,Kozak-2M1,15,5,1,2,23
 Ukraine,Kozak-5,2,0,0,0,2
 Ukraine,KrAZ Cobra,4,6,0,0,10
-Ukraine,KrAZ Cougar,2,4,0,0,6
+Ukraine,KrAZ Cougar,2,5,0,0,7
 Ukraine,KrAZ Spartan,14,0,0,0,14
 Ukraine,KrAZ-255B,0,4,0,0,4
 Ukraine,KrAZ-255B with excavator,1,1,0,0,2
@@ -2918,7 +2920,7 @@ Ukraine,T-64B,2,1,0,0,3
 Ukraine,T-64B1M,1,9,1,1,12
 Ukraine,T-64BM 'Bulat',6,3,0,2,11
 Ukraine,T-64BM2 'Bulat',4,0,0,1,5
-Ukraine,T-64BV,167,91,13,24,295
+Ukraine,T-64BV,168,91,13,24,296
 Ukraine,T-64BV Obr. 2017,4,7,0,0,11
 Ukraine,T-64BV Zr. 2017,7,5,0,1,13
 Ukraine,T-64BVK,0,1,0,0,1
