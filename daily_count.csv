@@ -1224,6 +1224,7 @@ Russia,Infantry Fighting Vehicles,1476,127,610,69,2282,2023-04-09,2,1,0,0,3,0,0,
 Russia,Infantry Fighting Vehicles,1478,127,610,69,2284,2023-04-10,2,0,0,0,2,0,0,0,0,0
 Russia,Infantry Fighting Vehicles,1480,127,608,69,2284,2023-04-11,2,0,-2,0,0,0,0,0,0,0
 Russia,Infantry Fighting Vehicles,1481,127,608,69,2285,2023-04-12,1,0,0,0,1,0,0,0,0,0
+Russia,Infantry Fighting Vehicles,1482,127,608,69,2286,2023-04-13,1,0,0,0,1,0,0,0,0,0
 Russia,"Infantry Fighting Vehicles (1849, of which destroyed: 1159, damaged: 40, abandoned: 81, cap",1159,81,0,40,1280,2022-12-26,0,0,0,0,0,0,0,0,0,0
 Russia,Infantry Mobility Vehicles,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Russia,Infantry Mobility Vehicles,29,5,16,2,52,2022-03-19,29,5,16,2,52,29,5,16,2,52
@@ -2076,6 +2077,7 @@ Russia,Tanks,1169,105,554,100,1928,2023-04-08,2,1,1,0,4,0,0,0,0,0
 Russia,Tanks,1168,106,554,100,1928,2023-04-09,-1,1,0,0,0,0,0,0,0,0
 Russia,Tanks,1169,106,554,100,1929,2023-04-11,1,0,0,0,1,0,0,0,0,0
 Russia,Tanks,1159,103,549,99,1910,2023-04-12,-10,-3,-5,-1,-19,0,0,0,0,0
+Russia,Tanks,1157,103,549,99,1908,2023-04-13,-2,0,0,0,-2,0,0,0,0,0
 Russia,Towed Artillery,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Russia,Towed Artillery,4,5,23,2,34,2022-03-19,4,5,23,2,34,4,5,23,2,34
 Russia,Towed Artillery,8,5,26,2,41,2022-03-26,4,0,3,0,7,0,-5,-20,-2,-27
@@ -2175,6 +2177,7 @@ Russia,Towed Artillery,84,5,93,9,191,2023-03-28,2,0,0,0,2,0,0,0,0,0
 Russia,Towed Artillery,84,5,94,9,192,2023-03-30,0,0,1,0,1,0,0,0,0,0
 Russia,Towed Artillery,85,5,94,9,193,2023-04-05,1,0,0,0,1,0,0,0,0,0
 Russia,Towed Artillery,86,5,94,9,194,2023-04-06,1,0,0,0,1,0,0,0,0,0
+Russia,Towed Artillery,87,5,94,9,195,2023-04-13,1,0,0,0,1,0,0,0,0,0
 Russia,"Trucks, Vehicles and Jeeps",0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Russia,"Trucks, Vehicles and Jeeps",305,59,154,15,533,2022-03-19,305,59,154,15,533,305,59,154,15,533
 Russia,"Trucks, Vehicles and Jeeps",361,59,174,16,610,2022-03-26,56,0,20,1,77,-249,-59,-134,-14,-456

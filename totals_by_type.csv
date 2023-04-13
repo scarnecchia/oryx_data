@@ -1,8 +1,8 @@
 country,equipment_type,destroyed,abandoned,captured,damaged,type_total
 Russia,All Types,6493,390,2827,304,10014
-Russia,Tanks,1159,103,549,99,1910
+Russia,Tanks,1157,103,549,99,1908
 Russia,Armoured Fighting Vehicles,520,30,265,14,829
-Russia,Infantry Fighting Vehicles,1481,127,608,69,2285
+Russia,Infantry Fighting Vehicles,1482,127,608,69,2286
 Russia,Armoured Personnel Carriers,193,12,93,8,306
 Russia,Mine-Resistant Ambush Protected,30,1,9,4,44
 Russia,Infantry Mobility Vehicles,132,1,53,4,190
@@ -10,7 +10,7 @@ Russia,Command Posts And Communications Stations,151,3,86,0,240
 Russia,Engineering Vehicles And Equipment,133,40,120,5,298
 Russia,Self-Propelled Anti-Tank Missile Systems,14,4,19,0,37
 Russia,Artillery Support Vehicles And Equipment,46,2,49,0,97
-Russia,Towed Artillery,86,5,94,9,194
+Russia,Towed Artillery,87,5,94,9,195
 Russia,Self-Propelled Artillery,256,7,105,15,383
 Russia,Multiple Rocket Launchers,130,2,55,5,192
 Russia,Anti-Aircraft Guns,3,0,14,0,17
