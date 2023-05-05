@@ -1,8 +1,8 @@
 country,equipment_type,destroyed,abandoned,captured,damaged,type_total
-Russia,All Types,6623,388,2804,320,10135
-Russia,Tanks,1175,103,545,102,1925
+Russia,All Types,6626,388,2804,320,10138
+Russia,Tanks,1177,103,545,102,1927
 Russia,Armoured Fighting Vehicles,527,30,262,17,836
-Russia,Infantry Fighting Vehicles,1517,125,597,72,2311
+Russia,Infantry Fighting Vehicles,1518,125,597,72,2312
 Russia,Armoured Personnel Carriers,195,12,93,8,308
 Russia,Mine-Resistant Ambush Protected,29,1,9,4,43
 Russia,Infantry Mobility Vehicles,132,1,52,4,189
@@ -24,13 +24,13 @@ Russia,Unmanned Combat Aerial Vehicles,7,0,1,0,8
 Russia,Reconnaissance Unmanned Aerial Vehicles,109,0,102,0,211
 Russia,Naval Ships,8,0,0,4,12
 Russia,"Trucks, Vehicles and Jeeps",1821,48,559,39,2467
-Ukraine,All Types,2095,88,871,189,3243
-Ukraine,Tanks,306,18,140,29,493
+Ukraine,All Types,2099,91,871,189,3250
+Ukraine,Tanks,306,19,140,29,494
 Ukraine,Armoured Fighting Vehicles,180,5,77,2,264
-Ukraine,Infantry Fighting Vehicles,372,31,108,13,524
-Ukraine,Armoured Personnel Carriers,139,12,87,13,251
-Ukraine,Mine-Resistant Ambush Protected,32,5,5,11,53
-Ukraine,Infantry Mobility Vehicles,159,4,107,19,289
+Ukraine,Infantry Fighting Vehicles,372,32,108,13,525
+Ukraine,Armoured Personnel Carriers,140,12,87,13,252
+Ukraine,Mine-Resistant Ambush Protected,33,5,5,11,54
+Ukraine,Infantry Mobility Vehicles,160,4,107,19,290
 Ukraine,Command Posts And Communications Stations,8,0,4,0,12
 Ukraine,Engineering Vehicles And Equipment,23,0,24,3,50
 Ukraine,Self-Propelled Anti-Tank Missile Systems,8,1,12,0,21
@@ -46,7 +46,7 @@ Ukraine,Radars And Communications Equipment,40,1,11,5,57
 Ukraine,Jammers And Deception Systems,0,0,1,0,1
 Ukraine,Aircraft,65,0,1,0,66
 Ukraine,Helicopters,25,0,3,1,29
-Ukraine,Unmanned Combat Aerial Vehicles,17,0,0,0,17
-Ukraine,Reconnaissance Unmanned Aerial Vehicles,52,0,36,0,88
+Ukraine,Unmanned Combat Aerial Vehicles,18,0,0,0,18
+Ukraine,Reconnaissance Unmanned Aerial Vehicles,53,0,36,0,89
 Ukraine,Naval Ships,9,0,16,1,26
 Ukraine,"Trucks, Vehicles, and Jeeps",381,7,163,15,566

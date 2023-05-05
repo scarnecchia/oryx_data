@@ -313,6 +313,7 @@ Russia,All Types,6538,383,2802,315,10038,2023-04-26,-41,-8,-22,-1,-72,0,0,0,0,0
 Russia,All Types,6581,384,2802,317,10084,2023-04-28,43,1,0,2,46,0,0,0,0,0
 Russia,All Types,6567,383,2800,317,10067,2023-04-29,-14,-1,-2,0,-17,0,0,0,0,0
 Russia,All Types,6623,388,2804,320,10135,2023-05-02,56,5,4,3,68,0,0,0,0,0
+Russia,All Types,6626,388,2804,320,10138,2023-05-05,3,0,0,0,3,0,0,0,0,0
 Russia,Anti-Aircraft Guns,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Russia,Anti-Aircraft Guns,0,0,0,0,0,2022-03-19,0,0,0,0,0,0,0,0,0,0
 Russia,Anti-Aircraft Guns,0,0,0,0,0,2022-03-26,0,0,0,0,0,0,0,0,0,0
@@ -1272,6 +1273,7 @@ Russia,Infantry Fighting Vehicles,1490,122,597,72,2281,2023-04-26,-18,-7,-10,-1,
 Russia,Infantry Fighting Vehicles,1507,123,597,72,2299,2023-04-28,17,1,0,0,18,0,0,0,0,0
 Russia,Infantry Fighting Vehicles,1505,122,597,72,2296,2023-04-29,-2,-1,0,0,-3,0,0,0,0,0
 Russia,Infantry Fighting Vehicles,1517,125,597,72,2311,2023-05-02,12,3,0,0,15,0,0,0,0,0
+Russia,Infantry Fighting Vehicles,1518,125,597,72,2312,2023-05-05,1,0,0,0,1,0,0,0,0,0
 Russia,"Infantry Fighting Vehicles (1849, of which destroyed: 1159, damaged: 40, abandoned: 81, cap",1159,81,0,40,1280,2022-12-26,0,0,0,0,0,0,0,0,0,0
 Russia,Infantry Mobility Vehicles,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Russia,Infantry Mobility Vehicles,29,5,16,2,52,2022-03-19,29,5,16,2,52,29,5,16,2,52
@@ -2158,6 +2160,7 @@ Russia,Tanks,1160,101,544,101,1906,2023-04-26,-1,0,0,0,-1,0,0,0,0,0
 Russia,Tanks,1168,101,544,101,1914,2023-04-28,8,0,0,0,8,0,0,0,0,0
 Russia,Tanks,1165,101,544,101,1911,2023-04-29,-3,0,0,0,-3,0,0,0,0,0
 Russia,Tanks,1175,103,545,102,1925,2023-05-02,10,2,1,1,14,0,0,0,0,0
+Russia,Tanks,1177,103,545,102,1927,2023-05-05,2,0,0,0,2,0,0,0,0,0
 Russia,Towed Artillery,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Russia,Towed Artillery,4,5,23,2,34,2022-03-19,4,5,23,2,34,4,5,23,2,34
 Russia,Towed Artillery,8,5,26,2,41,2022-03-26,4,0,3,0,7,0,-5,-20,-2,-27
@@ -2866,6 +2869,7 @@ Ukraine,All Types,2060,88,865,187,3200,2023-04-26,-7,0,0,3,-4,0,0,0,0,0
 Ukraine,All Types,2073,88,865,188,3214,2023-04-28,13,0,0,1,14,0,0,0,0,0
 Ukraine,All Types,2072,88,865,188,3213,2023-04-29,-1,0,0,0,-1,0,0,0,0,0
 Ukraine,All Types,2095,88,871,189,3243,2023-05-02,23,0,6,1,30,0,0,0,0,0
+Ukraine,All Types,2099,91,871,189,3250,2023-05-05,4,3,0,0,7,0,0,0,0,0
 Ukraine,Anti-Aircraft Guns,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Ukraine,Anti-Aircraft Guns,0,0,0,0,0,2022-03-19,0,0,0,0,0,0,0,0,0,0
 Ukraine,Anti-Aircraft Guns,0,0,0,0,0,2022-03-26,0,0,0,0,0,0,0,0,0,0
@@ -3109,6 +3113,7 @@ Ukraine,Armoured Personnel Carriers,134,12,86,13,245,2023-04-17,0,0,1,0,1,0,0,0,
 Ukraine,Armoured Personnel Carriers,135,12,86,13,246,2023-04-18,1,0,0,0,1,0,0,0,0,0
 Ukraine,Armoured Personnel Carriers,136,12,86,13,247,2023-04-22,1,0,0,0,1,0,0,0,0,0
 Ukraine,Armoured Personnel Carriers,139,12,87,13,251,2023-05-02,3,0,1,0,4,0,0,0,0,0
+Ukraine,Armoured Personnel Carriers,140,12,87,13,252,2023-05-05,1,0,0,0,1,0,0,0,0,0
 Ukraine,Artillery Support Vehicles And Equipment,4,0,6,1,11,2022-08-08,0,0,0,0,0,0,0,0,0,0
 Ukraine,Artillery Support Vehicles And Equipment,5,0,6,1,12,2022-08-14,1,0,0,0,1,0,0,0,0,0
 Ukraine,Artillery Support Vehicles And Equipment,6,0,6,1,13,2022-09-01,1,0,0,0,1,0,0,0,0,0
@@ -3355,6 +3360,7 @@ Ukraine,Infantry Fighting Vehicles,367,31,108,13,519,2023-04-12,-3,0,-1,0,-4,0,0
 Ukraine,Infantry Fighting Vehicles,372,31,108,13,524,2023-04-18,5,0,0,0,5,0,0,0,0,0
 Ukraine,Infantry Fighting Vehicles,372,31,109,13,525,2023-04-21,0,0,1,0,1,0,0,0,0,0
 Ukraine,Infantry Fighting Vehicles,371,31,108,13,523,2023-04-22,-1,0,-1,0,-2,0,0,0,0,0
+Ukraine,Infantry Fighting Vehicles,372,32,108,13,525,2023-05-05,1,1,0,0,2,0,0,0,0,0
 Ukraine,Infantry Mobility Vehicles,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Ukraine,Infantry Mobility Vehicles,5,1,20,1,27,2022-03-19,5,1,20,1,27,5,1,20,1,27
 Ukraine,Infantry Mobility Vehicles,7,1,23,1,32,2022-03-26,2,0,3,0,5,-3,-1,-17,-1,-22
@@ -3488,6 +3494,7 @@ Ukraine,Infantry Mobility Vehicles,153,4,106,19,282,2023-04-21,2,0,0,0,2,0,0,0,0
 Ukraine,Infantry Mobility Vehicles,155,4,106,19,284,2023-04-22,2,0,0,0,2,0,0,0,0,0
 Ukraine,Infantry Mobility Vehicles,156,4,106,19,285,2023-04-28,1,0,0,0,1,0,0,0,0,0
 Ukraine,Infantry Mobility Vehicles,159,4,107,19,289,2023-05-02,3,0,1,0,4,0,0,0,0,0
+Ukraine,Infantry Mobility Vehicles,160,4,107,19,290,2023-05-05,1,0,0,0,1,0,0,0,0,0
 Ukraine,Jammers And Deception Systems,0,0,1,0,1,2022-06-06,0,0,0,0,0,0,0,0,0,0
 Ukraine,"Man-Portable Air Defence Systems
 ",0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
@@ -3539,6 +3546,7 @@ Ukraine,Mine-Resistant Ambush Protected,29,6,5,10,50,2023-04-18,1,1,0,0,2,0,0,0,
 Ukraine,Mine-Resistant Ambush Protected,30,6,5,11,52,2023-04-21,1,0,0,1,2,0,0,0,0,0
 Ukraine,Mine-Resistant Ambush Protected,31,5,5,11,52,2023-04-22,1,-1,0,0,0,0,0,0,0,0
 Ukraine,Mine-Resistant Ambush Protected,32,5,5,11,53,2023-04-28,1,0,0,0,1,0,0,0,0,0
+Ukraine,Mine-Resistant Ambush Protected,33,5,5,11,54,2023-05-05,1,0,0,0,1,0,0,0,0,0
 Ukraine,Multiple Rocket Launchers,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Ukraine,Multiple Rocket Launchers,0,0,0,0,0,2022-03-19,0,0,0,0,0,0,0,0,0,0
 Ukraine,Multiple Rocket Launchers,1,0,0,0,1,2022-03-26,1,0,0,0,1,1,0,0,0,1
@@ -3640,6 +3648,7 @@ Ukraine,Reconnaissance Unmanned Aerial Vehicles,47,0,36,0,83,2023-04-17,1,0,1,0,
 Ukraine,Reconnaissance Unmanned Aerial Vehicles,48,0,36,0,84,2023-04-18,1,0,0,0,1,0,0,0,0,0
 Ukraine,Reconnaissance Unmanned Aerial Vehicles,50,0,36,0,86,2023-04-28,2,0,0,0,2,0,0,0,0,0
 Ukraine,Reconnaissance Unmanned Aerial Vehicles,52,0,36,0,88,2023-05-02,2,0,0,0,2,0,0,0,0,0
+Ukraine,Reconnaissance Unmanned Aerial Vehicles,53,0,36,0,89,2023-05-05,1,0,0,0,1,0,0,0,0,0
 Ukraine,Self-Propelled Anti-Aircraft Guns,1,0,3,1,5,2023-02-12,0,0,0,0,0,0,0,0,0,0
 Ukraine,"Self-Propelled Anti-Aircraft Guns
 ",0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
@@ -4027,6 +4036,7 @@ Ukraine,Tanks,302,19,140,29,490,2023-04-24,1,0,0,0,1,0,0,0,0,0
 Ukraine,Tanks,303,19,140,29,491,2023-04-28,1,0,0,0,1,0,0,0,0,0
 Ukraine,Tanks,303,18,140,29,490,2023-04-29,0,-1,0,0,-1,0,0,0,0,0
 Ukraine,Tanks,306,18,140,29,493,2023-05-02,3,0,0,0,3,0,0,0,0,0
+Ukraine,Tanks,306,19,140,29,494,2023-05-05,0,1,0,0,1,0,0,0,0,0
 Ukraine,Towed Artillery,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Ukraine,Towed Artillery,2,3,11,0,16,2022-03-19,2,3,11,0,16,2,3,11,0,16
 Ukraine,Towed Artillery,4,3,11,3,21,2022-03-26,2,0,0,3,5,0,-3,-11,3,-11
@@ -4283,3 +4293,4 @@ Ukraine,Unmanned Combat Aerial Vehicles,14,0,0,0,14,2022-11-17,-1,0,-2,0,-3,0,0,
 Ukraine,Unmanned Combat Aerial Vehicles,15,0,0,0,15,2023-01-30,1,0,0,0,1,0,0,0,0,0
 Ukraine,Unmanned Combat Aerial Vehicles,16,0,0,0,16,2023-02-21,1,0,0,0,1,0,0,0,0,0
 Ukraine,Unmanned Combat Aerial Vehicles,17,0,0,0,17,2023-02-24,1,0,0,0,1,0,0,0,0,0
+Ukraine,Unmanned Combat Aerial Vehicles,18,0,0,0,18,2023-05-05,1,0,0,0,1,0,0,0,0,0
