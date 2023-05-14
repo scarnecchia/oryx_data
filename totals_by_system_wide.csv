@@ -689,6 +689,7 @@ Russia,2 MP-1IM signals vehicle,0,1,0,0,1
 Russia,2 MTO-UB1 maintenance vehicle,0,1,0,0,1
 Russia,2 MTP-A2.1 recovery vehicle,0,1,1,0,2
 Russia,2 MZA-M.1 battery charge and repair workshop,0,1,0,0,1
+Russia,2 Mi-8MTPR-1 electronic warfare helicopter,1,0,0,0,1
 Russia,2 Orlan-10 UCAV,1,1,0,0,2
 Russia,2 P-230T command vehicle,1,0,0,0,1
 Russia,2 R-439-MD2 SatCom Station,2,0,0,0,2
@@ -1007,6 +1008,7 @@ Russia,3 MTO-AT mobile workshop,0,1,0,0,1
 Russia,3 Orlan-10 jamming UAV,1,0,0,0,1
 Russia,3 RKhM-6 CBRN reconnaissance vehicle,1,1,0,0,2
 Russia,3 Remdiesel Z-STS Akhmat,1,0,0,0,1
+Russia,3 Su-35S multirole aircraft,1,0,0,0,1
 Russia,3 T-62MV,0,2,0,1,3
 Russia,3 T-72B3 Obr. 2014,1,1,0,0,2
 Russia,3 T-90M,0,1,0,0,1
@@ -2226,7 +2228,7 @@ Russia,Mi-24P attack helicopter,2,0,0,0,2
 Russia,Mi-24P/35M attack helicopter,1,0,0,2,3
 Russia,Mi-24V/P attack helicopter,3,0,0,1,4
 Russia,Mi-24V/P/35M attack helicopter,1,0,0,0,1
-Russia,Mi-28 attack helicopter,10,0,0,2,12
+Russia,Mi-28 attack helicopter,11,0,0,2,13
 Russia,Mi-35M attack helicopter,9,0,0,1,10
 Russia,Mi-8 transport helicopter,23,0,2,1,26
 Russia,MiG-31BM fighter aircraft,1,0,0,0,1
@@ -2277,7 +2279,7 @@ Russia,Su-24M/MR strike/tactical reconnaissance aircraft,3,0,0,3,6
 Russia,Su-24MR tactical reconnaissance aircraft,1,0,0,0,1
 Russia,Su-25 close air support aircraft,31,0,0,3,34
 Russia,Su-30SM multirole aircraft,10,0,0,1,11
-Russia,Su-34 strike aircraft,21,0,0,0,21
+Russia,Su-34 strike aircraft,22,0,0,0,22
 Russia,Su-34(M) strike aircraft,1,0,0,0,1
 Russia,Su-35 multirole aircraft,1,0,0,0,1
 Russia,Supercam S350,1,2,0,0,3
