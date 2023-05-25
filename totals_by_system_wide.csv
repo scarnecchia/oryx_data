@@ -1006,6 +1006,7 @@ Russia,291 T-72B3,5,0,1,2,8
 Russia,292 KamAZ 6x6,2,2,0,0,4
 Russia,292 T-72B3,4,0,0,0,4
 Russia,292 T-80BV,3,0,1,1,5
+Russia,294 T-80BV,1,0,0,0,1
 Russia,295 BMP-1(P),1,0,1,0,2
 Russia,295 KamAZ 6x6,8,0,0,0,8
 Russia,295 T-72B3,2,0,1,1,4
@@ -1039,6 +1040,7 @@ Russia,3 Remdiesel Z-STS Akhmat,1,0,0,0,1
 Russia,3 Su-35S multirole aircraft,1,0,0,0,1
 Russia,3 T-62MV,0,2,0,1,3
 Russia,3 T-72B3 Obr. 2014,1,1,0,0,2
+Russia,3 T-80BVM Obr. 2022,1,0,0,0,1
 Russia,3 T-90M,0,1,0,0,1
 Russia,3 T-90S,0,1,0,0,1
 Russia,3 UAZ Patriot jeep,0,1,0,0,1
@@ -2294,7 +2296,7 @@ Russia,MiG-31BM fighter aircraft,1,0,0,0,1
 Russia,Mohajer-6 UCAV,0,1,0,0,1
 Russia,Orion,3,0,0,0,3
 Russia,Orion UCAV,4,0,0,0,4
-Russia,Orlan-10,37,25,0,0,62
+Russia,Orlan-10,38,25,0,0,63
 Russia,Orlan-10 jamming UAV,1,1,0,0,2
 Russia,Orlan-10 reconnaissance UAV,50,47,0,0,97
 Russia,Orlan-30,1,2,0,0,3
