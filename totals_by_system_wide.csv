@@ -625,6 +625,7 @@ Russia,18 IMR-2(M) combat engineering vehicle,0,1,0,0,1
 Russia,18 KamAZ 4x4,1,0,0,0,1
 Russia,18 KamAZ with MM-501 armoured cabin,0,1,0,0,1
 Russia,18 MT-LB with ZU-23 AA gun,0,1,0,0,1
+Russia,18 Pantsir-S1,0,0,0,1,1
 Russia,18 T-62M,0,2,0,0,2
 Russia,18 T-90M,1,0,0,0,1
 Russia,18 UAZ-452 van,0,1,0,0,1
@@ -778,6 +779,7 @@ Russia,21 KamAZ 4x4,1,0,0,0,1
 Russia,21 KamAZ with MM-501 armoured cabin,1,0,0,0,1
 Russia,21 MT-LB with ZU-23 AA gun,0,1,0,0,1
 Russia,21 T-62M,0,1,0,0,1
+Russia,21 T-90M,1,0,0,0,1
 Russia,21 UAZ-469 jeep,0,2,0,1,3
 Russia,21 ZiL-131,2,0,0,0,2
 Russia,210 BTR-82A(M),1,3,0,0,4
@@ -885,7 +887,7 @@ Russia,24 Ural Federal,0,1,0,0,1
 Russia,24 ZiL-131,3,0,0,0,3
 Russia,240 T-72B3,1,3,0,0,4
 Russia,240 Unknown tank,5,0,0,0,5
-Russia,240mm 2S4 Tyulpan,8,0,0,2,10
+Russia,240mm 2S4 Tyulpan,9,0,0,2,11
 Russia,242 Unknown tank,2,0,1,1,4
 Russia,243 BMP-1(P),2,2,0,0,4
 Russia,243 BTR-82A(M),2,2,0,0,4
@@ -938,6 +940,7 @@ Russia,26 BREM-1 armoured recovery vehicle,1,0,0,0,1
 Russia,26 BRM-1 and BRM-1K reconnaissance vehicle,0,0,1,1,2
 Russia,26 BRM-1(K) reconnaissance vehicle,1,0,0,0,1
 Russia,26 IMR-2(M) combat engineering vehicle,1,1,0,0,2
+Russia,26 MT-LB with ZU-23 AA gun,1,0,0,0,1
 Russia,26 R-149MA3 command and staff vehicle,0,1,0,0,1
 Russia,26 T-62M,0,2,0,0,2
 Russia,26 T-72BA,1,1,0,0,2
@@ -1249,6 +1252,7 @@ Russia,38 Unknown BTR-80/BTR-82A,1,0,0,0,1
 Russia,380 BTR-82A(M),2,0,0,0,2
 Russia,381 BMP-1(P),1,0,2,1,4
 Russia,381 KamAZ 6x6,2,0,0,0,2
+Russia,382 BMP-1(P),1,0,0,0,1
 Russia,382 BTR-82A(M),1,1,0,0,2
 Russia,383 KamAZ 6x6,1,0,0,0,1
 Russia,384 Ural-4320,0,5,0,0,5
@@ -2371,7 +2375,7 @@ Russia,R-934UM,1,0,0,0,1
 Russia,REM-KL armoured recovery vehicle,2,1,0,0,3
 Russia,REM-KL recovery vehicle,1,0,0,1,2
 Russia,RKhM-6 Povozka,3,0,0,0,3
-Russia,Remdiesel Z-STS Akhmat,2,0,0,1,3
+Russia,Remdiesel Z-STS Akhmat,2,0,1,2,5
 Russia,Repeynik portable counter-UAS radar,1,0,0,0,1
 Russia,SNAR-10M1 battlefield surveillance radar,0,1,0,0,1
 Russia,Silok-01 antenna,1,0,0,0,1
