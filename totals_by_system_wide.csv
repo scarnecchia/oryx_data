@@ -1117,6 +1117,7 @@ Russia,311 T-72B3,1,0,0,0,1
 Russia,312 BMP-1(P),2,0,0,0,2
 Russia,312 BTR-82A(M),1,0,0,0,1
 Russia,312 T-72B3,2,0,1,1,4
+Russia,313 T-72B3,1,0,0,0,1
 Russia,314 BTR-82A(M),2,0,0,0,2
 Russia,315 BTR-82A(M),0,2,0,0,2
 Russia,316 BTR-82A(M),1,0,0,0,1
@@ -1834,6 +1835,7 @@ Russia,7 100mm MT-12 anti-tank gun,0,1,0,0,1
 Russia,7 122mm 2B17 Tornado-G,0,1,0,0,1
 Russia,7 152mm 2A36 Giatsint-B,0,1,0,1,2
 Russia,7 152mm 2S5 Giatsint-S,1,0,0,0,1
+Russia,7 9A310M1-2 TELAR (for Buk-M1-2),1,0,0,0,1
 Russia,7 9A331 TLAR (for 9K331 Tor-M1),1,0,0,0,1
 Russia,7 BMD-1KSh-A command vehicle,0,2,0,0,2
 Russia,7 BMP-1KSh command and staff vehicle,1,0,0,0,1
@@ -2350,6 +2352,7 @@ Russia,Mi-28 attack helicopter,11,0,0,2,13
 Russia,Mi-35M attack helicopter,9,0,0,1,10
 Russia,Mi-8 transport helicopter,25,0,2,1,28
 Russia,MiG-31BM fighter aircraft,1,0,0,0,1
+Russia,Mohajer-6,1,0,0,0,1
 Russia,Mohajer-6 UCAV,0,1,0,0,1
 Russia,Orion,3,0,0,0,3
 Russia,Orion UCAV,4,0,0,0,4
@@ -2570,6 +2573,7 @@ Ukraine,1 ST-68U radar,1,0,0,0,1
 Ukraine,1 Shark UAV,0,1,0,0,1
 Ukraine,1 Sisu XA-185,1,0,0,0,1
 Ukraine,1 Stormer HVM,0,0,0,1,1
+Ukraine,1 TRML-4D multi-functional radar from the IRIS-T SLM,1,0,0,0,1
 Ukraine,1 UA International M1224 MaxxPro,1,0,0,0,1
 Ukraine,1 UMP-350 engine heater,0,1,0,0,1
 Ukraine,1 UMS 600 patrol boat,0,1,0,0,1
