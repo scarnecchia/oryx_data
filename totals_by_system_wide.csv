@@ -2614,6 +2614,7 @@ Ukraine,1 Unknown tanker,1,0,0,0,1
 Ukraine,1 Ural tanker,1,0,0,0,1
 Ukraine,1 Ural-4320 KT-L recovery vehicle,1,0,0,0,1
 Ukraine,1 VAB APC,0,0,1,1,2
+Ukraine,1 Wisent 1 mine-clearing tank,1,0,0,0,1
 Ukraine,1 Wolfhound,1,0,0,0,1
 Ukraine,1 YPR-765,0,1,0,0,1
 Ukraine,1 ZiL-130 tanker,1,0,0,0,1
@@ -3262,7 +3263,7 @@ Ukraine,IMR-2 combat engineering vehicle,4,1,0,0,5
 Ukraine,INKAS Titan-S,1,0,0,0,1
 Ukraine,IRM 'Zhuk' Engineer Reconnaissance Vehicle,0,1,0,0,1
 Ukraine,Il-76 transport aircraft,1,1,0,0,2
-Ukraine,International M1224 MaxxPro,10,2,1,5,18
+Ukraine,International M1224 MaxxPro,11,2,1,5,19
 Ukraine,Island class patrol boat P190 Slovyansk,1,0,0,0,1
 Ukraine,Island-class patrol boat P190 Slovyansk,1,0,0,0,1
 Ukraine,Iveco LMV,3,0,0,0,3
@@ -3288,11 +3289,12 @@ Ukraine,L-39 jet trainer/light attack aircraft,1,0,0,0,1
 Ukraine,Land Rover Defender,5,0,0,0,5
 Ukraine,Leleka-100,15,7,0,1,23
 Ukraine,Leleka-100 reconnaissance UAV,3,4,0,0,7
-Ukraine,Leopard 2A6,1,0,1,0,2
+Ukraine,Leopard 2A6,2,0,2,0,4
+Ukraine,Leopard 2R mine-clearing tank,0,0,2,1,3
 Ukraine,M1114 and M1151 HMMWV,45,9,3,11,68
 Ukraine,M113G3DK/G4DK,0,0,1,0,1
 Ukraine,M1152 HMMWV,5,0,0,0,5
-Ukraine,M2A2 Bradley ODS-SA,4,0,5,5,14
+Ukraine,M2A2 Bradley ODS-SA,4,0,7,7,18
 Ukraine,M998 HMMWV,2,7,0,0,9
 Ukraine,MAZ,11,2,2,1,16
 Ukraine,MAZ-5316,2,0,0,1,3

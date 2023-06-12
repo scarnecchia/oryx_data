@@ -3055,6 +3055,7 @@ Ukraine,All Types,2286,95,900,223,3504,2023-06-08,1,0,0,0,1,0,0,0,0,0
 Ukraine,All Types,2290,100,902,228,3520,2023-06-09,4,5,2,5,16,0,0,0,0,0
 Ukraine,All Types,2296,119,902,228,3545,2023-06-10,6,19,0,0,25,0,0,0,0,0
 Ukraine,All Types,2298,120,902,229,3549,2023-06-11,2,1,0,1,4,0,0,0,0,0
+Ukraine,All Types,2299,126,902,229,3556,2023-06-12,1,6,0,0,7,0,0,0,0,0
 Ukraine,Anti-Aircraft Guns,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Ukraine,Anti-Aircraft Guns,0,0,0,0,0,2022-03-19,0,0,0,0,0,0,0,0,0,0
 Ukraine,Anti-Aircraft Guns,0,0,0,0,0,2022-03-26,0,0,0,0,0,0,0,0,0,0
@@ -3384,6 +3385,7 @@ Ukraine,Engineering Vehicles And Equipment,27,0,25,3,55,2023-05-10,4,0,1,0,5,0,0
 Ukraine,Engineering Vehicles And Equipment,28,0,25,4,57,2023-05-17,1,0,0,1,2,0,0,0,0,0
 Ukraine,Engineering Vehicles And Equipment,30,0,25,4,59,2023-06-04,2,0,0,0,2,0,0,0,0,0
 Ukraine,Engineering Vehicles And Equipment,30,1,25,4,60,2023-06-10,0,1,0,0,1,0,0,0,0,0
+Ukraine,Engineering Vehicles And Equipment,31,4,25,4,64,2023-06-12,1,3,0,0,4,0,0,0,0,0
 Ukraine,Helicopters,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Ukraine,Helicopters,0,0,0,0,0,2022-03-19,0,0,0,0,0,0,0,0,0,0
 Ukraine,Helicopters,0,0,0,0,0,2022-03-26,0,0,0,0,0,0,0,0,0,0
@@ -3588,6 +3590,7 @@ Ukraine,Infantry Fighting Vehicles,389,32,112,15,548,2023-06-05,1,0,0,0,1,0,0,0,
 Ukraine,Infantry Fighting Vehicles,390,32,112,15,549,2023-06-09,1,0,0,0,1,0,0,0,0,0
 Ukraine,Infantry Fighting Vehicles,390,42,112,15,559,2023-06-10,0,10,0,0,10,0,0,0,0,0
 Ukraine,Infantry Fighting Vehicles,392,43,112,15,562,2023-06-11,2,1,0,0,3,0,0,0,0,0
+Ukraine,Infantry Fighting Vehicles,391,45,112,15,563,2023-06-12,-1,2,0,0,1,0,0,0,0,0
 Ukraine,Infantry Mobility Vehicles,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Ukraine,Infantry Mobility Vehicles,5,1,20,1,27,2022-03-19,5,1,20,1,27,5,1,20,1,27
 Ukraine,Infantry Mobility Vehicles,7,1,23,1,32,2022-03-26,2,0,3,0,5,-3,-1,-17,-1,-22
@@ -3794,6 +3797,7 @@ Ukraine,Mine-Resistant Ambush Protected,34,5,7,12,58,2023-05-24,0,0,1,0,1,0,0,0,
 Ukraine,Mine-Resistant Ambush Protected,38,9,7,12,66,2023-06-09,4,4,0,0,8,0,0,0,0,0
 Ukraine,Mine-Resistant Ambush Protected,38,12,7,12,69,2023-06-10,0,3,0,0,3,0,0,0,0,0
 Ukraine,Mine-Resistant Ambush Protected,38,12,7,14,71,2023-06-11,0,0,0,2,2,0,0,0,0,0
+Ukraine,Mine-Resistant Ambush Protected,39,12,7,14,72,2023-06-12,1,0,0,0,1,0,0,0,0,0
 Ukraine,Multiple Rocket Launchers,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Ukraine,Multiple Rocket Launchers,0,0,0,0,0,2022-03-19,0,0,0,0,0,0,0,0,0,0
 Ukraine,Multiple Rocket Launchers,1,0,0,0,1,2022-03-26,1,0,0,0,1,1,0,0,0,1
@@ -4337,6 +4341,7 @@ Ukraine,Tanks,321,22,139,31,513,2023-06-04,5,0,0,0,5,0,0,0,0,0
 Ukraine,Tanks,322,22,139,31,514,2023-06-05,1,0,0,0,1,0,0,0,0,0
 Ukraine,Tanks,330,22,139,32,523,2023-06-09,8,0,0,1,9,0,0,0,0,0
 Ukraine,Tanks,332,24,139,32,527,2023-06-10,2,2,0,0,4,0,0,0,0,0
+Ukraine,Tanks,332,25,139,32,528,2023-06-12,0,1,0,0,1,0,0,0,0,0
 Ukraine,Towed Artillery,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Ukraine,Towed Artillery,2,3,11,0,16,2022-03-19,2,3,11,0,16,2,3,11,0,16
 Ukraine,Towed Artillery,4,3,11,3,21,2022-03-26,2,0,0,3,5,0,-3,-11,3,-11
