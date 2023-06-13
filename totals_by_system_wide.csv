@@ -349,6 +349,7 @@ Russia,122mm BM-21 'Grad',17,22,6,4,49
 Russia,122mm BM-21 Grad,8,2,1,1,12
 Russia,122mm D-30 howitzer,1,1,0,0,2
 Russia,122mm D-30 howitzer 2A18,1,9,4,0,14
+Russia,123 122mm BM-21 Grad,1,0,0,0,1
 Russia,123 GAZ Tigr-M,2,0,0,0,2
 Russia,123 Unknown BMP-1/2,1,0,0,0,1
 Russia,123 Ural-43206,2,0,0,0,2
@@ -2035,7 +2036,7 @@ Russia,80 152mm 2A65 Msta-B howitzer,1,0,0,0,1
 Russia,80 152mm 2S3(M) Akatsiya,1,0,0,0,1
 Russia,80 BTR-80,0,1,0,0,1
 Russia,80 KamAZ 6x6 tanker,1,1,0,0,2
-Russia,80 T-80BVM,1,0,0,0,1
+Russia,80 T-80BVM,2,0,0,0,2
 Russia,80 T-80U,0,1,0,0,1
 Russia,80 Ural-43206,2,0,0,0,2
 Russia,803 BMP-2(K),5,0,0,1,6
@@ -2433,7 +2434,7 @@ Russia,T-62M Obr. 2022,1,0,0,0,1
 Russia,T-64BV,32,7,2,3,44
 Russia,T-72A,21,17,4,4,46
 Russia,T-72AV,7,3,0,0,10
-Russia,T-72B,204,91,24,23,342
+Russia,T-72B,205,91,24,23,343
 Russia,T-72B Obr. 1989,47,29,6,6,88
 Russia,T-72B3,127,92,13,18,250
 Russia,T-72B3 Obr. 2016,144,130,11,22,307
