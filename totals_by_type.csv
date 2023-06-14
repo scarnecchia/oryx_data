@@ -1,29 +1,29 @@
 country,equipment_type,destroyed,abandoned,captured,damaged,type_total
-Russia,All Types,7020,403,2818,368,10609
-Russia,Tanks,1261,112,542,112,2027
-Russia,Armoured Fighting Vehicles,565,30,266,18,879
-Russia,Infantry Fighting Vehicles,1587,126,597,83,2393
-Russia,Armoured Personnel Carriers,201,13,90,8,312
+Russia,All Types,7059,405,2822,372,10658
+Russia,Tanks,1271,112,544,114,2041
+Russia,Armoured Fighting Vehicles,569,31,266,19,885
+Russia,Infantry Fighting Vehicles,1593,126,598,85,2402
+Russia,Armoured Personnel Carriers,204,14,90,8,316
 Russia,Mine-Resistant Ambush Protected,29,1,9,4,43
-Russia,Infantry Mobility Vehicles,132,2,51,5,190
+Russia,Infantry Mobility Vehicles,133,2,51,5,191
 Russia,Command Posts And Communications Stations,155,3,85,0,243
 Russia,Engineering Vehicles And Equipment,143,40,120,7,310
 Russia,Self-Propelled Anti-Tank Missile Systems,15,4,19,0,38
 Russia,Artillery Support Vehicles And Equipment,51,2,50,0,103
 Russia,Towed Artillery,116,5,96,15,232
-Russia,Self-Propelled Artillery,281,7,105,21,414
-Russia,Multiple Rocket Launchers,145,2,53,7,207
+Russia,Self-Propelled Artillery,283,7,105,20,415
+Russia,Multiple Rocket Launchers,146,2,53,7,208
 Russia,Anti-Aircraft Guns,3,0,14,0,17
 Russia,Self-Propelled Anti-Aircraft Guns,13,2,8,1,24
-Russia,Surface-To-Air Missile Systems,79,4,23,12,118
+Russia,Surface-To-Air Missile Systems,80,4,23,12,119
 Russia,Radars,20,0,9,3,32
-Russia,Jammers And Deception Systems,30,0,7,3,40
+Russia,Jammers And Deception Systems,31,0,7,3,41
 Russia,Aircraft,74,0,0,8,82
 Russia,Helicopters,79,0,1,10,90
 Russia,Unmanned Combat Aerial Vehicles,9,0,1,0,10
-Russia,Reconnaissance Unmanned Aerial Vehicles,123,0,111,0,234
+Russia,Reconnaissance Unmanned Aerial Vehicles,125,0,111,0,236
 Russia,Naval Ships,8,0,0,4,12
-Russia,"Trucks, Vehicles, and Jeeps",1899,50,568,47,2564
+Russia,"Trucks, Vehicles, and Jeeps",1904,50,569,47,2570
 Ukraine,All Types,2299,126,902,229,3556
 Ukraine,Tanks,332,25,139,32,528
 Ukraine,Armoured Fighting Vehicles,195,7,79,3,284
@@ -36,7 +36,7 @@ Ukraine,Engineering Vehicles And Equipment,31,4,25,4,64
 Ukraine,Self-Propelled Anti-Tank Missile Systems,8,1,12,0,21
 Ukraine,Artillery Support Vehicles And Equipment,10,0,13,0,23
 Ukraine,Towed Artillery,71,2,18,35,126
-Ukraine,Self-Propelled Artillery,102,0,23,41,166
+Ukraine,Self-Propelled Artillery,102,0,23,40,165
 Ukraine,Multiple Rocket Launchers,28,0,9,8,45
 Ukraine,Anti-Aircraft Guns,0,0,4,0,4
 Ukraine,Self-Propelled Anti-Aircraft Guns,2,0,3,1,6
