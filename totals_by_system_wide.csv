@@ -35,6 +35,7 @@ Russia,1 BRDM-2,1,0,0,0,1
 Russia,1 BRDM-2RKhb chemical recon vehicle,0,1,0,0,1
 Russia,1 BREM-D armored recovery vehicle,0,1,0,0,1
 Russia,1 BTR-60PB,1,0,0,0,1
+Russia,1 BTR-80 with 57mm UB-32 unguided aircraft rocket pods,0,0,0,1,1
 Russia,1 BTR-80-based ZS-88 PsyOps vehicle,1,0,0,0,1
 Russia,1 Command vehicle for Podlet-K1 low-altitude S-band surveillance radar,1,0,0,0,1
 Russia,1 Eleron T28ME reconnaissance UAV,0,1,0,0,1
@@ -522,7 +523,7 @@ Russia,152mm 2A36 Giatsint-B field-gun,4,1,0,2,7
 Russia,152mm 2A65 Msta-B howitzer,13,12,1,5,31
 Russia,152mm 2S19 Msta-S,33,30,14,3,80
 Russia,152mm 2S3 Akatsiya,18,7,6,2,33
-Russia,152mm 2S3(M) Akatsiya,31,3,0,2,36
+Russia,152mm 2S3(M) Akatsiya,32,3,0,2,37
 Russia,152mm 2S33 Msta-SM2,0,9,0,0,9
 Russia,152mm D-20 gun-howitzer,8,2,0,2,12
 Russia,153 BTR-80,2,0,0,0,2
@@ -907,7 +908,7 @@ Russia,24 Ural Federal,0,1,0,0,1
 Russia,24 ZiL-131,3,0,0,0,3
 Russia,240 T-72B3,1,3,0,0,4
 Russia,240 Unknown tank,5,0,0,0,5
-Russia,240mm 2S4 Tyulpan,9,0,0,2,11
+Russia,240mm 2S4 Tyulpan,10,0,0,2,12
 Russia,242 Unknown tank,4,0,1,2,7
 Russia,243 BMP-1(P),2,2,0,0,4
 Russia,243 BTR-82A(M),2,2,0,0,4
@@ -948,6 +949,7 @@ Russia,255 T-72B3,1,0,0,1,2
 Russia,255 Unknown tank,5,0,1,2,8
 Russia,256 T-72B3,1,0,0,0,1
 Russia,256 T-80BV,6,1,2,2,11
+Russia,256 Unknown tank,1,0,0,0,1
 Russia,257 T-72B3,0,1,0,0,1
 Russia,258 BMP-1(P),4,0,0,0,4
 Russia,258 BTR-82A(M),2,2,0,0,4
@@ -2362,7 +2364,7 @@ Russia,Iveco LMV Rys,13,3,1,3,20
 Russia,K-53949 'Linza',2,4,0,1,7
 Russia,K-53949 'Typhoon-K',4,0,0,0,4
 Russia,K-53949 Typhoon-K,2,2,1,0,5
-Russia,Ka-52 'Alligator' attack helicopter,34,1,4,9,48
+Russia,Ka-52 'Alligator' attack helicopter,34,1,4,10,49
 Russia,KamAZ 4x4,2,4,1,0,7
 Russia,KamAZ 4x4 tanker,1,0,0,0,1
 Russia,KamAZ 6x6,166,107,22,16,311
