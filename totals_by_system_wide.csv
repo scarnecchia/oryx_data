@@ -728,6 +728,7 @@ Russia,2 Fara ground surveillance radar,0,1,0,0,1
 Russia,2 Forpost reconnaissance UAV,1,0,0,0,1
 Russia,2 Granat-4,1,0,0,0,1
 Russia,2 Granat-4 reconnaissance UAV,0,2,0,0,2
+Russia,2 Il-22 airborne command post,1,0,0,0,1
 Russia,2 KamAZ KMV-10V boom crane truck,0,1,0,0,1
 Russia,2 KamAZ with armoured cabin,2,0,0,0,2
 Russia,2 KrAZ-260 tanker,0,1,0,0,1
@@ -915,7 +916,7 @@ Russia,24 Ural Federal,0,1,0,0,1
 Russia,24 ZiL-131,3,0,0,0,3
 Russia,240 T-72B3,1,3,0,0,4
 Russia,240 Unknown tank,5,0,0,0,5
-Russia,240mm 2S4 Tyulpan,10,0,0,2,12
+Russia,240mm 2S4 Tyulpan,10,0,0,3,13
 Russia,242 Unknown tank,4,0,1,2,7
 Russia,243 BMP-1(P),2,2,0,0,4
 Russia,243 BTR-82A(M),2,2,0,0,4
@@ -2716,7 +2717,7 @@ Ukraine,120mm Bars-8MMK,3,0,0,0,3
 Ukraine,121 BMP-2(K),2,0,0,0,2
 Ukraine,122mm 2S1 Gvozdika,36,16,1,12,65
 Ukraine,122mm BM-21 'Grad',11,2,0,0,13
-Ukraine,122mm BM-21 Grad,12,5,0,6,23
+Ukraine,122mm BM-21 Grad,13,5,0,6,24
 Ukraine,122mm D-30 howitzer,1,1,0,0,2
 Ukraine,124 BMP-2(K),3,1,0,0,4
 Ukraine,125 BMP-2(K),1,0,0,0,1
@@ -2920,6 +2921,7 @@ Ukraine,29 Ural-4320,1,0,0,0,1
 Ukraine,3 120mm 2S9 Nona,1,0,0,0,1
 Ukraine,3 122mm D-30 howitzer,1,1,0,0,2
 Ukraine,3 155mm AHS Krab,1,0,0,0,1
+Ukraine,3 155mm Caesar,1,0,0,0,1
 Ukraine,3 23 ItK 61 23mm,0,1,0,0,1
 Ukraine,3 9A310M1 TELAR (for Buk-M1),1,0,0,0,1
 Ukraine,3 ARS-14 decontamination and degassing vehicle,0,1,0,0,1
