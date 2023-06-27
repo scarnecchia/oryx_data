@@ -1370,6 +1370,7 @@ Russia,Infantry Fighting Vehicles,1597,126,595,85,2403,2023-06-16,4,0,-3,0,1,0,0
 Russia,Infantry Fighting Vehicles,1602,127,598,85,2412,2023-06-19,5,1,3,0,9,0,0,0,0,0
 Russia,Infantry Fighting Vehicles,1612,128,599,89,2428,2023-06-23,10,1,1,4,16,0,0,0,0,0
 Russia,Infantry Fighting Vehicles,1625,128,602,89,2444,2023-06-25,13,0,3,0,16,0,0,0,0,0
+Russia,Infantry Fighting Vehicles,1627,128,602,89,2446,2023-06-27,2,0,0,0,2,0,0,0,0,0
 Russia,"Infantry Fighting Vehicles (1849, of which destroyed: 1159, damaged: 40, abandoned: 81, cap",1159,81,0,40,1280,2022-12-26,0,0,0,0,0,0,0,0,0,0
 Russia,Infantry Mobility Vehicles,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Russia,Infantry Mobility Vehicles,29,5,16,2,52,2022-03-19,29,5,16,2,52,29,5,16,2,52
@@ -2079,6 +2080,7 @@ Russia,Surface-To-Air Missile Systems,80,4,23,12,119,2023-06-14,1,0,0,0,1,0,0,0,
 Russia,Surface-To-Air Missile Systems,78,4,23,12,117,2023-06-15,-2,0,0,0,-2,0,0,0,0,0
 Russia,Surface-To-Air Missile Systems,78,4,23,13,118,2023-06-16,0,0,0,1,1,0,0,0,0,0
 Russia,Surface-To-Air Missile Systems,78,4,23,14,119,2023-06-23,0,0,0,1,1,0,0,0,0,0
+Russia,Surface-To-Air Missile Systems,79,4,23,14,120,2023-06-27,1,0,0,0,1,0,0,0,0,0
 Russia,Tanks,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Russia,Tanks,103,41,106,4,254,2022-03-19,103,41,106,4,254,103,41,106,4,254
 Russia,Tanks,128,42,126,4,300,2022-03-26,25,1,20,0,46,-78,-40,-86,-4,-208
@@ -3679,6 +3681,7 @@ Ukraine,Infantry Fighting Vehicles,399,46,112,16,573,2023-06-16,0,1,0,1,2,0,0,0,
 Ukraine,Infantry Fighting Vehicles,402,46,112,16,576,2023-06-19,3,0,0,0,3,0,0,0,0,0
 Ukraine,Infantry Fighting Vehicles,409,46,112,16,583,2023-06-23,7,0,0,0,7,0,0,0,0,0
 Ukraine,Infantry Fighting Vehicles,410,45,112,17,584,2023-06-25,1,-1,0,1,1,0,0,0,0,0
+Ukraine,Infantry Fighting Vehicles,412,49,112,17,590,2023-06-27,2,4,0,0,6,0,0,0,0,0
 Ukraine,Infantry Mobility Vehicles,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Ukraine,Infantry Mobility Vehicles,5,1,20,1,27,2022-03-19,5,1,20,1,27,5,1,20,1,27
 Ukraine,Infantry Mobility Vehicles,7,1,23,1,32,2022-03-26,2,0,3,0,5,-3,-1,-17,-1,-22
