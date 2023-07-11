@@ -21,7 +21,8 @@ Russia,1 48Ya6-K1 Podlet-K1 low-altitude S-band surveillance radar,1,0,0,0,1
 Russia,1 55K6A command post for S-400,1,0,0,0,1
 Russia,1 5N63S 'Flap Lid B' (for S-300PMU(-1)),1,0,0,0,1
 Russia,1 5P85SM TEL of the S-300PM1/PM2,1,0,0,0,1
-Russia,1 5P85SM2-01 (launcher for S-400),1,0,0,0,1
+Russia,1 5P85SM2-01 (launcher for S-400),2,0,0,0,2
+Russia,1 92N6A multi-functional radar,1,0,0,0,1
 Russia,1 9A83M2 (launcher for S-300V4),1,0,0,0,1
 Russia,1 9K331MDT Tor-M2DT,1,0,0,0,1
 Russia,1 9S18 'Tube Arm' radar variant for the Buk missile system,1,0,0,0,1
@@ -972,6 +973,7 @@ Russia,25 KamAZ with MM-501 armoured cabin,0,1,0,0,1
 Russia,25 MT-LB with ZU-23 AA gun,1,0,0,0,1
 Russia,25 R-149MA3 command and staff vehicle,0,1,0,0,1
 Russia,25 T-72BA,0,1,0,0,1
+Russia,25 T-90M,0,0,0,1,1
 Russia,25 UAZ-469 jeep,0,1,0,1,2
 Russia,25 Ural Federal,1,1,0,0,2
 Russia,25 ZiL-131,2,0,0,0,2
@@ -3509,7 +3511,7 @@ Ukraine,Leopard 2R mine-clearing tank,1,0,2,1,4
 Ukraine,M1114 and M1151 HMMWV,47,9,3,11,70
 Ukraine,M113G3DK/G4DK,0,0,1,0,1
 Ukraine,M1152 HMMWV,7,0,0,0,7
-Ukraine,M2A2 Bradley ODS-SA,11,0,8,9,28
+Ukraine,M2A2 Bradley ODS-SA,12,0,9,10,31
 Ukraine,M998 HMMWV,2,7,0,0,9
 Ukraine,MAZ,11,2,2,1,16
 Ukraine,MAZ-5316,2,0,0,1,3
