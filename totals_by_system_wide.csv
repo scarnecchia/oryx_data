@@ -1,7 +1,7 @@
 country,system,destroyed,captured,abandoned,damaged,total
 Russia,'Orlan-20' ''Kartograf'' reconnaissance UAV,1,0,0,0,1
 Russia,'Orlan-20' reconnaissance UAV,2,1,0,0,3
-Russia,(Unknown) truck,104,8,1,2,115
+Russia,(Unknown) truck,105,8,1,2,116
 Russia,(Unknown) vehicle,28,1,2,3,34
 Russia,1 122mm 2B26 Grad-K,1,0,0,0,1
 Russia,1 152mm 2A36 Giatsint-B:,1,0,0,0,1
@@ -550,7 +550,7 @@ Russia,152mm 2A36 Giatsint-B field-gun,4,1,0,2,7
 Russia,152mm 2A65 Msta-B howitzer,13,12,1,5,31
 Russia,152mm 2S19 Msta-S,33,30,14,3,80
 Russia,152mm 2S3 Akatsiya,18,7,6,2,33
-Russia,152mm 2S3(M) Akatsiya,33,3,0,3,39
+Russia,152mm 2S3(M) Akatsiya,34,3,0,3,40
 Russia,152mm 2S33 Msta-SM2,0,9,0,0,9
 Russia,152mm D-20 gun-howitzer,9,2,0,3,14
 Russia,153 BTR-80,2,0,0,0,2
@@ -666,6 +666,7 @@ Russia,175 BMP-1(P),0,1,0,0,1
 Russia,175 Unknown tank,2,0,0,0,2
 Russia,176 MT-LBVM and MT-LBVMK,1,0,1,1,3
 Russia,176 T-80BV,1,1,0,0,2
+Russia,177 MT-LBVM and MT-LBVMK,1,0,0,0,1
 Russia,177 Unknown tank,4,0,0,0,4
 Russia,178 BMP-1(P),1,2,0,1,4
 Russia,178 Unknown tank,1,0,0,1,2
@@ -680,6 +681,7 @@ Russia,18 KamAZ 4x4,1,0,0,0,1
 Russia,18 KamAZ with MM-501 armoured cabin,0,1,0,0,1
 Russia,18 MT-LB with ZU-23 AA gun,0,1,0,0,1
 Russia,18 Pantsir-S1,0,0,0,1,1
+Russia,18 R-149AKSh-1 command and signals vehicle,1,0,0,0,1
 Russia,18 T-62M,0,2,0,0,2
 Russia,18 T-90M,1,0,0,0,1
 Russia,18 UAZ-452 van,0,1,0,0,1
@@ -879,7 +881,7 @@ Russia,22 UAZ-469 jeep,1,0,0,0,1
 Russia,22 Ural Federal,0,1,0,0,1
 Russia,220 T-72B3,12,2,0,0,14
 Russia,220mm BM-27 'Uragan',8,5,0,0,13
-Russia,220mm BM-27 Uragan,36,6,0,1,43
+Russia,220mm BM-27 Uragan,37,6,0,1,44
 Russia,220mm TOS-1A,4,7,1,4,16
 Russia,221 T-72B3,0,0,0,1,1
 Russia,221 T-80BV,2,0,0,1,3
@@ -1198,6 +1200,7 @@ Russia,308 T-80BV,1,0,0,0,1
 Russia,309 T-72B3,1,0,0,0,1
 Russia,31 120mm 2S9 Nona,1,0,0,0,1
 Russia,31 152mm 2S33 Msta-SM2,1,0,0,0,1
+Russia,31 152mm 2S5 Giatsint-S,1,0,0,0,1
 Russia,31 9P149 Shturm-S,1,0,0,0,1
 Russia,31 9T452 transporter-loader (for BM-27 'Uragan' MRL),1,0,0,0,1
 Russia,31 BREM-1 armoured recovery vehicle,0,0,1,1,2
@@ -1604,6 +1607,7 @@ Russia,498 Ural-4320,0,1,0,0,1
 Russia,499 BMP-2(K),1,1,0,0,2
 Russia,5 'Orlan-20' ''Kartograf'' reconnaissance UAV,1,0,0,0,1
 Russia,5 100mm MT-12 anti-tank gun,0,2,0,0,2
+Russia,5 122mm 9P138 Grad-1,1,0,0,0,1
 Russia,5 203mm 2S7M Malka,1,0,0,0,1
 Russia,5 220mm TOS-1A,1,0,0,0,1
 Russia,5 2B9 Vasilek 82mm automatic gun mortar,1,4,0,0,5
@@ -2079,6 +2083,7 @@ Russia,73 Ural-4320 tanker,1,0,0,0,1
 Russia,731 KamAZ 6x6,7,0,0,0,7
 Russia,733 Ural-4320,7,0,0,1,8
 Russia,734 BMP-2(K),12,1,10,6,29
+Russia,734 Ural-4320,1,0,0,0,1
 Russia,737 BMP-2(K),5,1,0,0,6
 Russia,737 KamAZ 6x6,4,1,0,2,7
 Russia,739 KamAZ 6x6,2,0,0,0,2
@@ -2199,6 +2204,7 @@ Russia,80 T-80BVM,2,0,0,0,2
 Russia,80 T-80U,0,1,0,0,1
 Russia,80 Ural-43206,2,0,0,0,2
 Russia,800 KamAZ 6x6,10,0,0,0,10
+Russia,802 KamAZ 6x6,1,0,0,0,1
 Russia,803 BMP-2(K),5,0,0,1,6
 Russia,804 BMP-2(K),3,2,1,1,7
 Russia,805 BMP-2(K),1,0,0,0,1
@@ -2427,7 +2433,7 @@ Russia,9A317 TELAR (for Buk-M2),5,1,0,1,7
 Russia,9A330 Tor TLAR (for 9K330 Tor),2,5,0,8,15
 Russia,9A330 Tor TLAR (for 9K330 Tor-M),0,2,2,1,5
 Russia,9A331 TLAR (for 9K331 Tor-M1),7,1,1,0,9
-Russia,9A331M TLAR (for 9K332 Tor-M2),7,2,0,6,15
+Russia,9A331M TLAR (for 9K332 Tor-M2),8,2,0,6,16
 Russia,9A39M1 TEL (for Buk-M1-2),2,0,0,0,2
 Russia,9A39M1-2 TEL (for Buk-M1-2),5,0,0,0,5
 Russia,9A39M2 TEL (for Buk-M2),2,0,0,0,2
@@ -2628,7 +2634,7 @@ Russia,T-80UK,1,1,1,0,3
 Russia,T-80UM2,1,0,0,0,1
 Russia,T-90A,27,13,6,2,48
 Russia,T-90M,2,0,1,0,3
-Russia,TMM-3 bridge layer,7,17,3,4,31
+Russia,TMM-3 bridge layer,8,17,3,4,32
 Russia,TZM-T reloader vehicle (for TOS-1A),4,6,2,0,12
 Russia,Takhion,1,1,0,0,2
 Russia,Takhion reconnaissance UAV,0,2,0,0,2
