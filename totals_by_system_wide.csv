@@ -968,7 +968,7 @@ Russia,24 Ural Federal,0,1,0,0,1
 Russia,24 ZiL-131,3,0,0,0,3
 Russia,240 T-72B3,1,3,0,0,4
 Russia,240 Unknown tank,5,0,0,0,5
-Russia,240mm 2S4 Tyulpan,14,0,0,3,17
+Russia,240mm 2S4 Tyulpan,15,0,0,3,18
 Russia,242 Unknown tank,4,0,1,2,7
 Russia,243 BMP-1(P),2,2,0,0,4
 Russia,243 BTR-82A(M),2,2,0,0,4
@@ -1242,7 +1242,7 @@ Russia,317 BMP-1(P),3,0,0,0,3
 Russia,317 T-72B3,3,0,0,0,3
 Russia,318 T-72B3,1,0,0,0,1
 Russia,319 BMP-1(P),7,0,0,0,7
-Russia,319 T-72B3,2,0,1,1,4
+Russia,319 T-72B3,2,1,1,1,5
 Russia,32 122mm 2S1 Gvozdika,2,1,0,0,3
 Russia,32 122mm D-30 howitzer,1,2,0,0,3
 Russia,32 9P149 Shturm-S,0,1,0,0,1
@@ -1540,6 +1540,7 @@ Russia,440 BMP-1(P),17,0,0,0,17
 Russia,440 BTR-82A(M),1,0,0,0,1
 Russia,440 KamAZ 6x6,1,2,0,0,3
 Russia,440 Ural-4320,0,1,0,1,2
+Russia,441 BMP-1(P),1,0,0,0,1
 Russia,441 BTR-82A(M),4,0,0,0,4
 Russia,441 Ural-4320,0,1,0,0,1
 Russia,442 KamAZ 6x6,1,0,0,0,1
