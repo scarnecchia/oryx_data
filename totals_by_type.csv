@@ -1,21 +1,21 @@
 country,equipment_type,destroyed,abandoned,captured,damaged,type_total
-Russia,All Types,7654,418,2853,431,11356
-Russia,Tanks,1376,116,549,121,2162
-Russia,Armoured Fighting Vehicles,601,35,267,25,928
+Russia,All Types,7662,418,2853,432,11365
+Russia,Tanks,1377,116,549,122,2164
+Russia,Armoured Fighting Vehicles,603,35,267,25,930
 Russia,Infantry Fighting Vehicles,1730,135,604,97,2566
 Russia,Armoured Personnel Carriers,223,14,90,9,336
 Russia,Mine-Resistant Ambush Protected,32,1,9,4,46
 Russia,Infantry Mobility Vehicles,139,2,51,6,198
 Russia,Command Posts And Communications Stations,157,3,83,1,244
-Russia,Engineering Vehicles And Equipment,152,38,125,8,323
-Russia,Self-Propelled Anti-Tank Missile Systems,16,4,19,1,40
+Russia,Engineering Vehicles And Equipment,155,38,125,8,326
+Russia,Self-Propelled Anti-Tank Missile Systems,17,4,19,1,41
 Russia,Artillery Support Vehicles And Equipment,51,1,51,0,103
 Russia,Towed Artillery,140,5,96,20,261
 Russia,Self-Propelled Artillery,322,7,106,28,463
 Russia,Multiple Rocket Launchers,177,2,53,14,246
 Russia,Anti-Aircraft Guns,3,0,14,0,17
 Russia,Self-Propelled Anti-Aircraft Guns,13,2,8,1,24
-Russia,Surface-To-Air Missile Systems,87,4,24,17,132
+Russia,Surface-To-Air Missile Systems,88,4,24,17,133
 Russia,Radars,26,0,9,4,39
 Russia,Jammers And Deception Systems,33,0,7,4,44
 Russia,Aircraft,76,0,0,8,84
@@ -24,15 +24,15 @@ Russia,Unmanned Combat Aerial Vehicles,10,0,2,0,12
 Russia,Reconnaissance Unmanned Aerial Vehicles,145,0,119,0,264
 Russia,Naval Ships,8,0,0,4,12
 Russia,"Trucks, Vehicles, and Jeeps",2042,51,568,50,2711
-Ukraine,All Types,2626,142,928,290,3986
-Ukraine,Tanks,369,29,141,47,586
-Ukraine,Armoured Fighting Vehicles,207,8,80,4,299
-Ukraine,Infantry Fighting Vehicles,454,45,113,40,652
-Ukraine,Armoured Personnel Carriers,177,20,90,22,309
+Ukraine,All Types,2650,141,930,297,4018
+Ukraine,Tanks,370,29,141,48,588
+Ukraine,Armoured Fighting Vehicles,209,8,80,4,301
+Ukraine,Infantry Fighting Vehicles,455,46,113,40,654
+Ukraine,Armoured Personnel Carriers,180,20,90,22,312
 Ukraine,Mine-Resistant Ambush Protected,87,14,8,17,126
-Ukraine,Infantry Mobility Vehicles,192,6,115,28,341
+Ukraine,Infantry Mobility Vehicles,193,6,115,28,342
 Ukraine,Command Posts And Communications Stations,12,0,4,0,16
-Ukraine,Engineering Vehicles And Equipment,36,4,25,7,72
+Ukraine,Engineering Vehicles And Equipment,36,4,25,8,73
 Ukraine,Self-Propelled Anti-Tank Missile Systems,8,1,12,0,21
 Ukraine,Artillery Support Vehicles And Equipment,10,0,13,0,23
 Ukraine,Towed Artillery,80,2,18,40,140
@@ -44,9 +44,9 @@ Ukraine,"Surface-To-Air Missile Systems
 ",98,1,6,12,117
 Ukraine,Radars And Communications Equipment,50,1,11,7,69
 Ukraine,Jammers And Deception Systems,3,0,1,0,4
-Ukraine,Aircraft,67,0,1,0,68
+Ukraine,Aircraft,68,0,1,0,69
 Ukraine,Helicopters,26,0,3,2,31
 Ukraine,Unmanned Combat Aerial Vehicles,25,0,0,0,25
 Ukraine,Reconnaissance Unmanned Aerial Vehicles,77,0,54,0,131
 Ukraine,Naval Ships,9,0,16,1,26
-Ukraine,"Trucks, Vehicles, and Jeeps",489,8,179,18,694
+Ukraine,"Trucks, Vehicles, and Jeeps",490,9,179,18,696
