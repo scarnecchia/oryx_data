@@ -484,6 +484,7 @@ Russia,14 152mm 2A36 Giatsint-B,1,0,0,0,1
 Russia,14 1V13(M) battery fire control center,0,1,0,0,1
 Russia,14 1V14 battery command and forward observer vehicle,1,0,0,0,1
 Russia,14 23mm ZU-23-2,1,0,0,0,1
+Russia,14 9A310M1-2 TELAR (for Buk-M1-2),1,0,0,0,1
 Russia,14 BMP-2M,1,0,0,0,1
 Russia,14 BRM-1K reconnaissance vehicle,1,0,0,0,1
 Russia,14 IMR-2(M) combat engineering vehicle,2,1,0,1,4
@@ -1407,7 +1408,7 @@ Russia,370 BMP-1(P),5,1,0,0,6
 Russia,370 BTR-82A(M),0,0,1,1,2
 Russia,370 T-80BV,5,0,0,0,5
 Russia,371 BTR-82A(M),1,0,0,0,1
-Russia,371 T-80BV,2,0,0,0,2
+Russia,371 T-80BV,3,0,0,0,3
 Russia,372 BMP-1(P),0,0,1,1,2
 Russia,372 BTR-82A(M),1,0,0,0,1
 Russia,373 BTR-82A(M),7,1,0,0,8
@@ -2707,6 +2708,7 @@ Russia,Project 1171 Tapir class landing ship 'Saratov (BDK-65)',1,0,0,0,1
 Russia,Project 11770 Serna class landing craft,1,0,0,0,1
 Russia,Project 22870 SB-739 Vasily Bekh rescue tug,1,0,0,0,1
 Russia,Project 775 Ropucha class landing ship,0,0,0,1,1
+Russia,Project 775 Ropucha-class landing ship,0,0,0,1,1
 Russia,R-145BM1 command vehicle,4,2,0,0,6
 Russia,R-149AKSh-1 command and signals vehicle,4,0,0,0,4
 Russia,R-149MA1 command and staff vehicle,18,16,3,1,38
@@ -3449,6 +3451,7 @@ Ukraine,6 FMTV M1083A1P2,1,0,0,0,1
 Ukraine,6 HMMWV Ambulance,1,0,0,0,1
 Ukraine,6 Husky Tactical Support Vehicle,0,0,0,2,2
 Ukraine,6 KrAZ Cobra,1,0,0,0,1
+Ukraine,6 Leopard 2A4,1,0,0,0,1
 Ukraine,6 M113AS4,2,0,0,0,2
 Ukraine,6 Roshel Senator,0,0,0,1,1
 Ukraine,6 T-64BM 'Bulat',1,0,0,0,1
