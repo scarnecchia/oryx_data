@@ -2313,6 +2313,7 @@ Russia,Surface-To-Air Missile Systems,98,4,24,21,147,2023-08-16,2,0,0,1,3,0,0,0,
 Russia,Surface-To-Air Missile Systems,99,4,24,21,148,2023-08-17,1,0,0,0,1,0,0,0,0,0
 Russia,Surface-To-Air Missile Systems,100,4,24,21,149,2023-08-21,1,0,0,0,1,0,0,0,0,0
 Russia,Surface-To-Air Missile Systems,101,4,24,21,150,2023-08-23,1,0,0,0,1,0,0,0,0,0
+Russia,Surface-To-Air Missile Systems,102,4,24,21,151,2023-08-25,1,0,0,0,1,0,0,0,0,0
 Russia,Tanks,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Russia,Tanks,103,41,106,4,254,2022-03-19,103,41,106,4,254,103,41,106,4,254
 Russia,Tanks,128,42,126,4,300,2022-03-26,25,1,20,0,46,-78,-40,-86,-4,-208
@@ -4089,6 +4090,7 @@ Ukraine,Infantry Fighting Vehicles,481,49,115,44,689,2023-08-16,2,0,0,0,2,0,0,0,
 Ukraine,Infantry Fighting Vehicles,483,49,115,45,692,2023-08-17,2,0,0,1,3,0,0,0,0,0
 Ukraine,Infantry Fighting Vehicles,488,49,115,45,697,2023-08-21,5,0,0,0,5,0,0,0,0,0
 Ukraine,Infantry Fighting Vehicles,491,49,115,45,700,2023-08-24,3,0,0,0,3,0,0,0,0,0
+Ukraine,Infantry Fighting Vehicles,490,49,115,45,699,2023-08-25,-1,0,0,0,-1,0,0,0,0,0
 Ukraine,Infantry Mobility Vehicles,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Ukraine,Infantry Mobility Vehicles,5,1,20,1,27,2022-03-19,5,1,20,1,27,5,1,20,1,27
 Ukraine,Infantry Mobility Vehicles,7,1,23,1,32,2022-03-26,2,0,3,0,5,-3,-1,-17,-1,-22
@@ -4346,6 +4348,7 @@ Ukraine,Mine-Resistant Ambush Protected,94,13,8,17,132,2023-08-06,1,-2,0,0,-1,0,
 Ukraine,Mine-Resistant Ambush Protected,95,13,8,17,133,2023-08-12,1,0,0,0,1,0,0,0,0,0
 Ukraine,Mine-Resistant Ambush Protected,96,13,8,18,135,2023-08-17,1,0,0,1,2,0,0,0,0,0
 Ukraine,Mine-Resistant Ambush Protected,96,14,8,22,140,2023-08-21,0,1,0,4,5,0,0,0,0,0
+Ukraine,Mine-Resistant Ambush Protected,97,14,8,22,141,2023-08-25,1,0,0,0,1,0,0,0,0,0
 Ukraine,Multiple Rocket Launchers,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Ukraine,Multiple Rocket Launchers,0,0,0,0,0,2022-03-19,0,0,0,0,0,0,0,0,0,0
 Ukraine,Multiple Rocket Launchers,1,0,0,0,1,2022-03-26,1,0,0,0,1,1,0,0,0,1
