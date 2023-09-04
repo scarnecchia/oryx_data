@@ -1,8 +1,8 @@
 country,equipment_type,destroyed,abandoned,captured,damaged,type_total
-Russia,All Types,8151,445,2869,476,11941
-Russia,Tanks,1474,131,549,129,2283
+Russia,All Types,8157,445,2869,478,11949
+Russia,Tanks,1476,131,549,129,2285
 Russia,Armoured Fighting Vehicles,629,37,267,26,959
-Russia,Infantry Fighting Vehicles,1850,145,609,110,2714
+Russia,Infantry Fighting Vehicles,1851,145,609,110,2715
 Russia,Armoured Personnel Carriers,231,15,91,9,346
 Russia,Mine-Resistant Ambush Protected,33,1,9,4,47
 Russia,Infantry Mobility Vehicles,145,2,51,6,204
@@ -10,7 +10,7 @@ Russia,Command Posts And Communications Stations,163,2,82,2,249
 Russia,Engineering Vehicles And Equipment,168,38,125,9,340
 Russia,Self-Propelled Anti-Tank Missile Systems,17,4,19,1,41
 Russia,Artillery Support Vehicles And Equipment,53,2,52,0,107
-Russia,Towed Artillery,167,5,96,25,293
+Russia,Towed Artillery,167,5,96,26,294
 Russia,Self-Propelled Artillery,366,7,107,30,510
 Russia,Multiple Rocket Launchers,190,2,52,15,259
 Russia,Anti-Aircraft Guns,3,0,14,0,17
@@ -18,16 +18,16 @@ Russia,Self-Propelled Anti-Aircraft Guns,14,2,8,1,25
 Russia,Surface-To-Air Missile Systems,102,4,24,21,151
 Russia,Radars,29,0,9,4,42
 Russia,Jammers And Deception Systems,41,0,7,6,54
-Russia,Aircraft,81,0,0,7,88
-Russia,Helicopters,90,0,2,12,104
+Russia,Aircraft,81,0,0,8,89
+Russia,Helicopters,91,0,2,12,105
 Russia,Unmanned Combat Aerial Vehicles,11,0,3,0,14
 Russia,Reconnaissance Unmanned Aerial Vehicles,158,0,123,0,281
-Russia,Naval Ships,8,0,0,5,13
-Russia,"Trucks, Vehicles, and Jeeps",2124,51,569,51,2795
-Ukraine,All Types,2916,149,944,331,4340
+Russia,Naval Ships,9,0,0,5,14
+Russia,"Trucks, Vehicles, and Jeeps",2125,51,569,51,2796
+Ukraine,All Types,2917,149,944,331,4341
 Ukraine,Tanks,408,31,143,52,634
 Ukraine,Armoured Fighting Vehicles,225,8,80,5,318
-Ukraine,Infantry Fighting Vehicles,514,50,115,48,727
+Ukraine,Infantry Fighting Vehicles,515,50,115,48,728
 Ukraine,Armoured Personnel Carriers,196,20,91,25,332
 Ukraine,Mine-Resistant Ambush Protected,105,17,8,22,152
 Ukraine,Infantry Mobility Vehicles,217,6,114,28,365
