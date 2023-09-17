@@ -552,6 +552,7 @@ Russia,142 Unknown tank,2,0,0,0,2
 Russia,142 Ural-43206,1,0,0,0,1
 Russia,143 152mm 2S19 Msta-S,1,0,0,0,1
 Russia,143 MT-LBVM and MT-LBVMK,1,2,0,0,3
+Russia,143 Ural-43206,1,0,0,0,1
 Russia,144 122mm BM-21 Grad,1,0,0,1,2
 Russia,144 BMP-1(P),1,4,0,1,6
 Russia,144 BTR-80,2,0,0,0,2
@@ -621,7 +622,7 @@ Russia,152mm 2A36 Giatsint-B field-gun,7,1,0,2,10
 Russia,152mm 2A65 Msta-B howitzer,13,12,1,5,31
 Russia,152mm 2S19 Msta-S,33,30,14,3,80
 Russia,152mm 2S3 Akatsiya,18,7,6,2,33
-Russia,152mm 2S3(M) Akatsiya,45,3,0,3,51
+Russia,152mm 2S3(M) Akatsiya,46,3,0,3,52
 Russia,152mm 2S33 Msta-SM2,0,9,0,0,9
 Russia,152mm D-20 gun-howitzer,12,2,0,4,18
 Russia,153 122mm BM-21 Grad,2,0,0,0,2
@@ -2796,8 +2797,9 @@ Russia,9<U+041C>133 Kornet,0,1,0,0,1
 Russia,9A310M1 TELAR (for Buk-M1-2),2,0,0,1,3
 Russia,9A310M1-2 TELAR (for Buk-M1-2),3,0,0,0,3
 Russia,9A310M2 TELAR (for Buk-M2),5,0,0,0,5
-Russia,9A316 TEL (for Buk-M2),1,3,0,0,4
+Russia,9A316 TEL (for Buk-M2),2,3,0,0,5
 Russia,9A317 TELAR (for Buk-M2),5,1,0,1,7
+Russia,9A317M TELAR (for Buk-M3),1,0,0,0,1
 Russia,9A330 Tor TLAR (for 9K330 Tor),2,5,0,8,15
 Russia,9A330 Tor TLAR (for 9K330 Tor-M),0,2,2,1,5
 Russia,9A331 TLAR (for 9K331 Tor-M1),8,1,1,0,10
@@ -2805,6 +2807,8 @@ Russia,9A331M TLAR (for 9K332 Tor-M2),8,2,0,7,17
 Russia,9A39M1 TEL (for Buk-M1-2),2,0,0,0,2
 Russia,9A39M1-2 TEL (for Buk-M1-2),5,0,0,0,5
 Russia,9A39M2 TEL (for Buk-M2),2,0,0,0,2
+Russia,9A83M2 (launcher for S-300V4),1,0,0,0,1
+Russia,9A84-2 (launcher for S-300V4),1,0,0,0,1
 Russia,9K33 Osa,8,3,2,3,16
 Russia,9K333 Verba,0,1,0,0,1
 Russia,9K35 Strela-10,22,5,3,3,33
@@ -4065,7 +4069,7 @@ Ukraine,Leopard 2A4,1,0,0,0,1
 Ukraine,Leopard 2A6,4,0,4,5,13
 Ukraine,Leopard 2R mine-clearing tank,1,0,2,1,4
 Ukraine,M-55S,2,0,0,1,3
-Ukraine,M1114 and M1151 HMMWV,56,9,3,12,80
+Ukraine,M1114 and M1151 HMMWV,56,9,3,13,81
 Ukraine,M1126 Stryker,3,0,0,0,3
 Ukraine,M113G3DK/G4DK,0,0,1,0,1
 Ukraine,M1152 HMMWV,8,0,0,0,8
@@ -4180,6 +4184,7 @@ Ukraine,Unknown BTR,3,0,2,0,5
 Ukraine,Unknown IMV,5,0,0,1,6
 Ukraine,Unknown SPG,10,0,0,1,11
 Ukraine,Unknown T-72,12,0,1,1,14
+Ukraine,Unknown counter mortar/battery radar,0,0,0,1,1
 Ukraine,Unknown fighter aircraft,1,0,0,0,1
 Ukraine,Unknown reconnaissance UAV,5,0,0,0,5
 Ukraine,Unknown tank,44,1,0,1,46
