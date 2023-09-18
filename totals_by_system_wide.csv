@@ -1441,6 +1441,7 @@ Russia,34 Unknown BTR-80/BTR-82A,1,0,0,0,1
 Russia,34 Ural Federal,0,1,0,0,1
 Russia,340 BMP-1(P),2,1,0,0,3
 Russia,340 BTR-82A(M),3,0,0,0,3
+Russia,341 T-72B3,2,0,0,0,2
 Russia,341 Ural-4320,5,1,0,2,8
 Russia,342 BMP-1(P),2,0,0,0,2
 Russia,342 BTR-82A(M),1,1,0,0,2
@@ -1841,6 +1842,7 @@ Russia,49 T-80BVM,0,1,0,1,2
 Russia,49 Unknown BTR-80/BTR-82A,1,0,0,0,1
 Russia,490 BMP-1(P),3,0,2,2,7
 Russia,490 Ural-4320,2,1,0,0,3
+Russia,492 BTR-82A(M),3,0,0,0,3
 Russia,492 Ural-4320,2,0,0,0,2
 Russia,493 Ural-4320,1,0,0,0,1
 Russia,494 BMP-1(P),3,0,0,0,3
@@ -2161,6 +2163,7 @@ Russia,64 122mm D-30 howitzer,2,0,0,0,2
 Russia,64 152mm 2S3(M) Akatsiya,0,1,0,0,1
 Russia,64 BMD-4M,3,0,0,0,3
 Russia,64 R-149MA1 command and staff vehicle,2,0,0,0,2
+Russia,64 T-62M,1,0,0,0,1
 Russia,64 T-80BVM,2,1,0,0,3
 Russia,641 Ural-4320,2,0,0,0,2
 Russia,642 BMP-2(K),7,0,0,0,7
@@ -2775,6 +2778,7 @@ Russia,97 Unknown T-72,1,0,0,0,1
 Russia,97 Ural-4320 tanker,2,1,0,0,3
 Russia,97 Ural-43206,2,0,0,0,2
 Russia,970 BMP-2(K),2,0,1,1,4
+Russia,971 BMP-2(K),1,0,0,0,1
 Russia,98 122mm BM-21 Grad,1,1,0,0,2
 Russia,98 BTR-80,0,1,0,0,1
 Russia,98 GAZ Tigr-M,3,0,0,0,3
@@ -2797,9 +2801,9 @@ Russia,9<U+041C>133 Kornet,0,1,0,0,1
 Russia,9A310M1 TELAR (for Buk-M1-2),2,0,0,1,3
 Russia,9A310M1-2 TELAR (for Buk-M1-2),3,0,0,0,3
 Russia,9A310M2 TELAR (for Buk-M2),5,0,0,0,5
-Russia,9A316 TEL (for Buk-M2),2,3,0,0,5
-Russia,9A317 TELAR (for Buk-M2),5,1,0,1,7
-Russia,9A317M TELAR (for Buk-M3),1,0,0,0,1
+Russia,9A316 TEL (for Buk-M2),3,3,0,0,6
+Russia,9A317 TELAR (for Buk-M2),6,1,0,1,8
+Russia,9A317M TELAR (for Buk-M3),3,0,0,0,3
 Russia,9A330 Tor TLAR (for 9K330 Tor),2,5,0,8,15
 Russia,9A330 Tor TLAR (for 9K330 Tor-M),0,2,2,1,5
 Russia,9A331 TLAR (for 9K331 Tor-M1),8,1,1,0,10
@@ -2811,7 +2815,7 @@ Russia,9A83M2 (launcher for S-300V4),1,0,0,0,1
 Russia,9A84-2 (launcher for S-300V4),1,0,0,0,1
 Russia,9K33 Osa,8,3,2,3,16
 Russia,9K333 Verba,0,1,0,0,1
-Russia,9K35 Strela-10,22,5,3,3,33
+Russia,9K35 Strela-10,22,5,3,4,34
 Russia,9K38 Igla,0,4,0,0,4
 Russia,9M111 Fagot,0,3,0,0,3
 Russia,9M113 Konkurs,0,15,0,0,15
@@ -2852,10 +2856,10 @@ Russia,BMP-2(K),136,104,7,17,264
 Russia,BMP-2K,0,0,1,0,1
 Russia,BMP-2M,1,1,0,0,2
 Russia,BMP-2M Berezhok,2,1,0,0,3
-Russia,BMP-3,232,74,23,43,372
+Russia,BMP-3,233,74,23,43,373
 Russia,BMP-3 688M sb. 3KDZ,7,1,3,6,17
 Russia,BRDM-2,1,0,0,0,1
-Russia,BREM-1 armoured recovery vehicle,5,12,4,0,21
+Russia,BREM-1 armoured recovery vehicle,7,12,4,0,23
 Russia,BREM-2 armoured recovery vehicle,0,1,0,0,1
 Russia,BREM-Ch ''BREM-4'' armoured recovery vehicle,4,1,1,0,6
 Russia,BREM-K armoured recovery vehicle,0,3,0,0,3
@@ -3005,13 +3009,13 @@ Russia,T-62M Obr. 2022,1,0,0,0,1
 Russia,T-64BV,32,7,2,3,44
 Russia,T-72A,22,17,5,5,49
 Russia,T-72AV,7,3,0,0,10
-Russia,T-72B,229,91,29,28,377
+Russia,T-72B,229,92,29,29,379
 Russia,T-72B Obr. 1989,47,29,6,6,88
 Russia,T-72B Obr. 2022,1,0,0,0,1
 Russia,T-72B3,127,92,13,18,250
-Russia,T-72B3 Obr. 2016,156,132,13,25,326
+Russia,T-72B3 Obr. 2016,157,132,13,25,327
 Russia,T-72BA,0,3,0,0,3
-Russia,T-80BV,35,16,7,5,63
+Russia,T-80BV,37,16,7,5,65
 Russia,T-80BVM,17,22,1,2,42
 Russia,T-80BVM Obr. 2022,1,0,0,0,1
 Russia,T-80U,34,43,18,5,100
@@ -3042,6 +3046,7 @@ Russia,Unknown AFV,185,2,6,11,204
 Russia,Unknown BMP-1/2,46,0,2,5,53
 Russia,Unknown BTR-80/BTR-82A,25,0,3,1,29
 Russia,Unknown BTR-D/BMD-2,30,1,0,0,31
+Russia,Unknown Buk M1-2/M2/M3 TEL(AR),1,0,0,0,1
 Russia,Unknown Buk SAM system,4,0,0,0,4
 Russia,Unknown Buk TEL(AR),3,0,0,1,4
 Russia,Unknown MRL,1,0,0,0,1
