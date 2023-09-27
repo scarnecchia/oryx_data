@@ -633,7 +633,7 @@ Russia,152mm 2S19 Msta-S,33,30,14,3,80
 Russia,152mm 2S3 Akatsiya,18,7,6,2,33
 Russia,152mm 2S3(M) Akatsiya,48,3,0,3,54
 Russia,152mm 2S33 Msta-SM2,0,9,0,0,9
-Russia,152mm D-20 gun-howitzer,12,2,0,4,18
+Russia,152mm D-20 gun-howitzer,13,2,0,4,19
 Russia,153 122mm BM-21 Grad,2,0,0,0,2
 Russia,153 BTR-80,2,0,0,0,2
 Russia,153 MT-LBVM and MT-LBVMK,1,1,0,0,2
@@ -670,6 +670,7 @@ Russia,159 122mm BM-21 Grad,2,0,0,0,2
 Russia,159 BTR-80,2,0,0,0,2
 Russia,159 T-80BV,0,2,0,1,3
 Russia,159 Ural-4320 tanker,1,0,0,0,1
+Russia,16 'Orlan-20' ''Kartograf'',1,0,0,0,1
 Russia,16 100mm MT-12 anti-tank gun,0,1,0,0,1
 Russia,16 122mm 2B17 Tornado-G,1,0,0,1,2
 Russia,16 152mm 2A36 Giatsint-B,1,0,0,0,1
@@ -1099,7 +1100,7 @@ Russia,247 T-72B3,2,0,0,0,2
 Russia,247 Unknown tank,0,0,0,1,1
 Russia,248 BMP-1(P),2,0,0,0,2
 Russia,248 T-72B3,1,0,0,0,1
-Russia,25 100mm MT-12 anti-tank gun,1,0,0,1,2
+Russia,25 100mm MT-12 anti-tank gun,2,0,0,1,3
 Russia,25 120mm 2S9 Nona,1,0,0,0,1
 Russia,25 152mm 2A36 Giatsint-B,1,0,0,0,1
 Russia,25 152mm 2S33 Msta-SM2,1,0,0,0,1
@@ -3059,6 +3060,7 @@ Russia,T-72B Obr. 1989,47,29,6,6,88
 Russia,T-72B Obr. 2022,1,0,0,0,1
 Russia,T-72B3,127,92,13,18,250
 Russia,T-72B3 Obr. 2016,159,132,13,25,329
+Russia,T-72B3 Obr. 2022,1,0,0,0,1
 Russia,T-72BA,0,3,0,0,3
 Russia,T-80BV,41,16,7,5,69
 Russia,T-80BVM,17,22,1,2,42
@@ -3130,7 +3132,7 @@ Russia,Ural-542301 tank transporter,0,1,1,0,2
 Russia,Ural-63704-0010 Tornado-U,0,2,1,0,3
 Russia,Vityaz DT-10PM articulated tracked carrier,1,0,0,0,1
 Russia,Vityaz DT-30 articulated tracked carrier,1,3,1,2,7
-Russia,ZALA 421-16Е,12,3,0,0,15
+Russia,ZALA 421-16Е,13,3,0,0,16
 Russia,ZALA 421-16Е2,8,6,0,0,14
 Russia,ZALA 421-16Е2 reconnaissance UAV,2,3,0,0,5
 Russia,ZALA Aero KUB-BLA loitering munition,7,0,0,0,7
@@ -3579,6 +3581,7 @@ Ukraine,26 BTR-7,1,0,0,0,1
 Ukraine,26 KrAZ-6322,3,0,0,0,3
 Ukraine,26 M113,1,0,0,2,3
 Ukraine,26 Mastiff Protected Patrol,0,0,1,1,2
+Ukraine,26 Mi-8 transport helicopter,2,0,0,0,2
 Ukraine,26 T-80BV,1,0,0,0,1
 Ukraine,26 UAZ-452 van,2,0,0,0,2
 Ukraine,26 Unknown AFV,13,0,0,0,13
@@ -4151,7 +4154,7 @@ Ukraine,MT-LB-S Ambulance,5,0,0,0,5
 Ukraine,MT-LBu,2,3,1,1,7
 Ukraine,Malloy Aeronautics T150 cargo UAV,0,2,0,0,2
 Ukraine,Mamba,0,1,0,0,1
-Ukraine,Marder 1A3,0,0,1,1,2
+Ukraine,Marder 1A3,1,0,1,1,3
 Ukraine,Mercedes-Benz Unimog U1300L ambulance,1,0,0,0,1
 Ukraine,Mi-14 maritime helicopter,1,0,0,0,1
 Ukraine,Mi-14PS maritime helicopter,1,0,0,0,1
