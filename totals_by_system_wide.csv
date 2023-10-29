@@ -559,6 +559,7 @@ Russia,14 R-149AKSh-1 command and signals vehicle,1,0,0,0,1
 Russia,14 T-62MV,0,1,0,0,1
 Russia,14 T-72BA,1,0,0,0,1
 Russia,14 T-90M,3,0,0,0,3
+Russia,14 UAZ-39094,1,0,0,0,1
 Russia,14 UAZ-452 van,0,1,0,0,1
 Russia,14 Ural-63704-0010 Tornado-U,1,0,0,0,1
 Russia,140 122mm BM-21 Grad,1,0,0,0,1
@@ -2810,6 +2811,7 @@ Russia,89 Ural-43206,1,0,0,0,1
 Russia,891 KamAZ 6x6,7,0,0,1,8
 Russia,892 BMP-2(K),5,0,0,0,5
 Russia,893 KamAZ 6x6,2,0,0,0,2
+Russia,894 KamAZ 6x6,1,0,0,0,1
 Russia,896 BMP-2(K),2,0,1,1,4
 Russia,897 BMP-2(K),1,0,0,0,1
 Russia,9 'Orlan-20' ''Kartograf'',1,0,0,0,1
@@ -3005,7 +3007,7 @@ Russia,9A83M2 (launcher for S-300V4),1,0,0,0,1
 Russia,9A84-2 (launcher for S-300V4),1,0,0,0,1
 Russia,9K33 Osa,9,3,2,3,17
 Russia,9K333 Verba,0,1,0,0,1
-Russia,9K35 Strela-10,25,5,3,4,37
+Russia,9K35 Strela-10,26,5,3,4,38
 Russia,9K38 Igla,0,4,0,0,4
 Russia,9M111 Fagot,0,3,0,0,3
 Russia,9M113 Konkurs,0,15,0,0,15
@@ -3049,8 +3051,8 @@ Russia,BMP-2M Berezhok,6,1,0,0,7
 Russia,BMP-3,250,74,23,43,390
 Russia,BMP-3 688M sb. 3KDZ,8,1,3,6,18
 Russia,BRDM-2,1,0,0,0,1
-Russia,BRDM-2M/A,1,0,0,0,1
-Russia,BREM-1 armoured recovery vehicle,11,12,5,1,29
+Russia,BRDM-2M/A,2,0,0,0,2
+Russia,BREM-1 armoured recovery vehicle,12,12,5,1,30
 Russia,BREM-2 armoured recovery vehicle,0,1,0,0,1
 Russia,BREM-Ch ''BREM-4'' armoured recovery vehicle,4,1,1,0,6
 Russia,BREM-K armoured recovery vehicle,0,3,0,0,3
@@ -3072,7 +3074,7 @@ Russia,Barnaul-T 9<U+0421>932-1 automated system for air defence units,0,4,1,0,5
 Russia,Barnaul-T 9С932-1 automated system for air defence units,2,0,0,0,2
 Russia,Civilian KamAZ 6x6 converted for military use,1,0,0,0,1
 Russia,E95M target drone (likely used as unmanned bait in order for Ukraine to reveal the location of air defence systems),0,3,0,0,3
-Russia,Eleron-3,8,10,0,0,18
+Russia,Eleron-3,9,10,0,0,19
 Russia,Eleron-3 reconnaissance UAV,2,13,0,0,15
 Russia,Fara ground surveillance radar,0,1,0,0,1
 Russia,Forpost,1,0,0,0,1
@@ -3265,7 +3267,7 @@ Russia,Unknown towed artillery,7,0,0,2,9
 Russia,Unknown truck,101,12,2,4,119
 Russia,Ural Federal,12,3,3,0,18
 Russia,Ural-375D,2,0,0,0,2
-Russia,Ural-4320,205,93,16,6,320
+Russia,Ural-4320,206,93,16,6,321
 Russia,Ural-4320 KET-L,0,1,0,1,2
 Russia,Ural-4320 KET-L recovery vehicle,1,2,0,0,3
 Russia,Ural-4320 KT-L,1,2,0,0,3
