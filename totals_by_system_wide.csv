@@ -260,6 +260,7 @@ Russia,107 BMP-1(P),0,2,0,0,2
 Russia,107 KamAZ 6x6 tanker,2,0,0,0,2
 Russia,107 MT-LBVM and MT-LBVMK,0,1,0,0,1
 Russia,107 T-80BV,2,0,0,0,2
+Russia,107 T-80BVM,1,0,0,0,1
 Russia,107 Unknown BMP-1/2,1,0,0,0,1
 Russia,107 Ural-43206,2,0,0,0,2
 Russia,108 122mm BM-21 Grad,1,0,0,0,1
@@ -3087,6 +3088,7 @@ Russia,967 BMP-2(K),3,0,0,0,3
 Russia,97 152mm 2A65 Msta-B howitzer,1,0,0,0,1
 Russia,97 152mm 2S19 Msta-S,1,1,0,0,2
 Russia,97 BTR-80,0,2,0,0,2
+Russia,97 T-72B Obr. 1989,0,0,1,1,2
 Russia,97 T-80BV,3,0,0,0,3
 Russia,97 T-80BVM,1,0,0,0,1
 Russia,97 T-80U,1,0,0,0,1
@@ -3347,7 +3349,7 @@ Russia,T-62M Obr. 2022,2,0,1,1,4
 Russia,T-64BV,32,7,2,3,44
 Russia,T-72A,22,17,5,5,49
 Russia,T-72AV,7,3,0,0,10
-Russia,T-72B,247,92,36,32,407
+Russia,T-72B,248,92,36,32,408
 Russia,T-72B Obr. 1989,47,29,6,6,88
 Russia,T-72B Obr. 2022,15,0,10,12,37
 Russia,T-72B3,127,92,13,18,250
