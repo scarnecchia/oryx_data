@@ -943,6 +943,7 @@ Russia,Armoured Personnel Carriers,251,17,92,13,373,2023-12-01,0,-1,0,0,-1,0,0,0
 Russia,Armoured Personnel Carriers,252,17,92,14,375,2023-12-04,1,0,0,1,2,0,0,0,0,0
 Russia,Armoured Personnel Carriers,256,17,92,14,379,2023-12-08,4,0,0,0,4,0,0,0,0,0
 Russia,Armoured Personnel Carriers,257,19,92,14,382,2023-12-10,1,2,0,0,3,0,0,0,0,0
+Russia,Armoured Personnel Carriers,258,19,92,14,383,2023-12-12,1,0,0,0,1,0,0,0,0,0
 Russia,Artillery Support Vehicles And Equipment,28,2,23,0,53,2022-08-14,0,0,0,0,0,0,0,0,0,0
 Russia,Artillery Support Vehicles And Equipment,29,2,24,0,55,2022-09-13,1,0,1,0,2,0,0,0,0,0
 Russia,Artillery Support Vehicles And Equipment,29,2,25,0,56,2022-09-14,0,0,1,0,1,0,0,0,0,0
@@ -1743,6 +1744,7 @@ Russia,Infantry Fighting Vehicles,2155,177,619,125,3076,2023-12-07,1,1,0,1,3,0,0
 Russia,Infantry Fighting Vehicles,2172,183,619,126,3100,2023-12-08,17,6,0,1,24,0,0,0,0,0
 Russia,Infantry Fighting Vehicles,2170,183,619,126,3098,2023-12-09,-2,0,0,0,-2,0,0,0,0,0
 Russia,Infantry Fighting Vehicles,2183,186,619,126,3114,2023-12-10,13,3,0,0,16,0,0,0,0,0
+Russia,Infantry Fighting Vehicles,2183,185,619,126,3113,2023-12-12,0,-1,0,0,-1,0,0,0,0,0
 Russia,"Infantry Fighting Vehicles (1849, of which destroyed: 1159, damaged: 40, abandoned: 81, cap",1159,81,0,40,1280,2022-12-26,0,0,0,0,0,0,0,0,0,0
 Russia,Infantry Mobility Vehicles,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Russia,Infantry Mobility Vehicles,29,5,16,2,52,2022-03-19,29,5,16,2,52,29,5,16,2,52
@@ -2146,6 +2148,7 @@ Russia,Multiple Rocket Launchers,234,2,53,24,313,2023-12-01,2,0,0,0,2,0,0,0,0,0
 Russia,Multiple Rocket Launchers,235,2,53,26,316,2023-12-04,1,0,0,2,3,0,0,0,0,0
 Russia,Multiple Rocket Launchers,236,2,53,26,317,2023-12-08,1,0,0,0,1,0,0,0,0,0
 Russia,Multiple Rocket Launchers,237,2,53,26,318,2023-12-10,1,0,0,0,1,0,0,0,0,0
+Russia,Multiple Rocket Launchers,238,2,53,26,319,2023-12-12,1,0,0,0,1,0,0,0,0,0
 Russia,Naval Ships,1,0,0,0,1,2022-03-26,0,0,0,0,0,0,0,0,0,0
 Russia,Naval Ships,1,0,0,0,1,2022-03-27,0,0,0,0,0,0,0,0,0,0
 Russia,Naval Ships,1,0,0,2,3,2022-03-29,0,0,0,2,2,0,0,0,2,2
@@ -3081,6 +3084,7 @@ Russia,Tanks,1649,176,548,140,2513,2023-12-04,3,0,0,0,3,0,0,0,0,0
 Russia,Tanks,1656,182,548,141,2527,2023-12-08,7,6,0,1,14,0,0,0,0,0
 Russia,Tanks,1652,181,548,141,2522,2023-12-09,-4,-1,0,0,-5,0,0,0,0,0
 Russia,Tanks,1654,183,548,141,2526,2023-12-10,2,2,0,0,4,0,0,0,0,0
+Russia,Tanks,1657,183,548,141,2529,2023-12-12,3,0,0,0,3,0,0,0,0,0
 Russia,Towed Artillery,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Russia,Towed Artillery,4,5,23,2,34,2022-03-19,4,5,23,2,34,4,5,23,2,34
 Russia,Towed Artillery,8,5,26,2,41,2022-03-26,4,0,3,0,7,0,-5,-20,-2,-27
