@@ -1,11 +1,11 @@
 country,equipment_type,destroyed,abandoned,captured,damaged,type_total
-Russia,All Types,9299,564,2906,601,13370
-Russia,Tanks,1657,183,548,141,2529
-Russia,Armoured Fighting Vehicles,731,49,270,30,1080
-Russia,Infantry Fighting Vehicles,2183,185,619,126,3113
-Russia,Armoured Personnel Carriers,258,19,92,14,383
-Russia,Mine-Resistant Ambush Protected,35,1,9,4,49
-Russia,Infantry Mobility Vehicles,163,4,51,10,228
+Russia,All Types,9349,585,2906,602,13442
+Russia,Tanks,1667,192,548,141,2548
+Russia,Armoured Fighting Vehicles,735,50,270,31,1086
+Russia,Infantry Fighting Vehicles,2202,199,619,125,3145
+Russia,Armoured Personnel Carriers,262,19,92,14,387
+Russia,Mine-Resistant Ambush Protected,36,1,9,4,50
+Russia,Infantry Mobility Vehicles,165,4,51,10,230
 Russia,Command Posts And Communications Stations,171,2,84,3,260
 Russia,Engineering Vehicles And Equipment,188,44,124,11,367
 Russia,Self-Propelled Anti-Tank Missile Systems,18,4,19,1,42
@@ -19,16 +19,16 @@ Russia,Surface-To-Air Missile Systems,131,4,24,30,189
 Russia,Radars,31,0,10,5,46
 Russia,Jammers And Deception Systems,47,0,7,10,64
 Russia,Aircraft,87,0,0,8,95
-Russia,Helicopters,102,0,2,28,132
+Russia,Helicopters,103,0,2,28,133
 Russia,Unmanned Combat Aerial Vehicles,11,0,3,0,14
 Russia,Reconnaissance Unmanned Aerial Vehicles,179,0,132,0,311
 Russia,Naval Ships and Submarines,12,0,0,7,19
-Russia,"Trucks, Vehicles, and Jeeps",2320,51,575,71,3017
-Ukraine,All Types,3287,187,953,377,4804
+Russia,"Trucks, Vehicles, and Jeeps",2324,51,575,71,3021
+Ukraine,All Types,3291,187,953,377,4808
 Ukraine,Tanks,468,39,133,57,697
-Ukraine,Armoured Fighting Vehicles,240,8,80,9,337
-Ukraine,Infantry Fighting Vehicles,576,54,114,47,791
-Ukraine,Armoured Personnel Carriers,229,31,93,25,378
+Ukraine,Armoured Fighting Vehicles,241,8,80,9,338
+Ukraine,Infantry Fighting Vehicles,577,54,114,47,792
+Ukraine,Armoured Personnel Carriers,230,31,93,25,379
 Ukraine,Mine-Resistant Ambush Protected,130,20,11,26,187
 Ukraine,Infantry Mobility Vehicles,247,7,114,32,400
 Ukraine,Command Posts And Communications Stations,14,0,4,0,18
@@ -47,6 +47,6 @@ Ukraine,Jammers And Deception Systems,3,0,1,1,5
 Ukraine,Aircraft,75,0,1,1,77
 Ukraine,Helicopters,32,0,3,1,36
 Ukraine,Unmanned Combat Aerial Vehicles,26,0,0,0,26
-Ukraine,Reconnaissance Unmanned Aerial Vehicles,132,0,75,1,208
+Ukraine,Reconnaissance Unmanned Aerial Vehicles,133,0,75,1,209
 Ukraine,Naval Ships,9,0,17,1,27
 Ukraine,"Trucks, Vehicles, and Jeeps",552,13,183,18,766
