@@ -262,7 +262,7 @@ Russia,107 BMP-1(P),0,2,0,0,2
 Russia,107 KamAZ 6x6 tanker,2,0,0,0,2
 Russia,107 MT-LBVM and MT-LBVMK,0,1,0,0,1
 Russia,107 T-80BV,2,0,0,0,2
-Russia,107 T-80BVM,1,0,0,0,1
+Russia,107 T-80BVM,2,0,0,0,2
 Russia,107 Unknown BMP-1/2,1,0,0,0,1
 Russia,107 Ural-43206,2,0,0,0,2
 Russia,108 122mm BM-21 Grad,1,0,0,0,1
@@ -1385,7 +1385,7 @@ Russia,283 T-80BV,1,0,1,1,3
 Russia,283 Unknown tank,1,0,0,0,1
 Russia,284 T-72B3,0,0,1,2,3
 Russia,284 T-80BV,0,1,0,0,1
-Russia,285 Unknown tank,7,0,1,1,9
+Russia,285 Unknown tank,7,0,2,1,10
 Russia,287 BMP-1(P),9,0,4,4,17
 Russia,287 T-72B3,2,0,1,1,4
 Russia,287 Unknown tank,2,0,1,0,3
@@ -2289,6 +2289,7 @@ Russia,582 BMP-2(K),1,1,0,0,2
 Russia,582 Ural-4320,1,1,0,0,2
 Russia,583 BMP-2(K),1,0,0,0,1
 Russia,585 BMP-2(K),0,2,0,0,2
+Russia,586 BTR-82A(M),3,0,0,0,3
 Russia,586 KamAZ 6x6,4,0,0,0,4
 Russia,587 BTR-82A(M),6,0,6,3,15
 Russia,588 BMP-2(K),1,1,0,0,2
@@ -3229,7 +3230,7 @@ Russia,BTR-D APC with UR-67 mine clearing charge,0,1,0,0,1
 Russia,BTR-MDM 'Rakushka',7,8,0,2,17
 Russia,BTR-MDM Rakushka,8,1,1,0,10
 Russia,BTR-ZD 'Skrezhet',1,2,0,0,3
-Russia,BTS-4A armoured recovery vehicle,0,1,1,3,5
+Russia,BTS-4A armoured recovery vehicle,0,1,2,3,6
 Russia,Barnaul-T 9<U+0421>932-1 automated system for air defence units,0,4,1,0,5
 Russia,Barnaul-T 9С932-1 automated system for air defence units,2,0,0,0,2
 Russia,Civilian KamAZ 6x6 converted for military use,1,0,0,0,1
@@ -3368,14 +3369,14 @@ Russia,T-62M Obr. 2022,2,0,1,1,4
 Russia,T-64BV,32,7,2,3,44
 Russia,T-72A,22,17,5,5,49
 Russia,T-72AV,7,3,0,0,10
-Russia,T-72B,249,92,37,33,411
+Russia,T-72B,249,92,38,33,412
 Russia,T-72B Obr. 1989,47,29,6,6,88
-Russia,T-72B Obr. 2022,19,0,15,17,51
+Russia,T-72B Obr. 2022,20,0,15,17,52
 Russia,T-72B3,127,92,13,18,250
 Russia,T-72B3 Obr. 2016,176,132,15,29,352
 Russia,T-72B3 Obr. 2022,7,0,4,3,14
 Russia,T-72BA,0,3,0,0,3
-Russia,T-80BV,76,16,16,15,123
+Russia,T-80BV,78,16,16,15,125
 Russia,T-80BVM,17,22,1,2,42
 Russia,T-80BVM Obr. 2022,3,0,1,1,5
 Russia,T-80U,34,43,18,5,100
