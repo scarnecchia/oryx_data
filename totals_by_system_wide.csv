@@ -418,6 +418,7 @@ Russia,12 MT-LB with ZU-23 AA gun,0,1,0,0,1
 Russia,12 PMP floating bridge,0,1,0,0,1
 Russia,12 PTS-2 tracked amphibious transport,0,1,0,1,2
 Russia,12 Pantsir-S1,1,0,0,0,1
+Russia,12 River link pontoon (for unknown floating bridge system),3,9,0,0,12
 Russia,12 T-62M,0,3,0,0,3
 Russia,12 T-62MV,1,0,0,0,1
 Russia,12 T-72AV,1,0,0,0,1
@@ -863,6 +864,7 @@ Russia,17 IMR-2(M) combat engineering vehicle,1,0,0,0,1
 Russia,17 KamAZ 4x4,1,0,0,0,1
 Russia,17 KamAZ 8x8,2,0,0,0,2
 Russia,17 KamAZ with MM-501 armoured cabin,0,1,0,0,1
+Russia,17 KamAZ-63501 (for PP-2005 floating bridge system),13,4,0,0,17
 Russia,17 MT-LB with ZU-23 AA gun,0,1,0,0,1
 Russia,17 Pantsir-S1,1,0,0,1,2
 Russia,17 R-149AKSh-1 command and signals vehicle,1,0,0,0,1
@@ -1053,6 +1055,8 @@ Russia,2 BRDM-2RKhb chemical reconnaissance vehicle,0,1,0,0,1
 Russia,2 BREM-D armoured recovery vehicle,1,0,0,0,1
 Russia,2 BTR-50,0,0,0,1,1
 Russia,2 BTR-70,3,1,0,0,4
+Russia,2 Coastal link pontoon (for PMP(-M) floating bridge system),1,1,0,0,2
+Russia,2 Coastal link pontoon (for unknown floating bridge system),0,2,0,0,2
 Russia,2 Eleron T28ME,1,0,0,0,1
 Russia,2 Fara ground surveillance radar,0,1,0,0,1
 Russia,2 Forpost reconnaissance UAV,1,0,0,0,1
@@ -1063,6 +1067,7 @@ Russia,2 Il-22 airborne command post,1,0,0,0,1
 Russia,2 KamAZ 6x4,0,1,0,0,1
 Russia,2 KamAZ KMV-10V boom crane truck,0,1,0,0,1
 Russia,2 KamAZ with armoured cabin,2,0,0,0,2
+Russia,2 KamAZ-53501 (for PMP-M floating bridge system),2,0,0,0,2
 Russia,2 KrAZ-260 tanker,0,1,0,0,1
 Russia,2 Leer-2 electronic warfare system,1,0,0,0,1
 Russia,2 Leer-3 electronic warfare system,1,0,0,0,1
@@ -1096,6 +1101,7 @@ Russia,2 T-80BVK,1,1,0,1,3
 Russia,2 T-80BVM Obr. 2022,0,0,1,1,2
 Russia,2 T-90S,1,0,0,0,1
 Russia,2 TEL for S-300,1,0,0,0,1
+Russia,2 Transitional link pontoon (for floating unified railway bridge-ribbon MLZh-VF-VT),1,1,0,0,2
 Russia,2 Tu-22M3 strategic bomber,1,0,0,0,1
 Russia,2 UAZ Patriot jeep,1,0,0,0,1
 Russia,2 UAZ-39094,1,0,0,0,1
@@ -1190,6 +1196,7 @@ Russia,22 BRM-1K reconnaissance vehicle,1,1,0,0,2
 Russia,22 IMR-2(M) combat engineering vehicle,0,1,0,0,1
 Russia,22 Ka-52 'Alligator' attack helicopter,1,0,0,0,1
 Russia,22 KamAZ with MM-501 armoured cabin,1,0,0,0,1
+Russia,22 River link pontoon (for PMP(-M) floating bridge system),15,5,1,1,22
 Russia,22 T-72BA,1,0,0,0,1
 Russia,22 T-90M,0,0,0,1,1
 Russia,22 UAZ-452 van,0,2,0,0,2
@@ -1306,6 +1313,7 @@ Russia,25 KamAZ 4x4,1,0,0,0,1
 Russia,25 KamAZ with MM-501 armoured cabin,0,1,0,0,1
 Russia,25 MT-LB with ZU-23 AA gun,1,0,0,0,1
 Russia,25 R-149MA3 command and staff vehicle,0,1,0,0,1
+Russia,25 River link pontoon (for PP/91-2005 floating bridge system),15,10,0,0,25
 Russia,25 T-72BA,0,1,0,0,1
 Russia,25 T-90M,0,0,0,1,1
 Russia,25 UAZ-469 jeep,0,1,0,1,2
@@ -1498,6 +1506,7 @@ Russia,3 BMPT Terminator,0,0,0,1,1
 Russia,3 BPM-97 Vystrel,0,1,0,0,1
 Russia,3 BREM-D armoured recovery vehicle,0,1,0,0,1
 Russia,3 BREM-L armoured recovery vehicle,1,0,0,1,2
+Russia,3 Coastal link pontoon (for PP-2005 floating bridge system),3,0,0,0,3
 Russia,3 Eleron T28ME,1,0,0,0,1
 Russia,3 Fara ground surveillance radar,0,1,0,0,1
 Russia,3 Forpost reconnaissance UAV,1,0,0,0,1
@@ -1516,6 +1525,7 @@ Russia,3 R-419L1 communications station,1,0,0,0,1
 Russia,3 R-934B 'Sinitsa' automated jamming station,1,0,0,0,1
 Russia,3 RKhM-6 CBRN reconnaissance vehicle,1,1,0,0,2
 Russia,3 Remdiesel Z-STS Akhmat,1,0,0,0,1
+Russia,3 River link pontoon (for floating unified railway bridge-ribbon MLZh-VF-VT),3,0,0,0,3
 Russia,3 Su-35S multirole aircraft,1,0,0,0,1
 Russia,3 T-62MV,0,2,0,1,3
 Russia,3 T-64A,0,0,0,1,1
@@ -1915,6 +1925,7 @@ Russia,4 Unknown Tor TLAR,0,0,0,2,2
 Russia,4 Unknown fuel tanker,1,0,0,0,1
 Russia,4 Unknown towed artillery,1,0,0,1,2
 Russia,4 Ural Avtozaks,2,0,0,0,2
+Russia,4 Ural-4320 (for PMP floating bridge system),2,1,1,0,4
 Russia,4 Ural-VV,1,0,0,0,1
 Russia,40 120mm 2S9 Nona,2,0,0,0,2
 Russia,40 122mm 2S1 Gvozdika,1,0,0,0,1
@@ -2176,6 +2187,7 @@ Russia,5 BRDM-2,1,0,0,0,1
 Russia,5 Granat-4,1,0,0,0,1
 Russia,5 KamAZ KMV-10V boom crane truck,0,1,0,0,1
 Russia,5 KamAZ-5350 with KS-45719-7M crane,0,0,0,1,1
+Russia,5 KrAZ-255 (for PMP floating bridge system),5,0,0,0,5
 Russia,5 KrAZ-255B tanker,1,0,0,0,1
 Russia,5 MP-1IM signals vehicle,0,1,0,0,1
 Russia,5 MT-LBM 6MB,0,1,0,2,3
@@ -2407,6 +2419,7 @@ Russia,6 9A331M TLAR (for 9K332 Tor-M2),0,1,0,0,1
 Russia,6 AMN-590951,1,0,0,0,1
 Russia,6 BMP-2M,1,0,0,0,1
 Russia,6 BRDM-2,1,0,0,0,1
+Russia,6 Coastal link pontoon (for floating unified railway bridge-ribbon MLZh-VF-VT),2,4,0,0,6
 Russia,6 Granat-4,1,0,0,0,1
 Russia,6 KamAZ KMV-10V boom crane truck,1,0,0,0,1
 Russia,6 KamAZ-5350 with KS-45719-7M crane,1,1,0,0,2
@@ -3067,6 +3080,7 @@ Russia,9 R-149AKSh-1 command and signals vehicle,1,0,0,0,1
 Russia,9 R-330BMV Borisoglebsk-2B,1,0,0,0,1
 Russia,9 REM-KL recovery vehicle,1,0,0,0,1
 Russia,9 RKhM-6 Povozka CBRN reconnaissance vehicle,1,0,0,0,1
+Russia,9 River link pontoon (for PP-2005 floating bridge system),8,1,0,0,9
 Russia,9 T-62MV,0,1,0,0,1
 Russia,9 T-72AV,1,2,0,1,4
 Russia,9 T-72BA,0,2,0,0,2
@@ -3783,6 +3797,7 @@ Ukraine,128 BMP-2(K),1,0,0,0,1
 Ukraine,129 BMP-2(K),0,0,0,1,1
 Ukraine,13 AT105A Saxon,0,3,0,0,3
 Ukraine,13 BRM-1K reconnaissance vehicle,2,0,0,0,2
+Ukraine,13 KrAZ-255 (for PMP floating bridge system),9,2,0,2,13
 Ukraine,13 KrAZ-255B,1,0,0,0,1
 Ukraine,13 M113,1,0,0,0,1
 Ukraine,13 MT-LB-S Ambulance,0,1,0,0,1
@@ -4127,6 +4142,7 @@ Ukraine,30 Kozak-2,1,0,0,0,1
 Ukraine,30 KrAZ-6322,3,1,0,0,4
 Ukraine,30 M113,1,0,0,1,2
 Ukraine,30 Mastiff Protected Patrol,2,0,0,0,2
+Ukraine,30 River link pontoon (for PMP(-M) floating bridge system),21,1,0,8,30
 Ukraine,30 UAZ-452 van,1,0,0,0,1
 Ukraine,30 Unknown tank,2,0,0,0,2
 Ukraine,30N6 'Flap Lid',1,0,0,0,1
@@ -4197,6 +4213,7 @@ Ukraine,4 9A310M1 TELAR (for Buk-M1),1,0,0,0,1
 Ukraine,4 BTS-4 armoured recovery vehicle,1,0,0,0,1
 Ukraine,4 Bogdan-63172 'Kozak',1,0,0,0,1
 Ukraine,4 Bukovel-AD EW system,0,0,0,1,1
+Ukraine,4 Coastal link pontoon (for PMP(-M) floating bridge system),4,0,0,0,4
 Ukraine,4 Husky Tactical Support Vehicle,1,0,0,0,1
 Ukraine,4 ITEC Skif,1,0,0,0,1
 Ukraine,4 International M1224 MaxxPro,1,0,0,0,1
