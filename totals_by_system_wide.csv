@@ -1071,6 +1071,7 @@ Russia,198 MT-LBVM and MT-LBVMK,1,1,0,0,2
 Russia,198 Unknown tank,3,0,0,1,4
 Russia,199 122mm BM-21 Grad,1,0,0,0,1
 Russia,199 BMP-1(P),0,2,0,3,5
+Russia,199 MT-LBVM and MT-LBVMK,0,0,1,1,2
 Russia,199 T-80BV,1,1,0,0,2
 Russia,199 Unknown tank,1,0,0,0,1
 Russia,1L219 (for Zoopark counter-battery radar complex),1,0,0,1,2
@@ -3432,8 +3433,8 @@ Russia,BMP-2(K),136,104,7,17,264
 Russia,BMP-2K,0,0,1,0,1
 Russia,BMP-2M,1,1,0,0,2
 Russia,BMP-2M Berezhok,8,1,1,2,12
-Russia,BMP-3,292,74,37,55,458
-Russia,BMP-3 688M sb. 3KDZ,11,1,9,11,32
+Russia,BMP-3,293,74,37,55,459
+Russia,BMP-3 688M sb. 3KDZ,12,1,9,11,33
 Russia,BRDM-2,1,0,0,0,1
 Russia,BRDM-2M/A,2,0,0,0,2
 Russia,BREM-1 armoured recovery vehicle,18,12,10,4,44
@@ -3596,7 +3597,7 @@ Russia,T-72A,22,17,5,5,49
 Russia,T-72AV,7,3,0,0,10
 Russia,T-72B,265,93,45,37,440
 Russia,T-72B Obr. 1989,47,29,6,6,88
-Russia,T-72B Obr. 2022,41,0,25,23,89
+Russia,T-72B Obr. 2022,42,0,26,24,92
 Russia,T-72B3,127,92,13,18,250
 Russia,T-72B3 Obr. 2016,185,133,17,30,365
 Russia,T-72B3 Obr. 2022,16,0,8,7,31
@@ -3609,7 +3610,7 @@ Russia,T-80UE-1,1,1,0,0,2
 Russia,T-80UE1,0,1,0,0,1
 Russia,T-80UK,1,1,1,0,3
 Russia,T-80UM2,1,0,0,0,1
-Russia,T-90A,29,13,7,3,52
+Russia,T-90A,30,13,7,3,53
 Russia,T-90M,19,0,12,14,45
 Russia,TMM-3 bridge layer,9,17,3,4,33
 Russia,TZM-T reloader vehicle (for TOS-1A),5,6,2,0,13
@@ -4859,7 +4860,7 @@ Ukraine,M1114 and M1151 HMMWV,67,9,3,16,95
 Ukraine,M1126 Stryker,7,0,1,1,9
 Ukraine,M113G3DK/G4DK,0,0,2,0,2
 Ukraine,M1152 HMMWV,14,0,0,0,14
-Ukraine,M2A2 Bradley ODS-SA,32,1,19,34,86
+Ukraine,M2A2 Bradley ODS-SA,32,2,19,35,88
 Ukraine,M88A1 armoured recovery vehicle,0,0,1,0,1
 Ukraine,M998 HMMWV,3,7,0,0,10
 Ukraine,MAZ,11,2,2,1,16
