@@ -826,6 +826,7 @@ Russia,Armoured Fighting Vehicles,885,97,268,35,1285,2024-04-08,56,2,0,1,59,0,0,
 Russia,Armoured Fighting Vehicles,889,98,268,35,1290,2024-04-11,4,1,0,0,5,0,0,0,0,0
 Russia,Armoured Fighting Vehicles,891,99,268,35,1293,2024-04-14,2,1,0,0,3,0,0,0,0,0
 Russia,Armoured Fighting Vehicles,899,99,268,35,1301,2024-04-17,8,0,0,0,8,0,0,0,0,0
+Russia,Armoured Fighting Vehicles,896,99,268,35,1298,2024-04-18,-3,0,0,0,-3,0,0,0,0,0
 Russia,Armoured Personnel Carriers,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Russia,Armoured Personnel Carriers,24,14,38,0,76,2022-03-19,24,14,38,0,76,24,14,38,0,76
 Russia,Armoured Personnel Carriers,19,17,40,0,76,2022-03-26,-5,3,2,0,0,-29,-11,-36,0,-76
@@ -5258,6 +5259,7 @@ Ukraine,Infantry Fighting Vehicles,639,59,118,54,870,2024-03-02,0,1,0,1,2,0,0,0,
 Ukraine,Infantry Fighting Vehicles,649,66,123,58,896,2024-04-08,10,7,5,4,26,0,0,0,0,0
 Ukraine,Infantry Fighting Vehicles,651,66,123,58,898,2024-04-14,2,0,0,0,2,0,0,0,0,0
 Ukraine,Infantry Fighting Vehicles,652,68,123,58,901,2024-04-17,1,2,0,0,3,0,0,0,0,0
+Ukraine,Infantry Fighting Vehicles,653,67,123,57,900,2024-04-18,1,-1,0,-1,-1,0,0,0,0,0
 Ukraine,Infantry Mobility Vehicles,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Ukraine,Infantry Mobility Vehicles,5,1,20,1,27,2022-03-19,5,1,20,1,27,5,1,20,1,27
 Ukraine,Infantry Mobility Vehicles,7,1,23,1,32,2022-03-26,2,0,3,0,5,-3,-1,-17,-1,-22
@@ -6794,6 +6796,7 @@ Ukraine,"Trucks, Vehicles, and Jeeps",639,14,184,23,860,2024-04-08,24,0,3,1,28,0
 Ukraine,"Trucks, Vehicles, and Jeeps",640,14,184,23,861,2024-04-11,1,0,0,0,1,0,0,0,0,0
 Ukraine,"Trucks, Vehicles, and Jeeps",644,14,184,23,865,2024-04-14,4,0,0,0,4,0,0,0,0,0
 Ukraine,"Trucks, Vehicles, and Jeeps",645,14,184,23,866,2024-04-17,1,0,0,0,1,0,0,0,0,0
+Ukraine,"Trucks, Vehicles, and Jeeps",646,14,184,23,867,2024-04-18,1,0,0,0,1,0,0,0,0,0
 Ukraine,Unmanned Aerial Vehicles,0,0,0,0,0,2022-02-23,0,0,0,0,0,0,0,0,0,0
 Ukraine,Unmanned Aerial Vehicles,5,0,0,0,5,2022-03-19,5,0,0,0,5,5,0,0,0,5
 Ukraine,Unmanned Aerial Vehicles,7,0,0,0,7,2022-03-26,2,0,0,0,2,-3,0,0,0,-3
