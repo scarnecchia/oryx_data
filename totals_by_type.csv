@@ -1,35 +1,35 @@
 country,equipment_type,destroyed,abandoned,captured,damaged,type_total
 Russia,All Types,11835,935,2907,745,16422
 Russia,Tanks,2118,346,516,157,3137
-Russia,Armoured Fighting Vehicles,1001,96,269,35,1401
-Russia,Infantry Fighting Vehicles,3063,342,615,147,4167
+Russia,Armoured Fighting Vehicles,1002,96,269,35,1402
+Russia,Infantry Fighting Vehicles,3066,342,615,147,4170
 Russia,Armoured Personnel Carriers,313,31,92,18,454
 Russia,Mine-Resistant Ambush Protected,39,1,11,5,56
-Russia,Infantry Mobility Vehicles,180,3,53,14,250
+Russia,Infantry Mobility Vehicles,181,3,53,14,251
 Russia,Command Posts And Communications Stations,188,2,85,5,280
 Russia,Engineering Vehicles And Equipment,298,43,151,20,512
 Russia,Unmanned Ground Vehicles,3,0,0,0,3
 Russia,Self-Propelled Anti-Tank Missile Systems,18,4,20,1,43
 Russia,Artillery Support Vehicles And Equipment,66,1,54,0,121
 Russia,Towed Artillery,224,5,95,52,376
-Russia,Self-Propelled Artillery,607,5,108,45,765
+Russia,Self-Propelled Artillery,608,5,108,45,766
 Russia,Multiple Rocket Launchers,292,2,54,34,382
 Russia,Anti-Aircraft Guns,32,0,18,1,51
 Russia,Self-Propelled Anti-Aircraft Guns,14,2,7,2,25
 Russia,Surface-To-Air Missile Systems,183,4,24,40,251
 Russia,Radars,46,0,10,19,75
-Russia,Jammers And Deception Systems,61,0,9,12,82
+Russia,Jammers And Deception Systems,62,0,9,12,83
 Russia,Aircraft,106,0,0,12,118
 Russia,Helicopters,105,0,2,30,137
 Russia,Unmanned Combat Aerial Vehicles,11,0,3,1,15
 Russia,Reconnaissance Unmanned Aerial Vehicles,235,0,143,0,378
 Russia,Naval Ships and Submarines,19,0,0,7,26
-Russia,"Trucks, Vehicles, and Jeeps",2640,48,568,90,3346
-Ukraine,All Types,4184,254,1018,507,5963
+Russia,"Trucks, Vehicles, and Jeeps",2641,48,568,90,3347
+Ukraine,All Types,4186,254,1018,508,5966
 Ukraine,Tanks,576,65,134,71,846
 Ukraine,Armoured Fighting Vehicles,278,9,82,15,384
-Ukraine,Infantry Fighting Vehicles,687,77,122,58,944
-Ukraine,Armoured Personnel Carriers,310,44,95,30,479
+Ukraine,Infantry Fighting Vehicles,688,77,122,59,946
+Ukraine,Armoured Personnel Carriers,311,44,95,30,480
 Ukraine,Mine-Resistant Ambush Protected,153,16,11,31,211
 Ukraine,Infantry Mobility Vehicles,295,15,118,40,468
 Ukraine,Command Posts And Communications Stations,15,0,4,0,19
