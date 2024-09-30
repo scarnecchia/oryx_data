@@ -1,41 +1,41 @@
 country,equipment_type,destroyed,abandoned,captured,damaged,type_total
-Russia,All Types,13291,1008,2974,804,18077
-Russia,"Losses excluding Recon Drones and Trucks - 13995, of which: destroyed: 10100, damaged: 707, abandoned: 959, captured: 2229",10100,959,2229,707,13995
-Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 10163, of which: destroyed: 7389, damaged: 365, abandoned: 881, captured: 1528",7389,881,1528,365,10163
-Russia,Tanks,2351,368,532,157,3408
-Russia,Armoured Fighting Vehicles,1184,97,271,36,1588
-Russia,Infantry Fighting Vehicles,3471,379,622,149,4621
-Russia,Armoured Personnel Carriers,344,36,92,18,490
+Russia,All Types,13359,1011,2974,805,18149
+Russia,"Losses excluding Recon Drones and Trucks - 14057, of which: destroyed: 10158, damaged: 708, abandoned: 962, captured: 2229",10158,962,2229,708,14057
+Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 10219, of which: destroyed: 7442, damaged: 365, abandoned: 884, captured: 1528",7442,884,1528,365,10219
+Russia,Tanks,2366,369,532,157,3424
+Russia,Armoured Fighting Vehicles,1199,96,271,36,1602
+Russia,Infantry Fighting Vehicles,3492,381,622,149,4644
+Russia,Armoured Personnel Carriers,346,37,92,18,493
 Russia,Mine-Resistant Ambush Protected,39,1,11,5,56
 Russia,Infantry Mobility Vehicles,215,3,54,16,288
 Russia,Command Posts And Communications Stations,197,2,86,5,290
-Russia,Engineering Vehicles And Equipment,331,49,153,44,577
+Russia,Engineering Vehicles And Equipment,332,49,153,45,579
 Russia,Unmanned Ground Vehicles,3,0,0,0,3
 Russia,Self-Propelled Anti-Tank Missile Systems,19,4,20,1,44
 Russia,Artillery Support Vehicles And Equipment,71,1,55,0,127
 Russia,Towed Artillery,253,5,97,57,412
-Russia,Self-Propelled Artillery,672,6,109,47,834
-Russia,Multiple Rocket Launchers,328,2,54,37,421
+Russia,Self-Propelled Artillery,673,6,109,47,835
+Russia,Multiple Rocket Launchers,329,2,54,37,422
 Russia,Anti-Aircraft Guns,34,0,18,1,53
 Russia,Self-Propelled Anti-Aircraft Guns,15,2,7,2,26
 Russia,Surface-To-Air Missile Systems,204,4,24,45,277
-Russia,Radars,48,0,10,22,80
+Russia,Radars,49,0,10,22,81
 Russia,Jammers And Deception Systems,63,0,9,12,84
 Russia,Aircraft,113,0,0,15,128
 Russia,Helicopters,113,0,2,30,145
-Russia,Unmanned Combat Aerial Vehicles,11,0,3,1,15
-Russia,Reconnaissance Unmanned Aerial Vehicles,292,1,170,0,463
+Russia,Unmanned Combat Aerial Vehicles,12,0,3,1,16
+Russia,Reconnaissance Unmanned Aerial Vehicles,294,1,170,0,465
 Russia,Naval Ships and Submarines,21,0,0,7,28
-Russia,"Trucks, Vehicles, and Jeeps",2899,48,575,97,3619
-Ukraine,All Types,4743,295,1079,535,6652
-Ukraine,"Losses excluding Recon Drones and Trucks - 5284, of which: destroyed: 3738, damaged: 505, abandoned: 280, captured: 761",3738,280,761,505,5284
-Ukraine,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 3208, of which: destroyed: 2273, damaged: 219, abandoned: 240, captured: 476",2273,240,476,219,3208
-Ukraine,Tanks,659,69,137,75,940
+Russia,"Trucks, Vehicles, and Jeeps",2907,48,575,97,3627
+Ukraine,All Types,4755,298,1082,535,6670
+Ukraine,"Losses excluding Recon Drones and Trucks - 5302, of which: destroyed: 3750, damaged: 505, abandoned: 283, captured: 764",3750,283,764,505,5302
+Ukraine,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 3222, of which: destroyed: 2282, damaged: 219, abandoned: 243, captured: 478",2282,243,478,219,3222
+Ukraine,Tanks,661,70,138,75,944
 Ukraine,Armoured Fighting Vehicles,291,10,84,15,400
-Ukraine,Infantry Fighting Vehicles,755,89,132,60,1036
-Ukraine,Armoured Personnel Carriers,360,51,103,32,546
-Ukraine,Mine-Resistant Ambush Protected,208,21,20,37,286
-Ukraine,Infantry Mobility Vehicles,370,25,127,40,562
+Ukraine,Infantry Fighting Vehicles,757,90,132,60,1039
+Ukraine,Armoured Personnel Carriers,364,52,103,32,551
+Ukraine,Mine-Resistant Ambush Protected,209,21,21,37,288
+Ukraine,Infantry Mobility Vehicles,372,25,128,40,565
 Ukraine,Command Posts And Communications Stations,19,0,4,0,23
 Ukraine,Engineering Vehicles And Equipment,124,9,27,23,183
 Ukraine,Unmanned Ground Vehicles,1,0,0,0,1
@@ -48,7 +48,7 @@ Ukraine,Anti-Aircraft Guns,0,0,4,0,4
 Ukraine,Self-Propelled Anti-Aircraft Guns,22,1,5,5,33
 Ukraine,"Surface-To-Air Missile Systems
 ",140,1,6,19,166
-Ukraine,Radars And Communications Equipment,96,1,13,20,130
+Ukraine,Radars And Communications Equipment,97,1,13,20,131
 Ukraine,Jammers And Deception Systems,4,0,1,2,7
 Ukraine,Aircraft,95,0,1,4,100
 Ukraine,Helicopters,44,0,3,2,49
