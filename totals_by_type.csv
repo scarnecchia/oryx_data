@@ -1,15 +1,15 @@
 country,equipment_type,destroyed,abandoned,captured,damaged,type_total
-Russia,All Types,13359,1011,2974,805,18149
-Russia,"Losses excluding Recon Drones and Trucks - 14057, of which: destroyed: 10158, damaged: 708, abandoned: 962, captured: 2229",10158,962,2229,708,14057
-Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 10219, of which: destroyed: 7442, damaged: 365, abandoned: 884, captured: 1528",7442,884,1528,365,10219
+Russia,All Types,13404,1019,2975,805,18203
+Russia,"Losses excluding Recon Drones and Trucks - 14103, of which: destroyed: 10195, damaged: 708, abandoned: 970, captured: 2230",10195,970,2230,708,14103
+Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 10262, of which: destroyed: 7476, damaged: 365, abandoned: 892, captured: 1529",7476,892,1529,365,10262
 Russia,Tanks,2373,370,532,157,3432
 Russia,Armoured Fighting Vehicles,1208,99,271,36,1614
-Russia,Infantry Fighting Vehicles,3492,381,622,149,4644
-Russia,Armoured Personnel Carriers,346,37,92,18,493
+Russia,Infantry Fighting Vehicles,3507,385,623,149,4664
+Russia,Armoured Personnel Carriers,350,37,92,18,497
 Russia,Mine-Resistant Ambush Protected,39,1,11,5,56
-Russia,Infantry Mobility Vehicles,215,3,54,16,288
+Russia,Infantry Mobility Vehicles,216,3,54,16,289
 Russia,Command Posts And Communications Stations,197,2,86,5,290
-Russia,Engineering Vehicles And Equipment,332,49,153,45,579
+Russia,Engineering Vehicles And Equipment,333,49,153,45,580
 Russia,Unmanned Ground Vehicles,3,0,0,0,3
 Russia,Self-Propelled Anti-Tank Missile Systems,19,4,20,1,44
 Russia,Artillery Support Vehicles And Equipment,71,1,55,0,127
@@ -21,12 +21,12 @@ Russia,Self-Propelled Anti-Aircraft Guns,15,2,7,2,26
 Russia,Surface-To-Air Missile Systems,204,4,24,45,277
 Russia,Radars,49,0,10,22,81
 Russia,Jammers And Deception Systems,63,0,9,12,84
-Russia,Aircraft,113,0,0,15,128
+Russia,Aircraft,114,0,0,15,129
 Russia,Helicopters,113,0,2,30,145
 Russia,Unmanned Combat Aerial Vehicles,12,0,3,1,16
-Russia,Reconnaissance Unmanned Aerial Vehicles,294,1,170,0,465
+Russia,Reconnaissance Unmanned Aerial Vehicles,297,1,170,0,468
 Russia,Naval Ships and Submarines,21,0,0,7,28
-Russia,"Trucks, Vehicles, and Jeeps",2907,48,575,97,3627
+Russia,"Trucks, Vehicles, and Jeeps",2912,48,575,97,3632
 Ukraine,All Types,4784,303,1084,535,6706
 Ukraine,"Losses excluding Recon Drones and Trucks - 5331, of which: destroyed: 3772, damaged: 505, abandoned: 288, captured: 766",3772,288,766,505,5331
 Ukraine,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 3239, of which: destroyed: 2295, damaged: 219, abandoned: 246, captured: 479",2295,246,479,219,3239
