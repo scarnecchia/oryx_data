@@ -939,7 +939,7 @@ Russia,142 T-80BV,1,1,0,1,3
 Russia,142 Unknown BMP-1/2,1,0,2,0,3
 Russia,142 Unknown tank,2,0,0,0,2
 Russia,142 Ural-43206,1,0,0,0,1
-Russia,1422 BMP-2(K),4,0,0,0,4
+Russia,1422 BMP-2(K),6,0,0,0,6
 Russia,143 152mm 2S19 Msta-S,1,0,0,0,1
 Russia,143 KamAZ 6x6 tanker,1,0,0,0,1
 Russia,143 MT-LBVM and MT-LBVMK,1,2,0,0,3
@@ -1850,7 +1850,7 @@ Russia,23 R-149AKSh-1 command and signals vehicle,1,0,0,0,1
 Russia,23 River link pontoon (for PMP(-M) floating bridge system),1,0,0,0,1
 Russia,23 Su-25 close air support aircraft,2,0,0,0,2
 Russia,23 T-62MV,2,0,0,0,2
-Russia,23 T-72AV,1,0,0,0,1
+Russia,23 T-72AV,2,0,0,0,2
 Russia,23 T-72BA,1,0,0,0,1
 Russia,23 T-90M,0,0,0,1,1
 Russia,23 UAZ-452 van,0,1,0,1,2
@@ -4511,7 +4511,7 @@ Russia,BMP-1AM,39,11,10,14,74
 Russia,BMP-1KSh command and staff vehicle,2,0,0,0,2
 Russia,BMP-1Khs,1,3,1,0,5
 Russia,BMP-2,183,66,27,12,288
-Russia,BMP-2 675-sb3KDZ,199,2,33,33,267
+Russia,BMP-2 675-sb3KDZ,201,2,33,33,269
 Russia,BMP-2(K),136,104,7,17,264
 Russia,BMP-2K,0,0,1,0,1
 Russia,BMP-2M,1,1,0,0,2
@@ -4660,7 +4660,7 @@ Russia,RB-636AM2 Svet-KU EW system,1,0,0,2,3
 Russia,REM-KL armoured recovery vehicle,2,1,0,0,3
 Russia,REM-KL recovery vehicle,1,0,0,1,2
 Russia,RKhM-6 Povozka,3,0,0,0,3
-Russia,Remdiesel Z-STS Akhmat,18,0,5,6,29
+Russia,Remdiesel Z-STS Akhmat,19,0,5,6,30
 Russia,Repeynik portable counter-UAS radar,1,0,0,0,1
 Russia,SNAR-10M1 battlefield surveillance radar,1,1,0,2,4
 Russia,Silok-01 antenna,1,0,0,0,1
@@ -4684,7 +4684,7 @@ Russia,T-72A,22,17,5,5,49
 Russia,T-72AV,7,3,0,0,10
 Russia,T-72B,300,94,52,44,490
 Russia,T-72B Obr. 1989,47,29,6,6,88
-Russia,T-72B Obr. 2022,101,1,35,32,169
+Russia,T-72B Obr. 2022,102,1,35,32,170
 Russia,T-72B3,127,92,13,18,250
 Russia,T-72B3 Obr. 2016,209,137,17,33,396
 Russia,T-72B3 Obr. 2022,42,4,11,11,68

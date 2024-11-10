@@ -323,6 +323,7 @@ Ukraine,Armoured Personnel Carriers,386,63,107,32,588,2024-10-27,8,0,0,0,8,0,0,0
 Ukraine,Armoured Personnel Carriers,391,63,107,32,593,2024-10-30,5,0,0,0,5,0,0,0,0,0
 Ukraine,Armoured Personnel Carriers,395,64,107,32,598,2024-11-02,4,1,0,0,5,0,0,0,0,0
 Ukraine,Armoured Personnel Carriers,399,64,108,32,603,2024-11-05,4,0,1,0,5,0,0,0,0,0
+Ukraine,Armoured Personnel Carriers,400,64,108,31,603,2024-11-10,1,0,0,-1,0,0,0,0,0,0
 Ukraine,Artillery Support Vehicles And Equipment,13,0,13,0,26,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Ukraine,Command Posts And Communications Stations,19,0,4,0,23,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Ukraine,Command Posts And Communications Stations,20,0,4,0,24,2024-10-22,1,0,0,0,1,0,0,0,0,0
@@ -332,6 +333,7 @@ Ukraine,Engineering Vehicles And Equipment,127,9,27,23,186,2024-10-09,1,0,0,0,1,
 Ukraine,Engineering Vehicles And Equipment,129,9,27,23,188,2024-10-22,2,0,0,0,2,0,0,0,0,0
 Ukraine,Engineering Vehicles And Equipment,128,9,27,23,187,2024-10-27,-1,0,0,0,-1,0,0,0,0,0
 Ukraine,Engineering Vehicles And Equipment,131,9,27,23,190,2024-10-30,3,0,0,0,3,0,0,0,0,0
+Ukraine,Engineering Vehicles And Equipment,132,9,27,23,191,2024-11-10,1,0,0,0,1,0,0,0,0,0
 Ukraine,Helicopters,44,0,3,2,49,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Ukraine,Helicopters,44,0,3,3,50,2024-11-05,0,0,0,1,1,0,0,0,0,0
 Ukraine,Infantry Fighting Vehicles,757,90,132,60,1039,2024-09-30,0,0,0,0,0,0,0,0,0,0
@@ -429,5 +431,6 @@ Ukraine,"Trucks, Vehicles, and Jeeps",756,15,183,31,985,2024-10-27,2,0,0,0,2,0,0
 Ukraine,"Trucks, Vehicles, and Jeeps",757,15,183,31,986,2024-10-30,1,0,0,0,1,0,0,0,0,0
 Ukraine,"Trucks, Vehicles, and Jeeps",766,15,183,31,995,2024-11-02,9,0,0,0,9,0,0,0,0,0
 Ukraine,"Trucks, Vehicles, and Jeeps",770,15,183,31,999,2024-11-05,4,0,0,0,4,0,0,0,0,0
+Ukraine,"Trucks, Vehicles, and Jeeps",770,15,183,30,998,2024-11-10,0,0,0,-1,-1,0,0,0,0,0
 Ukraine,Unmanned Combat Aerial Vehicles,26,0,1,0,27,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Ukraine,Unmanned Ground Vehicles,1,0,0,0,1,2024-09-30,0,0,0,0,0,0,0,0,0,0
