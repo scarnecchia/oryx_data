@@ -487,6 +487,7 @@ Russia,111 GAZ Tigr-M,1,0,0,0,1
 Russia,111 KamAZ 6x6 tanker,1,0,0,0,1
 Russia,111 MT-LBVM and MT-LBVMK,1,0,0,0,1
 Russia,111 T-62M,1,0,0,0,1
+Russia,111 T-72B Obr. 1989,1,0,0,0,1
 Russia,111 T-80BV,1,3,0,0,4
 Russia,111 T-80BVM,1,0,0,1,2
 Russia,111 Ural-4320 tanker,2,0,0,0,2
@@ -925,7 +926,7 @@ Russia,14 9A310M1-2 TELAR (for Buk-M1-2),1,0,0,0,1
 Russia,14 AS-4350 medical vehicle,1,0,0,0,1
 Russia,14 BMP-1AM 675-sb3KDZ,2,0,0,0,2
 Russia,14 BMP-2M,1,0,0,0,1
-Russia,14 BMP-2M 675-sb3KDZ,1,0,0,0,1
+Russia,14 BMP-2M 675-sb3KDZ,2,0,0,0,2
 Russia,14 BRM-1K reconnaissance vehicle,1,0,0,0,1
 Russia,14 BTR-70,1,0,0,0,1
 Russia,14 GAZ-3308,1,0,0,0,1
@@ -3859,7 +3860,7 @@ Russia,69 152mm 2A65 Msta-B howitzer,0,1,0,0,1
 Russia,69 152mm 2S5 Giatsint-S,2,0,0,0,2
 Russia,69 BMD-4M,1,0,0,0,1
 Russia,69 T-64BV,0,0,1,1,2
-Russia,69 T-80BV Obr. 2022,1,0,0,0,1
+Russia,69 T-80BV Obr. 2022,2,0,0,0,2
 Russia,69 T-80BVM,1,0,0,0,1
 Russia,69 Unknown BMP-1/2,2,0,0,0,2
 Russia,69 Unknown BTR-80/BTR-82A,1,0,0,0,1
@@ -4699,8 +4700,8 @@ Russia,An-26 transport aircraft,1,0,0,0,1
 Russia,Armoured SUV,0,1,0,1,2
 Russia,BAT-2 heavy engineering vehicle,3,4,1,4,12
 Russia,BMD-1KSh-A command vehicle,2,0,0,0,2
-Russia,BMD-2,273,76,23,24,396
-Russia,BMD-4M,93,19,17,16,145
+Russia,BMD-2,275,76,23,24,398
+Russia,BMD-4M,94,19,17,16,146
 Russia,BMK-130M/BMK-150 towing and motor boat,1,2,1,0,4
 Russia,BMK-460 towing and motor boat,5,1,5,0,11
 Russia,BMO-T,2,0,0,0,2
@@ -4709,7 +4710,7 @@ Russia,BMP-1AM,39,11,10,14,74
 Russia,BMP-1KSh command and staff vehicle,2,0,0,0,2
 Russia,BMP-1Khs,1,3,1,0,5
 Russia,BMP-2,183,66,27,12,288
-Russia,BMP-2 675-sb3KDZ,240,2,40,38,320
+Russia,BMP-2 675-sb3KDZ,242,2,40,38,322
 Russia,BMP-2(K),136,104,7,17,264
 Russia,BMP-2K,0,0,1,0,1
 Russia,BMP-2M,1,1,0,0,2
@@ -4732,7 +4733,7 @@ Russia,BTR-70M,9,0,0,0,9
 Russia,BTR-80,52,41,6,5,104
 Russia,BTR-82A,96,59,11,10,176
 Russia,BTR-82A(M),37,8,1,1,47
-Russia,BTR-D,58,29,14,3,104
+Russia,BTR-D,59,29,14,3,105
 Russia,BTR-D APC with UR-67 mine clearing charge,0,1,0,0,1
 Russia,BTR-MDM 'Rakushka',7,8,0,2,17
 Russia,BTR-MDM Rakushka,28,1,2,2,33
@@ -4795,7 +4796,7 @@ Russia,MAZ 531605 tanker,5,0,0,0,5
 Russia,MAZ TZ-500 tanker,2,0,0,0,2
 Russia,MDK-3 trench-digging vehicle,1,1,0,1,3
 Russia,MP-2IM signals vehicle,0,0,1,0,1
-Russia,MT-LB,962,208,111,71,1352
+Russia,MT-LB,964,208,111,71,1354
 Russia,MT-LB Ambulance,2,0,0,0,2
 Russia,MT-LB With 14.5mm BPU-1 Turret,2,0,0,0,2
 Russia,MT-LB with 140mm Ogon-18 MRLS,0,0,0,1,1
@@ -4882,14 +4883,14 @@ Russia,T-72A,22,17,5,5,49
 Russia,T-72AV,7,3,0,0,10
 Russia,T-72B,301,94,52,44,491
 Russia,T-72B Obr. 1989,47,29,6,6,88
-Russia,T-72B Obr. 2022,108,1,37,32,178
+Russia,T-72B Obr. 2022,109,1,37,32,179
 Russia,T-72B3,127,92,13,18,250
 Russia,T-72B3 Obr. 2016,214,137,17,33,401
-Russia,T-72B3 Obr. 2022,49,4,12,12,77
+Russia,T-72B3 Obr. 2022,50,4,12,12,78
 Russia,T-72BA,0,3,0,0,3
-Russia,T-80BV,302,21,64,55,442
+Russia,T-80BV,303,21,64,55,443
 Russia,T-80BVM,17,22,1,2,42
-Russia,T-80BVM Obr. 2022,26,4,5,6,41
+Russia,T-80BVM Obr. 2022,27,4,5,6,42
 Russia,T-80U,34,43,18,5,100
 Russia,T-80UE-1,1,1,0,0,2
 Russia,T-80UE1,0,1,0,0,1
