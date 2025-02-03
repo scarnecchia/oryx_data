@@ -176,6 +176,7 @@ Russia,All Types,15051,1113,3011,852,20027,2025-01-22,12,-2,3,10,23,0,0,0,0,0
 Russia,All Types,15091,1114,3011,852,20068,2025-01-25,40,1,0,0,41,0,0,0,0,0
 Russia,All Types,15168,1117,3011,852,20148,2025-01-31,77,3,0,0,80,0,0,0,0,0
 Russia,All Types,15183,1116,3011,855,20165,2025-02-02,15,-1,0,3,17,0,0,0,0,0
+Russia,All Types,15189,1116,3011,855,20171,2025-02-03,6,0,0,0,6,0,0,0,0,0
 Russia,Anti-Aircraft Guns,34,0,18,1,53,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Russia,Anti-Aircraft Guns,35,0,18,1,54,2024-10-06,1,0,0,0,1,0,0,0,0,0
 Russia,Anti-Aircraft Guns,36,0,18,1,55,2024-10-09,1,0,0,0,1,0,0,0,0,0
@@ -219,6 +220,7 @@ Russia,Armoured Fighting Vehicles,1451,106,271,35,1863,2025-01-19,7,2,0,0,9,0,0,
 Russia,Armoured Fighting Vehicles,1458,106,271,35,1870,2025-01-25,7,0,0,0,7,0,0,0,0,0
 Russia,Armoured Fighting Vehicles,1469,106,271,35,1881,2025-01-31,11,0,0,0,11,0,0,0,0,0
 Russia,Armoured Fighting Vehicles,1470,105,271,35,1881,2025-02-02,1,-1,0,0,0,0,0,0,0,0
+Russia,Armoured Fighting Vehicles,1472,105,271,35,1883,2025-02-03,2,0,0,0,2,0,0,0,0,0
 Russia,Armoured Personnel Carriers,346,37,92,18,493,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Russia,Armoured Personnel Carriers,350,37,92,18,497,2024-10-03,4,0,0,0,4,0,0,0,0,0
 Russia,Armoured Personnel Carriers,353,37,92,18,500,2024-10-06,3,0,0,0,3,0,0,0,0,0
@@ -325,6 +327,7 @@ Russia,Infantry Fighting Vehicles,4146,445,628,152,5371,2025-01-22,5,-1,1,0,5,0,
 Russia,Infantry Fighting Vehicles,4162,447,628,152,5389,2025-01-25,16,2,0,0,18,0,0,0,0,0
 Russia,Infantry Fighting Vehicles,4199,449,628,152,5428,2025-01-31,37,2,0,0,39,0,0,0,0,0
 Russia,Infantry Fighting Vehicles,4202,451,628,153,5434,2025-02-02,3,2,0,1,6,0,0,0,0,0
+Russia,Infantry Fighting Vehicles,4205,451,628,153,5437,2025-02-03,3,0,0,0,3,0,0,0,0,0
 Russia,Infantry Mobility Vehicles,215,3,54,16,288,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Russia,Infantry Mobility Vehicles,216,3,54,16,289,2024-10-03,1,0,0,0,1,0,0,0,0,0
 Russia,Infantry Mobility Vehicles,217,3,54,16,290,2024-10-06,1,0,0,0,1,0,0,0,0,0
@@ -394,6 +397,7 @@ Russia,"Losses excluding Recon Drones and Trucks - 15686, of which: destroyed: 1
 Russia,"Losses excluding Recon Drones and Trucks - 15724, of which: destroyed: 11675, damaged: 750, abandoned: 1063, captured: 2236",11675,1063,2236,750,15724,2025-01-25,0,0,0,0,0,0,0,0,0,0
 Russia,"Losses excluding Recon Drones and Trucks - 15793, of which: destroyed: 11741, damaged: 750, abandoned: 1066, captured: 2236",11741,1066,2236,750,15793,2025-01-31,0,0,0,0,0,0,0,0,0,0
 Russia,"Losses excluding Recon Drones and Trucks - 15806, of which: destroyed: 11753, damaged: 752, abandoned: 1065, captured: 2236",11753,1065,2236,752,15806,2025-02-02,0,0,0,0,0,0,0,0,0,0
+Russia,"Losses excluding Recon Drones and Trucks - 15812, of which: destroyed: 11759, damaged: 752, abandoned: 1065, captured: 2236",11759,1065,2236,752,15812,2025-02-03,0,0,0,0,0,0,0,0,0,0
 Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 10219, of which: destroyed: 7442, damaged: 365, abandoned: 884, captured: 1528",7442,884,1528,365,10219,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 10262, of which: destroyed: 7476, damaged: 365, abandoned: 892, captured: 1529",7476,892,1529,365,10262,2024-10-03,0,0,0,0,0,0,0,0,0,0
 Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 10297, of which: destroyed: 7509, damaged: 366, abandoned: 893, captured: 1529",7509,893,1529,366,10297,2024-10-06,0,0,0,0,0,0,0,0,0,0
@@ -428,6 +432,7 @@ Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] 
 Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 11631, of which: destroyed: 8754, damaged: 367, abandoned: 974, captured: 1536",8754,974,1536,367,11631,2025-01-25,0,0,0,0,0,0,0,0,0,0
 Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 11693, of which: destroyed: 8814, damaged: 367, abandoned: 976, captured: 1536",8814,976,1536,367,11693,2025-01-31,0,0,0,0,0,0,0,0,0,0
 Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 11704, of which: destroyed: 8825, damaged: 368, abandoned: 975, captured: 1536",8825,975,1536,368,11704,2025-02-02,0,0,0,0,0,0,0,0,0,0
+Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 11710, of which: destroyed: 8831, damaged: 368, abandoned: 975, captured: 1536",8831,975,1536,368,11710,2025-02-03,0,0,0,0,0,0,0,0,0,0
 Russia,Mine-Resistant Ambush Protected,39,1,11,5,56,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Russia,Multiple Rocket Launchers,329,2,54,37,422,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Russia,Multiple Rocket Launchers,333,2,54,37,426,2024-10-06,4,0,0,0,4,0,0,0,0,0
@@ -571,6 +576,7 @@ Russia,Tanks,2635,378,534,157,3704,2025-01-22,-2,-2,0,0,-4,0,0,0,0,0
 Russia,Tanks,2642,377,534,157,3710,2025-01-25,7,-1,0,0,6,0,0,0,0,0
 Russia,Tanks,2650,377,534,157,3718,2025-01-31,8,0,0,0,8,0,0,0,0,0
 Russia,Tanks,2655,375,534,157,3721,2025-02-02,5,-2,0,0,3,0,0,0,0,0
+Russia,Tanks,2656,375,534,157,3722,2025-02-03,1,0,0,0,1,0,0,0,0,0
 Russia,Towed Artillery,253,5,97,57,412,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Russia,Towed Artillery,257,5,97,57,416,2024-10-22,4,0,0,0,4,0,0,0,0,0
 Russia,Towed Artillery,257,5,97,58,417,2024-10-30,0,0,0,1,1,0,0,0,0,0
@@ -660,6 +666,7 @@ Ukraine,All Types,5494,391,1171,552,7608,2025-01-22,31,8,4,1,44,0,0,0,0,0
 Ukraine,All Types,5507,397,1174,553,7631,2025-01-25,13,6,3,1,23,0,0,0,0,0
 Ukraine,All Types,5552,411,1179,553,7695,2025-01-31,45,14,5,0,64,0,0,0,0,0
 Ukraine,All Types,5559,411,1179,553,7702,2025-02-02,7,0,0,0,7,0,0,0,0,0
+Ukraine,All Types,5564,411,1180,553,7708,2025-02-03,5,0,1,0,6,0,0,0,0,0
 Ukraine,Anti-Aircraft Guns,0,0,4,0,4,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Ukraine,Armoured Fighting Vehicles,291,10,84,15,400,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Ukraine,Armoured Fighting Vehicles,294,11,84,15,404,2024-10-02,3,1,0,0,4,0,0,0,0,0
@@ -781,6 +788,7 @@ Ukraine,Infantry Fighting Vehicles,867,108,137,61,1173,2025-01-22,7,4,0,0,11,0,0
 Ukraine,Infantry Fighting Vehicles,867,108,137,62,1174,2025-01-25,0,0,0,1,1,0,0,0,0,0
 Ukraine,Infantry Fighting Vehicles,878,112,137,62,1189,2025-01-31,11,4,0,0,15,0,0,0,0,0
 Ukraine,Infantry Fighting Vehicles,881,112,137,62,1192,2025-02-02,3,0,0,0,3,0,0,0,0,0
+Ukraine,Infantry Fighting Vehicles,881,112,138,62,1193,2025-02-03,0,0,1,0,1,0,0,0,0,0
 Ukraine,Infantry Mobility Vehicles,372,25,128,40,565,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Ukraine,Infantry Mobility Vehicles,375,27,129,40,571,2024-10-02,3,2,1,0,6,0,0,0,0,0
 Ukraine,Infantry Mobility Vehicles,382,27,129,40,578,2024-10-06,7,0,0,0,7,0,0,0,0,0
@@ -812,6 +820,7 @@ Ukraine,Infantry Mobility Vehicles,479,44,140,42,705,2025-01-22,3,1,1,0,5,0,0,0,
 Ukraine,Infantry Mobility Vehicles,483,45,141,42,711,2025-01-25,4,1,1,0,6,0,0,0,0,0
 Ukraine,Infantry Mobility Vehicles,485,46,141,42,714,2025-01-31,2,1,0,0,3,0,0,0,0,0
 Ukraine,Infantry Mobility Vehicles,486,47,141,42,716,2025-02-02,1,1,0,0,2,0,0,0,0,0
+Ukraine,Infantry Mobility Vehicles,490,47,141,42,720,2025-02-03,4,0,0,0,4,0,0,0,0,0
 Ukraine,Jammers And Deception Systems,4,0,1,2,7,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Ukraine,Jammers And Deception Systems,5,0,1,2,8,2025-01-19,1,0,0,0,1,0,0,0,0,0
 Ukraine,"Losses excluding Recon Drones and Trucks - 5302, of which: destroyed: 3750, damaged: 505, abandoned: 283, captured: 764",3750,283,764,505,5302,2024-09-30,0,0,0,0,0,0,0,0,0,0
@@ -847,6 +856,7 @@ Ukraine,"Losses excluding Recon Drones and Trucks - 6096, of which: destroyed: 4
 Ukraine,"Losses excluding Recon Drones and Trucks - 6118, of which: destroyed: 4389, damaged: 521, abandoned: 381, captured: 827",4389,381,827,521,6118,2025-01-25,0,0,0,0,0,0,0,0,0,0
 Ukraine,"Losses excluding Recon Drones and Trucks - 6177, of which: destroyed: 4431, damaged: 521, abandoned: 395, captured: 830",4431,395,830,521,6177,2025-01-31,0,0,0,0,0,0,0,0,0,0
 Ukraine,"Losses excluding Recon Drones and Trucks - 6183, of which: destroyed: 4437, damaged: 520, abandoned: 396, captured: 830",4437,396,830,520,6183,2025-02-02,0,0,0,0,0,0,0,0,0,0
+Ukraine,"Losses excluding Recon Drones and Trucks - 6189, of which: destroyed: 4442, damaged: 520, abandoned: 396, captured: 831",4442,396,831,520,6189,2025-02-03,0,0,0,0,0,0,0,0,0,0
 Ukraine,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 3222, of which: destroyed: 2282, damaged: 219, abandoned: 243, captured: 478",2282,243,478,219,3222,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Ukraine,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 3239, of which: destroyed: 2295, damaged: 219, abandoned: 246, captured: 479",2295,246,479,219,3239,2024-10-02,0,0,0,0,0,0,0,0,0,0
 Ukraine,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 3252, of which: destroyed: 2303, damaged: 219, abandoned: 250, captured: 480",2303,250,480,219,3252,2024-10-06,0,0,0,0,0,0,0,0,0,0
@@ -880,6 +890,7 @@ Ukraine,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]
 Ukraine,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 3794, of which: destroyed: 2725, damaged: 229, abandoned: 315, captured: 525",2725,315,525,229,3794,2025-01-25,0,0,0,0,0,0,0,0,0,0
 Ukraine,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 3843, of which: destroyed: 2759, damaged: 229, abandoned: 327, captured: 528",2759,327,528,229,3843,2025-01-31,0,0,0,0,0,0,0,0,0,0
 Ukraine,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 3847, of which: destroyed: 2764, damaged: 229, abandoned: 326, captured: 528",2764,326,528,229,3847,2025-02-02,0,0,0,0,0,0,0,0,0,0
+Ukraine,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 3849, of which: destroyed: 2765, damaged: 229, abandoned: 326, captured: 529",2765,326,529,229,3849,2025-02-03,0,0,0,0,0,0,0,0,0,0
 Ukraine,Mine-Resistant Ambush Protected,209,21,21,37,288,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Ukraine,Mine-Resistant Ambush Protected,211,22,22,37,292,2024-10-02,2,1,1,0,4,0,0,0,0,0
 Ukraine,Mine-Resistant Ambush Protected,210,22,23,37,292,2024-10-06,-1,0,1,0,0,0,0,0,0,0
@@ -914,6 +925,7 @@ Ukraine,Mine-Resistant Ambush Protected,288,32,41,38,399,2025-01-19,2,1,1,0,4,0,
 Ukraine,Mine-Resistant Ambush Protected,290,32,42,38,402,2025-01-22,2,0,1,0,3,0,0,0,0,0
 Ukraine,Mine-Resistant Ambush Protected,292,32,42,38,404,2025-01-25,2,0,0,0,2,0,0,0,0,0
 Ukraine,Mine-Resistant Ambush Protected,294,33,42,38,407,2025-01-31,2,1,0,0,3,0,0,0,0,0
+Ukraine,Mine-Resistant Ambush Protected,295,33,42,38,408,2025-02-03,1,0,0,0,1,0,0,0,0,0
 Ukraine,Multiple Rocket Launchers,53,0,9,16,78,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Ukraine,Multiple Rocket Launchers,54,0,9,16,79,2024-10-22,1,0,0,0,1,0,0,0,0,0
 Ukraine,Multiple Rocket Launchers,54,0,9,17,80,2024-11-23,0,0,0,1,1,0,0,0,0,0
