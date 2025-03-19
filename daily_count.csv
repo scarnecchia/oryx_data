@@ -313,6 +313,7 @@ Russia,Engineering Vehicles And Equipment,366,57,154,45,622,2025-01-31,2,1,0,0,3
 Russia,Engineering Vehicles And Equipment,367,57,154,45,623,2025-02-11,1,0,0,0,1,0,0,0,0,0
 Russia,Engineering Vehicles And Equipment,368,57,154,45,624,2025-02-21,1,0,0,0,1,0,0,0,0,0
 Russia,Engineering Vehicles And Equipment,368,58,154,45,625,2025-02-23,0,1,0,0,1,0,0,0,0,0
+Russia,Engineering Vehicles And Equipment,369,58,154,45,626,2025-03-19,1,0,0,0,1,0,0,0,0,0
 Russia,Helicopters,113,0,2,30,145,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Russia,Helicopters,114,0,2,30,146,2024-10-22,1,0,0,0,1,0,0,0,0,0
 Russia,Helicopters,115,0,2,30,147,2024-11-11,1,0,0,0,1,0,0,0,0,0
@@ -856,6 +857,7 @@ Ukraine,Armoured Personnel Carriers,532,94,127,36,789,2025-02-23,2,0,0,0,2,0,0,0
 Ukraine,Armoured Personnel Carriers,534,96,127,36,793,2025-02-24,2,2,0,0,4,0,0,0,0,0
 Ukraine,Armoured Personnel Carriers,537,96,127,36,796,2025-02-27,3,0,0,0,3,0,0,0,0,0
 Ukraine,Armoured Personnel Carriers,543,96,127,36,802,2025-03-02,6,0,0,0,6,0,0,0,0,0
+Ukraine,Armoured Personnel Carriers,541,96,127,36,800,2025-03-19,-2,0,0,0,-2,0,0,0,0,0
 Ukraine,Artillery Support Vehicles And Equipment,13,0,13,0,26,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Ukraine,Artillery Support Vehicles And Equipment,14,0,13,0,27,2025-01-13,1,0,0,0,1,0,0,0,0,0
 Ukraine,Artillery Support Vehicles And Equipment,15,0,13,0,28,2025-03-15,1,0,0,0,1,0,0,0,0,0
@@ -1234,6 +1236,7 @@ Ukraine,Tanks,774,86,140,79,1079,2025-02-23,1,0,0,0,1,0,0,0,0,0
 Ukraine,Tanks,775,86,140,79,1080,2025-02-24,1,0,0,0,1,0,0,0,0,0
 Ukraine,Tanks,780,86,140,79,1085,2025-02-27,5,0,0,0,5,0,0,0,0,0
 Ukraine,Tanks,786,87,140,79,1092,2025-03-02,6,1,0,0,7,0,0,0,0,0
+Ukraine,Tanks,785,87,140,79,1091,2025-03-19,-1,0,0,0,-1,0,0,0,0,0
 Ukraine,Towed Artillery,129,2,18,75,224,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Ukraine,Towed Artillery,132,2,18,75,227,2024-10-22,3,0,0,0,3,0,0,0,0,0
 Ukraine,Towed Artillery,133,2,18,75,228,2024-12-03,1,0,0,0,1,0,0,0,0,0
