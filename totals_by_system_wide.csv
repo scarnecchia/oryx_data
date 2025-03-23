@@ -99,6 +99,7 @@ Russia,1 KamAZ Patrol,1,0,0,0,1
 Russia,1 KamAZ tank low-loader,1,0,0,0,1
 Russia,1 KamAZ-395800 'Gorets',1,0,0,0,1
 Russia,1 KamAZ-4385,1,0,0,0,1
+Russia,1 KamAZ-53949 'Typhoon-K' with 5ETs16U 'Okhotnik',1,0,0,0,1
 Russia,1 KamAZ-63501 with KS-55729-7M 32-ton crane,1,0,0,0,1
 Russia,1 KamAZ-65117,1,0,0,0,1
 Russia,1 KamAZ-65221-22,1,0,0,0,1
@@ -2677,6 +2678,7 @@ Russia,316 BTR-82AT,10,0,0,0,10
 Russia,316 T-72B3,0,0,1,1,2
 Russia,316 Unknown tank,1,0,0,0,1
 Russia,317 BMP-1(P),3,0,0,0,3
+Russia,317 BTR-82AT,1,0,0,0,1
 Russia,317 T-72B3,3,0,0,0,3
 Russia,318 T-72B3,1,0,0,0,1
 Russia,319 BMP-1(P),7,0,0,0,7
@@ -4604,6 +4606,7 @@ Russia,85 152mm 2A65 Msta-B howitzer,1,0,0,0,1
 Russia,85 152mm 2S3(M) Akatsiya,1,0,0,0,1
 Russia,85 BTR-80,0,1,0,0,1
 Russia,85 T-72B Obr. 1989,1,0,0,0,1
+Russia,85 T-80BV Obr. 2022,1,0,0,0,1
 Russia,85 T-80U,0,1,0,0,1
 Russia,85 UAZ-452 van,1,0,0,0,1
 Russia,85 Unknown BMP-1/2,2,0,0,0,2
@@ -5187,9 +5190,9 @@ Russia,T-72B3,127,92,13,18,250
 Russia,T-72B3 Obr. 2016,216,137,17,33,403
 Russia,T-72B3 Obr. 2022,59,4,12,12,87
 Russia,T-72BA,0,3,0,0,3
-Russia,T-80BV,323,21,68,58,470
+Russia,T-80BV,324,21,68,58,471
 Russia,T-80BVM,17,22,1,2,42
-Russia,T-80BVM Obr. 2022,40,5,6,7,58
+Russia,T-80BVM Obr. 2022,41,5,6,7,59
 Russia,T-80U,34,43,18,5,100
 Russia,T-80UE-1,1,1,0,0,2
 Russia,T-80UE1,0,1,0,0,1
