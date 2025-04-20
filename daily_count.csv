@@ -200,6 +200,7 @@ Russia,All Types,16000,1154,3037,880,21071,2025-04-08,71,6,11,1,89,0,0,0,0,0
 Russia,All Types,16053,1156,3038,881,21128,2025-04-11,53,2,1,1,57,0,0,0,0,0
 Russia,All Types,16117,1158,3040,884,21199,2025-04-13,64,2,2,3,71,0,0,0,0,0
 Russia,All Types,16238,1159,3042,886,21325,2025-04-17,121,1,2,2,126,0,0,0,0,0
+Russia,All Types,16286,1160,3042,886,21374,2025-04-20,48,1,0,0,49,0,0,0,0,0
 Russia,Anti-Aircraft Guns,34,0,18,1,53,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Russia,Anti-Aircraft Guns,35,0,18,1,54,2024-10-06,1,0,0,0,1,0,0,0,0,0
 Russia,Anti-Aircraft Guns,36,0,18,1,55,2024-10-09,1,0,0,0,1,0,0,0,0,0
@@ -266,6 +267,7 @@ Russia,Armoured Fighting Vehicles,1604,115,273,36,2028,2025-04-10,9,1,0,0,10,0,0
 Russia,Armoured Fighting Vehicles,1607,112,273,36,2028,2025-04-11,3,-3,0,0,0,0,0,0,0,0
 Russia,Armoured Fighting Vehicles,1615,112,273,36,2036,2025-04-13,8,0,0,0,8,0,0,0,0,0
 Russia,Armoured Fighting Vehicles,1637,113,273,36,2059,2025-04-17,22,1,0,0,23,0,0,0,0,0
+Russia,Armoured Fighting Vehicles,1647,112,273,36,2068,2025-04-20,10,-1,0,0,9,0,0,0,0,0
 Russia,Armoured Personnel Carriers,346,37,92,18,493,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Russia,Armoured Personnel Carriers,350,37,92,18,497,2024-10-03,4,0,0,0,4,0,0,0,0,0
 Russia,Armoured Personnel Carriers,353,37,92,18,500,2024-10-06,3,0,0,0,3,0,0,0,0,0
@@ -429,6 +431,7 @@ Russia,Infantry Fighting Vehicles,4477,461,629,153,5720,2025-04-08,2,0,0,0,2,0,0
 Russia,Infantry Fighting Vehicles,4492,462,629,154,5737,2025-04-10,15,1,0,1,17,0,0,0,0,0
 Russia,Infantry Fighting Vehicles,4512,463,629,154,5758,2025-04-13,20,1,0,0,21,0,0,0,0,0
 Russia,Infantry Fighting Vehicles,4568,465,629,154,5816,2025-04-17,56,2,0,0,58,0,0,0,0,0
+Russia,Infantry Fighting Vehicles,4586,467,629,154,5836,2025-04-20,18,2,0,0,20,0,0,0,0,0
 Russia,Infantry Mobility Vehicles,215,3,54,16,288,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Russia,Infantry Mobility Vehicles,216,3,54,16,289,2024-10-03,1,0,0,0,1,0,0,0,0,0
 Russia,Infantry Mobility Vehicles,217,3,54,16,290,2024-10-06,1,0,0,0,1,0,0,0,0,0
@@ -473,11 +476,13 @@ Russia,Infantry Mobility Vehicles,285,11,51,18,365,2025-03-30,3,0,0,0,3,0,0,0,0,
 Russia,Infantry Mobility Vehicles,284,12,51,18,365,2025-04-10,-1,1,0,0,0,0,0,0,0,0
 Russia,Infantry Mobility Vehicles,285,12,50,18,365,2025-04-11,1,0,-1,0,0,0,0,0,0,0
 Russia,Infantry Mobility Vehicles,287,12,50,18,367,2025-04-13,2,0,0,0,2,0,0,0,0,0
+Russia,Infantry Mobility Vehicles,288,12,50,18,368,2025-04-20,1,0,0,0,1,0,0,0,0,0
 Russia,Jammers And Deception Systems,63,0,9,12,84,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Russia,Jammers And Deception Systems,64,0,9,12,85,2024-10-24,1,0,0,0,1,0,0,0,0,0
 Russia,Jammers And Deception Systems,65,0,9,12,86,2024-11-17,1,0,0,0,1,0,0,0,0,0
 Russia,Jammers And Deception Systems,66,0,9,12,87,2025-01-07,1,0,0,0,1,0,0,0,0,0
 Russia,Jammers And Deception Systems,67,0,9,12,88,2025-03-27,1,0,0,0,1,0,0,0,0,0
+Russia,Jammers And Deception Systems,68,0,9,12,89,2025-04-20,1,0,0,0,1,0,0,0,0,0
 Russia,"Losses excluding Recon Drones and Trucks - 14057, of which: destroyed: 10158, damaged: 708, abandoned: 962, captured: 2229",10158,962,2229,708,14057,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Russia,"Losses excluding Recon Drones and Trucks - 14103, of which: destroyed: 10195, damaged: 708, abandoned: 970, captured: 2230",10195,970,2230,708,14103,2024-10-03,0,0,0,0,0,0,0,0,0,0
 Russia,"Losses excluding Recon Drones and Trucks - 14144, of which: destroyed: 10234, damaged: 709, abandoned: 971, captured: 2230",10234,971,2230,709,14144,2024-10-06,0,0,0,0,0,0,0,0,0,0
@@ -532,6 +537,7 @@ Russia,"Losses excluding Recon Drones and Trucks - 16561, of which: destroyed: 1
 Russia,"Losses excluding Recon Drones and Trucks - 16612, of which: destroyed: 12491, damaged: 779, abandoned: 1103, captured: 2239",12491,1103,2239,779,16612,2025-04-11,0,0,0,0,0,0,0,0,0,0
 Russia,"Losses excluding Recon Drones and Trucks - 16673, of which: destroyed: 12549, damaged: 780, abandoned: 1105, captured: 2239",12549,1105,2239,780,16673,2025-04-13,0,0,0,0,0,0,0,0,0,0
 Russia,"Losses excluding Recon Drones and Trucks - 16783, of which: destroyed: 12656, damaged: 782, abandoned: 1106, captured: 2239",12656,1106,2239,782,16783,2025-04-17,0,0,0,0,0,0,0,0,0,0
+Russia,"Losses excluding Recon Drones and Trucks - 16825, of which: destroyed: 12697, damaged: 782, abandoned: 1107, captured: 2239",12697,1107,2239,782,16825,2025-04-20,0,0,0,0,0,0,0,0,0,0
 Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 10219, of which: destroyed: 7442, damaged: 365, abandoned: 884, captured: 1528",7442,884,1528,365,10219,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 10262, of which: destroyed: 7476, damaged: 365, abandoned: 892, captured: 1529",7476,892,1529,365,10262,2024-10-03,0,0,0,0,0,0,0,0,0,0
 Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 10297, of which: destroyed: 7509, damaged: 366, abandoned: 893, captured: 1529",7509,893,1529,366,10297,2024-10-06,0,0,0,0,0,0,0,0,0,0
@@ -586,6 +592,7 @@ Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] 
 Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 12347, of which: destroyed: 9430, damaged: 371, abandoned: 1006, captured: 1540",9430,1006,1540,371,12347,2025-04-11,0,0,0,0,0,0,0,0,0,0
 Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 12397, of which: destroyed: 9478, damaged: 371, abandoned: 1008, captured: 1540",9478,1008,1540,371,12397,2025-04-13,0,0,0,0,0,0,0,0,0,0
 Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 12491, of which: destroyed: 9571, damaged: 371, abandoned: 1009, captured: 1540",9571,1009,1540,371,12491,2025-04-17,0,0,0,0,0,0,0,0,0,0
+Russia,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs] - 12530, of which: destroyed: 9609, damaged: 371, abandoned: 1010, captured: 1540",9609,1010,1540,371,12530,2025-04-20,0,0,0,0,0,0,0,0,0,0
 Russia,Mine-Resistant Ambush Protected,39,1,11,5,56,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Russia,Mine-Resistant Ambush Protected,40,1,11,5,57,2025-03-24,1,0,0,0,1,0,0,0,0,0
 Russia,Mine-Resistant Ambush Protected,43,1,11,5,60,2025-04-10,3,0,0,0,3,0,0,0,0,0
@@ -620,6 +627,7 @@ Russia,Multiple Rocket Launchers,380,2,54,43,479,2025-03-30,1,0,0,1,2,0,0,0,0,0
 Russia,Multiple Rocket Launchers,381,2,54,43,480,2025-04-07,1,0,0,0,1,0,0,0,0,0
 Russia,Multiple Rocket Launchers,382,2,54,43,481,2025-04-13,1,0,0,0,1,0,0,0,0,0
 Russia,Multiple Rocket Launchers,383,2,54,43,482,2025-04-17,1,0,0,0,1,0,0,0,0,0
+Russia,Multiple Rocket Launchers,384,2,54,43,483,2025-04-20,1,0,0,0,1,0,0,0,0,0
 Russia,Naval Ships and Submarines,21,0,0,7,28,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Russia,Radars,49,0,10,22,81,2024-09-30,0,0,0,0,0,0,0,0,0,0
 Russia,Radars,50,0,10,22,82,2024-10-22,1,0,0,0,1,0,0,0,0,0
@@ -676,6 +684,7 @@ Russia,Reconnaissance Unmanned Aerial Vehicles,387,1,215,0,603,2025-04-08,1,0,0,
 Russia,Reconnaissance Unmanned Aerial Vehicles,387,1,217,0,605,2025-04-10,0,0,2,0,2,0,0,0,0,0
 Russia,Reconnaissance Unmanned Aerial Vehicles,388,1,219,0,608,2025-04-13,1,0,2,0,3,0,0,0,0,0
 Russia,Reconnaissance Unmanned Aerial Vehicles,389,1,221,0,611,2025-04-17,1,0,2,0,3,0,0,0,0,0
+Russia,Reconnaissance Unmanned Aerial Vehicles,392,1,221,0,614,2025-04-20,3,0,0,0,3,0,0,0,0,0
 Russia,Self-Propelled Anti-Aircraft Guns,16,2,7,2,27,2025-03-21,0,0,0,0,0,0,0,0,0,0
 Russia,Self-Propelled Anti-Tank Missile Systems,21,4,20,1,46,2025-03-21,0,0,0,0,0,0,0,0,0,0
 Russia,Self-Propelled Artillery,734,7,109,48,898,2025-03-21,0,0,0,0,0,0,0,0,0,0
@@ -687,6 +696,7 @@ Russia,Self-Propelled Artillery,742,7,109,49,907,2025-04-07,3,0,0,0,3,0,0,0,0,0
 Russia,Self-Propelled Artillery,744,7,109,49,909,2025-04-10,2,0,0,0,2,0,0,0,0,0
 Russia,Self-Propelled Artillery,747,7,109,49,912,2025-04-13,3,0,0,0,3,0,0,0,0,0
 Russia,Self-Propelled Artillery,752,7,109,49,917,2025-04-17,5,0,0,0,5,0,0,0,0,0
+Russia,Self-Propelled Artillery,751,7,109,49,916,2025-04-20,-1,0,0,0,-1,0,0,0,0,0
 Russia,Surface-To-Air Missile Systems,227,4,24,53,308,2025-03-21,0,0,0,0,0,0,0,0,0,0
 Russia,Surface-To-Air Missile Systems,228,4,24,54,310,2025-03-24,1,0,0,1,2,0,0,0,0,0
 Russia,Surface-To-Air Missile Systems,229,4,24,54,311,2025-04-07,1,0,0,0,1,0,0,0,0,0
@@ -694,6 +704,7 @@ Russia,Surface-To-Air Missile Systems,230,4,24,54,312,2025-04-08,1,0,0,0,1,0,0,0
 Russia,Surface-To-Air Missile Systems,231,4,24,54,313,2025-04-10,1,0,0,0,1,0,0,0,0,0
 Russia,Surface-To-Air Missile Systems,233,4,24,54,315,2025-04-13,2,0,0,0,2,0,0,0,0,0
 Russia,Surface-To-Air Missile Systems,237,4,24,54,319,2025-04-17,4,0,0,0,4,0,0,0,0,0
+Russia,Surface-To-Air Missile Systems,238,4,24,54,320,2025-04-20,1,0,0,0,1,0,0,0,0,0
 Russia,Tanks,2737,384,533,158,3812,2025-03-21,0,0,0,0,0,0,0,0,0,0
 Russia,Tanks,2746,384,533,158,3821,2025-03-24,9,0,0,0,9,0,0,0,0,0
 Russia,Tanks,2753,384,533,159,3829,2025-03-27,7,0,0,1,8,0,0,0,0,0
@@ -707,6 +718,7 @@ Russia,Tanks,2805,389,533,158,3885,2025-04-11,-5,0,0,0,-5,0,0,0,0,0
 Russia,Tanks,2822,390,533,158,3903,2025-04-13,17,1,0,0,18,0,0,0,0,0
 Russia,Tanks,2838,388,533,158,3917,2025-04-17,16,-2,0,0,14,0,0,0,0,0
 Russia,Tanks,2849,388,533,158,3928,2025-04-19,11,0,0,0,11,0,0,0,0,0
+Russia,Tanks,2847,388,533,158,3926,2025-04-20,-2,0,0,0,-2,0,0,0,0,0
 Russia,Towed Artillery,264,5,98,91,458,2025-03-21,0,0,0,0,0,0,0,0,0,0
 Russia,Towed Artillery,266,5,98,91,460,2025-03-27,2,0,0,0,2,0,0,0,0,0
 Russia,Towed Artillery,268,5,98,91,462,2025-04-07,2,0,0,0,2,0,0,0,0,0
@@ -722,6 +734,7 @@ Russia,"Trucks, Vehicles, and Jeeps",3171,52,582,102,3907,2025-04-07,-15,0,0,-1,
 Russia,"Trucks, Vehicles, and Jeeps",3175,52,582,102,3911,2025-04-10,4,0,0,0,4,0,0,0,0,0
 Russia,"Trucks, Vehicles, and Jeeps",3180,52,582,104,3918,2025-04-13,5,0,0,2,7,0,0,0,0,0
 Russia,"Trucks, Vehicles, and Jeeps",3193,52,582,104,3931,2025-04-17,13,0,0,0,13,0,0,0,0,0
+Russia,"Trucks, Vehicles, and Jeeps",3197,52,582,104,3935,2025-04-20,4,0,0,0,4,0,0,0,0,0
 Russia,Unmanned Combat Aerial Vehicles,14,0,3,1,18,2025-03-21,0,0,0,0,0,0,0,0,0,0
 Russia,Unmanned Ground Vehicles,5,0,0,0,5,2025-03-21,0,0,0,0,0,0,0,0,0,0
 Ukraine,Aircraft,100,0,1,4,105,2025-03-21,0,0,0,0,0,0,0,0,0,0
